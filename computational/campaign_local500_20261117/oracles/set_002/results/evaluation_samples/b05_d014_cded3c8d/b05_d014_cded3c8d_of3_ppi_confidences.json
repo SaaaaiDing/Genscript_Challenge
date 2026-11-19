@@ -1,0 +1,22 @@
+{
+  "overall_plddt": 78.25999999999999,
+  "overall_pae": 20.5777,
+  "overall_ptm": 44.0,
+  "overall_iptm": 10.0,
+  "ranking_score": 0.17,
+  "fraction_disordered": 0.01,
+  "has_clash": 0.0,
+  "min_ipae_H_1_L_1": 21.005,
+  "min_ipae_H_1_T_1": 24.72,
+  "min_ipae_L_1_T_1": 28.23,
+  "iptm_H_1_L_1": 11.0,
+  "iptm_H_1_T_1": 6.0,
+  "iptm_L_1_T_1": 5.0,
+  "plddt_coi": 75.48,
+  "ptm_coi": 85.0,
+  "pae_coi": 4.8468,
+  "ipae_coi": 27.892425000000003,
+  "min_ipae_coi": 21.005,
+  "iptm_coi": 8.5,
+  "chain_of_interest": "H_1"
+}

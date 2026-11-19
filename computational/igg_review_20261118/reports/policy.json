@@ -1,0 +1,24 @@
+{
+  "inherited": "Keep combined1000 v1 geometry, glycan clearance, sequence uniqueness and IL4RA novelty criteria.",
+  "additional_hard_checks": [
+    "complete IMGT VH and kappa VL",
+    "unchanged generic framework",
+    "CDRs match generated annotations",
+    "two conserved cysteines per variable chain",
+    "no full-variable N-X-S/T sequon",
+    "no Fv H/L heavy-atom clash below 2 A",
+    "intrachain Fv SG distances 1.5-3 A",
+    "no target clash below 2 A with rigid 5I19 Fab constants",
+    "no six-CDR>=0.8 AND H3>=0.8 similarity to any numbered therapeutic reference pair"
+  ],
+  "additional_conservative_heuristics": [
+    "no CDR hydrophobic run >=5 from AVILMFWY",
+    "absolute CDR K+R-D-E <=6"
+  ],
+  "soft_tiers": "Tier 0: no CDR N[GS]/D[GS]. Tier 1: motif-bearing candidates admitted only after diverse tier-0 pool is exhausted; flags retained, no sequence edits.",
+  "ranking": "Within tier: condition round-robin; CDR contact fraction descending, CDR contact count descending, chemical motif count ascending, framework RMSD ascending, glycan clearance descending, ID.",
+  "diversity": "six-CDR normalized Levenshtein similarity <0.8 across all selected 40",
+  "oracle": "No veto/reward due failed positive-control calibration; retain original pass labels and all evidence.",
+  "assembly": "Exact official Human IgG1 + Human Ig Kappa constants; H2L2 connectivity sequence audit. No claim of full IgG 3D prediction.",
+  "novelty": "Only local frozen therapeutic reference snapshot, not exhaustive novelty or patent clearance."
+}

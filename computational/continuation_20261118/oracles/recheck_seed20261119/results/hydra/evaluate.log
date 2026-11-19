@@ -1,0 +1,27 @@
+[2026-11-18 06:31:34,472][rfproteina.evaluate][WARNING] - [rank: 0] No task_csv provided; all structures will be assigned task='all'
+[2026-11-18 06:31:34,477][rfproteina.utils.logging][INFO] - [rank: 0] 
+       Validation Metrics       
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃       Name ┃            Type ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│ oracle_ppi │ PairedAF3Oracle │
+└────────────┴─────────────────┘
+
+[2026-11-18 06:31:34,488][rfproteina.utils.logging][INFO] - [rank: 0] 
+                      Validation Metrics                       
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                            Name ┃                      Type ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ target_aligned_fv_backbone_rmsd │ StructureComparisonMetric │
+│ target_aligned_vh_backbone_rmsd │ StructureComparisonMetric │
+│ target_aligned_vl_backbone_rmsd │ StructureComparisonMetric │
+└─────────────────────────────────┴───────────────────────────┘
+
+[2026-11-18 06:31:37,769][rfproteina.utils.chain][WARNING] - [rank: 0] Could not unambiguously determine chain of interest; defaulting to first chain in sorted order.
+[2026-11-18 06:31:38,241][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra_continue_57427235/o.sock (timeout=1.0h)
+[2026-11-18 06:32:23,951][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra_continue_57427235/o.sock (timeout=1.0h)
+[2026-11-18 06:32:42,014][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra_continue_57427235/o.sock (timeout=1.0h)
+[2026-11-18 06:33:00,270][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra_continue_57427235/o.sock (timeout=1.0h)
+[2026-11-18 06:33:18,071][rfproteina.utils.chain][WARNING] - [rank: 0] Could not unambiguously determine chain of interest; defaulting to first chain in sorted order.
+[2026-11-18 06:33:18,265][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra_continue_57427235/o.sock (timeout=1.0h)
+[2026-11-18 06:33:35,504][rfproteina.utils.chain][WARNING] - [rank: 0] Could not unambiguously determine chain of interest; defaulting to first chain in sorted order.

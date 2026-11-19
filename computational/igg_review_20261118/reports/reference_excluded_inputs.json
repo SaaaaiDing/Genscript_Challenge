@@ -1,0 +1,5117 @@
+[
+  {
+    "name": "Abagovomab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Abazistobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Abciximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Abelacimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Abiprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Abituzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Abrezekimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Abrilumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Acrixolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Actoxumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Adakitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Adalimumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Adebrelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Adecatumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Adezkibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Adimanebart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Adintrevimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Aducanumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Afasevikumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Afimkibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Alacizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Alcestobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Aldastotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Alemtuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Aletekitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Alextatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Alirocumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Alomfilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Alpitatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Alsevalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Amatuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Amdokitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Amtabafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Amlenetug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Amlitelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Amrecibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Amubarvimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Amulirafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Andecaliximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Anetumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Anifrolumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Anivovetmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Anrukinzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Anselamimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ansipastobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ansuvimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Anumigilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Anvatabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Anzurstobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Apamistamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Apitegromab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Aplitabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Aprutumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Arcitumomab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Armocibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ascrinvacumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Aselizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Astegolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Atenastobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Atezolizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Atibuclimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Atidortoxumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Atigotatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Atinumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Atisnolerbart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Atoltivimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Avdoralimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Avelumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Avitotamig",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Avizakimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Axatilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Azintuxizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Azirkitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Balertatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Balonkibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Balstilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bamlanivimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bapineuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bapotulimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Barecetamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Barzolvolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Basiliximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Batoclimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bavituximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bebtelovimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Becotatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bedinvetmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Befovacimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Begelomab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Belantamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Belimumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Belrestotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Beludavimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bemarituzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bempikibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Benmelstobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Benralizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bentracimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Benufutamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bepranemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Berlimatoxumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bermekimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bersanlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Betinukibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Betifisolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bevacizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bexmarilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bezetabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bezlotoxumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bifikafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bimagrumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bimekizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bintrafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Birinkibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Birtamimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bleselumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Blontuvetmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Blosozumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bococizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bocunebart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bosakitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Boserolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Botensilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Brazikumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bremzalerbart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Brenetafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Brentuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Briakinumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Briquilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Brivekimig1",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Brivekimig1",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Brivekimig2",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Brivekimig2",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Brivestobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Brodalumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Brolucizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Brontictuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Budigalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Budoprutug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Bulumtatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Burfiralimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Burosumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cabiralizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cafelkibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Calpurbatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Calotatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Camidanlumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Camoteskimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Camrelizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Canakinumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Canrivitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cantuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Caplacizumab",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Caplacizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Carlumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Carotuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Casdozokitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Caxmotabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cemavafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cemiplimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cendakimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cenvacibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cenzestotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cepeprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cergutuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Certolizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cetrelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cetuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cifurtilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ciletatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cilgavimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ciltistotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cinpanemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cinrebafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cirevetmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Citatuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cixutumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Claseprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Clazakizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Clervonafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Clesrovimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cliramitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Clivatuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cobolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Codrituzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cofetuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Coltuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Comekibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Conatumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Concizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Coprelotamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Coramitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cosfroviximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cosibelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Crebankitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Crefmirlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Crenezumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Crexavibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Crizanlizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Crotedumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Crovalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Crusekitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cudarolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Cusatuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dacetuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Daclizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dafsolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dalidnetug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dalnicastobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dalotuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dalutrafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Danburstotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dapirolizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Daratumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Daretabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dargistotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Datopotamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Daxdilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dazukibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dectrekumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Delpacibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Demcizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Demupitamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Denikitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Denintuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Denosumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Denrakibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Depatuxizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Depemokimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Derlotuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Devextinetug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dezamizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dibotatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dinutuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Diridavumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Disitamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Divozilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Docaravimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Domagrozumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Domvanalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Donanemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Donitabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Donzakimig2",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dostarlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dovanvetmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dresbuxelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Drotokibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Drozitumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Duligotuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dupilumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Durvalumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Dusigitumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Duvakitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ebdarokimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Eblasakimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ebrasodebart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ebribafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ebronucimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Eciskafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ecleralimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Eclutatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ecromeximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Eculizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Edrecolomab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Efalizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Efungumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Eglatoprutug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Eldelumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Elegrobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Elezanumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Elgemtumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Elipovimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Elotuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Eltivutabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Eltrekibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Emactuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Emapalumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Emibetuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Emiltatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Empasiprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Emugrobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Emunkitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Enapotamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Enavatuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Encelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Enfortumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Englumafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Enibarcimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Enlonstobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Enoblituzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Enokizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Enoticumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Enristomig",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Enristomig",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ensituximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Enuzovimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Envafolimab",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Envafolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Enzelkitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Epacmarstobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Epratuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Eptinezumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Eramkafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Erenumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Erfonrilimab",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Erfonrilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Erlizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ersodetug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Erzotabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Etakafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Etalanetug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Etaracizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Etesevimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Etigilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Etokimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Etrolizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Eurestobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Evalstotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Evinacumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Evolocumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Evunzekibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Exbivirumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Exerenibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Exidavnemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Exlinkibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ezabenlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Falbikitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Farletuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Fasinumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Favezelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Feladilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Felmetatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Felzartamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Fepixnebart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Fezakinumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Fianlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ficerafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ficlatuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Figitumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Finotonlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Firastotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Firivumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Firsekibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Fiztasovimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Flanvotumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Fletikumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Fontolizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Foralumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Foravirumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Fremanezumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Freneslerbart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Fresolimumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Frexalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Frovocimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Frunevetmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Fulranumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Futermestotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Futuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gacovetug",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gacovetug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Galcanezumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Galegenimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Galiximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Galvokimig2",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gancotamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ganitumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gantenerumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Garadacimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Garetatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Garetosmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Garivulimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gatipotuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gatralimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gedivumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gefurulimab",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gefurulimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gemtuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Geptanolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gevokizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Giloralimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gilvetmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gimistotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gimsilumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ginisortamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Girentuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Glembatumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Glenzocimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gocatamig1",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gocatamig2",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gocatamig2",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Golimumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Golocdacimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gontivimab",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gontivimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gorivitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gosuranemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gotistobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Greziprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Grisnilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gruticibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gulgafafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Gumokimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Guselkumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ianalumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ibalizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ibramvibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ibentatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ibritumomab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Icrucumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Idactamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Idarucizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ieramilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ifabotuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ifinatamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Iladatuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Iluzanebart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Imalumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Imaprelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Imeroprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Imgatuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Imneskibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Imsidolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Imzokitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Inclacumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Indatuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Indematug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Indenebart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Indusatumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Inebilizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Infliximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Inlecitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Inotuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Intetumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Invikafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Iparomlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ipilimumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Iratumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Isatuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Iscalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Isecarosmab",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Isecarosmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ispectamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Isuventatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Itepekimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Itolizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ivuxolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ixekizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ixotatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Izastobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Izeltabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Izenivetmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Labetuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lacnotuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lacutamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ladiratuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lampalizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lanadelumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lancastotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Landogrozumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lanerkitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Laprituximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Larcaviximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lasrekibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Latikafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Latozinemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Laventatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lebrikizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lecanemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lecankitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lemalesomab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lemzoparlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lenvervimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lenzilumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lepunafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lerdelimumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Leronlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lesabelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lesofavumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Letaplimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Letolizumab",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Letolizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Levilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lexatumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Libevitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Libivirumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Licaminlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lifastuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ligelizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ligufalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lilotomab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Linavonkibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lintuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lipustobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lirentelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lirilumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Litifilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Livmoniplimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lixudebart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lodapolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lodelcizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lofacimig",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lofacimig",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lokivetmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lomtegovimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Loncastuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lonigutamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lorukafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lorvotuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Losatuxizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lotivibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lucatumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lucorafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lulizumab",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lulizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lumiliximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lumistobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lumrotatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lumretuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lunaxafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lunlekitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lunsekimig1",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lunsekimig1",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lunsekimig2",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lunsekimig2",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lunsekimig3",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lunsekimig3",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lupartumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Lusvertikimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Luvagrobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Luveltamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Maftivimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Magrolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Manelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Manfidokimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Margetuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Maridebart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Marstacimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Masavibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Matuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mavrilimumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mavrostobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mazorelvimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mecbotamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Melredableukin",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Melrilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Metelimumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mepolizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mevonlerbart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mezagitamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mibavademab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Micvotabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Milatuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mipasetamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Miptenalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mirikizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Miromavimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mirvetuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mirzotamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Misitatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mitazalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Modakafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Modotuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Moflerafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mogamulizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Monalizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Motavizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Moxetumomab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mozistobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Murlentamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Mupadolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Muromonab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Muzastotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nadecnemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nadunolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Namilumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Naptumomab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Naratuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Narlumosbart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Narnatumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Narsoplimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Natalizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Navenibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Navivumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Naxitamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nebokitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Necitumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Negalstobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nelmastobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nelistotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nemolizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nepuvibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nesvacumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Netakimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nezutatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nimacimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nimotuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nipocalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nirsevimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nisevokitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nivisnebart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nivolumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nofazinlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nolavetbart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nurulimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Nuvustotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Oberotatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Obexelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Obiltoxaximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Obinutuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ocankitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ocaratuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ociperlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ocrelizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Odesivimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ofatumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ogalvibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Olaratumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Oleclumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Olendalizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Olintatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Olinvacimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Oloctinebart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Olokizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Omalizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Omburtamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Omectatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Omoprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Omodenbamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ompekimig2",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Onartuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Onfekafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ongericimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ontamalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ontuxizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Onvatilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Opelkibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Opicinumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Oportuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Opucolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ordesekimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Orilanolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ormutivimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Orticumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Osemitamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Osocimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Otelixizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Otilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Otlertuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Oturkibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Oxelumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ozanezumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ozekibart",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ozekibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ozoralizumab",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ozoralizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ozureprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ozuriftamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pabinafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pacibekitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pacmilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Palivizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Palverafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pamlectabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pamrevlumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Panitumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Panobacumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Paridiprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Parsatuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Patecibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pateclizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Patritumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pegrizeprument",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pelgifatamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pembrolizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pemivibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Penpulimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pepinemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Perakizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Perenostobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Peresolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pertuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pexelizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Picankibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pidilizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pimivalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pimurutamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pinatuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pivekimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Placulumab",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Placulumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Plonmarlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Plozalizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Podentamig1",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Podentamig1",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Podentamig2",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Polatuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Polzastobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ponezumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ponsegromab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Porustobart",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Porustobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Posnafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Posdinemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Potravitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pozelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Plutavimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Porgaviximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pradusinstobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Prafnosbart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Praluzatamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Prasinezumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Precemtabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Prezalumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pritoxaximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pritumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Produvofusp",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Produvofusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Prolgolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pucotenlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pulocimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pumitamig1",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pumitamig2",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Pumitamig2",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Puxitatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Quavonlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Quetmolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Quilizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Quisovalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Racotumomab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rademikibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Radretumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rafivirumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ragifilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ralpancizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Raludotatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ralzapastotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ramantamig2",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ramucirumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ranevetmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ranibizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rapaprutug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ravagalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ravulizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Recaticimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Recibokibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Refanezumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Reflocibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Regdanvimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Relatlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Relfovetmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Remternetug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Remzistotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Renvistobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Reslizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Resugosbart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Retavibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Retifanlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Retlirafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Revdofilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rezorstobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Riliprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rilogrotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rilotumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Riltovetbart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rimteravimab",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rimteravimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rinatabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rinucumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ripertamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Risankizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rituximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rivabazumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Robatumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rocatinlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Roconkibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Roledumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rolinsatamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rolistobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Romlusevimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Romosozumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rontalizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rosmantuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rosnilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rosopatamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rovalpituzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rovelizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rozanolixizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rozibafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Rulonilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ruplizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ruxoprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ruzaltatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sabatolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sabirnetug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sacituzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Samalizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Samatatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Samrotamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sarilumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sasanlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Satralizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Satumomab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Secukinumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Selicrelumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Semorinemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Semzuvolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Seniprutug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Serclutamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Seribantumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Serplulimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Setoxaximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Setrusumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sibeprenlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sifalimumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sigvotatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Siltartoxatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Siltuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Simaravibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Simlukafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Simridarlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Simtuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sintilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sipavibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sirexatamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sirtratumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sirukumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Socazolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sofituzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Solabafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Solanezumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Solnerstotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Solrikitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sonavibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sonelokimab1",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sonelokimab1",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sonelokimab2",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sonelokimab2",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sonesitatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sotiburafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sotigalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sotevtamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sotrovimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sovipostobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Spartalizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Spesolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Stamulumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Stapokibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Suciraslimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sudubrilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sugemalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Suptavumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Surovatamig",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Surzebiclimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Sutimlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Suvemcitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Suvizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Suvonstobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Suvratoxumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tabalumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tabirafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tabituximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tacatuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tadocizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tafasitamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tafolecimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tagitanlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Talacotuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Talizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tamgiblimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tamrintamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tamtuvetmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tanezumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tanruprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tarcocimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tarextumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tarperprumig",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tarperprumig",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tavolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tazlestobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tebentafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tecotabart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tegoprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Telazorlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Telikibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Telisotuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Temelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Temtokibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tenatumomab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Teneliximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Teplizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Teprotumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Teropavimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tesidolumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tesnatilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tezepelumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tifcemalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tigatuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tilavonemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tildrakizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tilogotamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tilvestamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tilrekimig2",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Timigutuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Timolumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Timcevibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tinurilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tiragolumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tirnovetmab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tislelizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tisotumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tixagevimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tixentamig",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tixestobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tizetatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tobevibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tocilizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tomaralimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tomuzotuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Toripalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Torudokimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Torvutatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tosatoxumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tovetumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tozorakimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Trabikibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tralokinumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Trastuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Traxivitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tregalizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tremelimumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Trevogrumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Trinbelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Trosunilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Trovostobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tucotuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tulisokibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tuparstobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Turenkibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tusamitamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Tuvonralimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ublituximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ucenprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ulenistamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Uliledlimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ulocuplumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ulviprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Umesolerbart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Umikibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Unasnemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Upanovimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Uprevstobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Upinitatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Urabrelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Urelumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Urtoxazumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Usilnetug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ustekinumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Utomilumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vadastuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Valanafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vamikibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vandortuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vantictumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Varisacumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Varlilumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Varokibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vatelizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vebanvibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vecantoxatug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vedolizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Veligrotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Veltuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Venanprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vensobafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vesencumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Verekitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Verenafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Verzistobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vibostolimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vilamakitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vilastobart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vilobelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vipalanebart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Visilizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vislarafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Visugromab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vixarelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vixticibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vobarilizumab",
+    "arm": "primary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vobarilizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vobramitamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vofatamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Volagidemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Volociximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vonlerolizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vopikitug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vopratelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vorsetuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vulinacimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Vunakizumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Xeligekimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Xentuzumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zadoprubart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zagotenemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zalifrelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zaltenibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zalutumumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zamerovimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zampilimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zamubafusp",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zanolimumab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zansecimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zeleciment",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zelminemab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zeluvalimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zigakibart",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Ziltivekimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zilovertamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zimberelimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zinlirvimab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zolbetuximab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zovostotug",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  },
+  {
+    "name": "Zuberitamab",
+    "arm": "secondary",
+    "reason": "missing_or_nonstandard_sequence"
+  }
+]

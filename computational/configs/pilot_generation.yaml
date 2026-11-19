@@ -1,0 +1,45 @@
+# A draft for a single paired-Fv sample, not a submission command.
+# Input and output must be supplied only after input and scheduler validation.
+defaults:
+  - inference
+  - override /recycle_strategy: medium/front_loaded
+  - override /metrics: null
+  - _self_
+
+hydra:
+  searchpath:
+    - file://${oc.env:PROJECT_ROOT}/configs
+  run:
+    dir: ${out_dir}/hydra
+
+inputs: ???
+out_dir: ${oc.env:IL4RA_RUN_DIR}
+run_name_: il4ra_paired_fv_pilot
+inference_backend: native
+hf_ckpt_path: nvidia/RFD4-Proteina
+hf_ckpt_revision: a06e2509c7033b010fc43614e9fd840303588502
+batch_size: 1
+num_replicates: 1
+num_workers: 0
+seed: 20261117
+compile_lengths: null
+prevalidate_inputs: true
+metrics_tags: []
+delete_failing_pre_oracle: false
+save_chain_of_interest: false
+compress_outputs: true
+verbose: true
+gen_njobs: 1
+eval_njobs: 1
+ncpus_: 4
+
+generation:
+  dataset:
+    sampling_transforms: null
+
+hardware:
+  ngpus_per_node_: 1
+  nnodes_: 1
+
+search:
+  checkpoints: null

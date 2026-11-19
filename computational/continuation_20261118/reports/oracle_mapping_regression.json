@@ -1,0 +1,20 @@
+{
+  "checks": [
+    {
+      "missing_atoms": 0,
+      "chain_order_swapped": true,
+      "coordinate_identity_restored": true
+    },
+    {
+      "missing_atoms": 1,
+      "chain_order_swapped": true,
+      "coordinate_identity_restored": true
+    },
+    {
+      "missing_atoms": 3,
+      "chain_order_swapped": true,
+      "coordinate_identity_restored": true
+    }
+  ],
+  "upstream_failure_reproduced": true
+}

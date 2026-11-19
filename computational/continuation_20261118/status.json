@@ -1,0 +1,12 @@
+{
+  "status": "diagnostics_completed_needs_review",
+  "stage": "oracle_calibration_review",
+  "generated": 0,
+  "refolded": 6,
+  "job_id": "57427235",
+  "node": "p-gc-3039",
+  "started_at": "2026-11-18T06:29:09-0500",
+  "updated_at": "2026-11-18T06:33:39-0500",
+  "positive_control_recovered_both_seeds": false,
+  "note": "The known positive control did not satisfy the original interface/pose thresholds in both seeds. Reassess evaluator before more generation."
+}

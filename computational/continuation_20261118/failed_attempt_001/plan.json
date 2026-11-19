@@ -1,0 +1,36 @@
+{
+  "purpose": "Continue toward novel paired IgG IL4RA binders after 500-design scientific stop",
+  "node": "p-gc-3039",
+  "allocation": "57427235",
+  "diagnostic_refolds": 6,
+  "control": "6WGL Fv and canonical target, evaluation only",
+  "recheck_candidates": [
+    "b07_d014",
+    "b19_d014",
+    "b15_d019",
+    "b10_d019"
+  ],
+  "conditional_next_stage": {
+    "new_partial_diffusion_variants": 32,
+    "per_parent": 8,
+    "partial_trajectory_fraction_steps": 0.5,
+    "parent_origin": "current de novo campaign only",
+    "generation_seeds": [
+      2026111840,
+      2026111841,
+      2026111842,
+      2026111843
+    ],
+    "max_refolds": 16,
+    "expansion_gate": "positive control recovers interface and pose in both seeds under original thresholds"
+  },
+  "criteria": "Original full candidate eligibility thresholds remain unchanged",
+  "source_sha256": {
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/prepare_continuation.py": "cb08ee007087d130310d67a2c73e1e9b08c9ad5b099c33e9a44384448ef0c1ea",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/continue_challenge.py": "8a5cea25a43841986f556c03d05ea2f0eee51926481fa4ff34453add60238a80",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/campaign_local500.py": "a0831ed129eae960f1de70d06a60c05d7d39b4d51fc64546ea1097c266939caa",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/quality_screen.py": "01e175988fe16cb4c23b7def6ea8b09812dfcd5e00ad5495456e1c28ded7d76f",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/environment.sh": "7441dfd5192ca5243dba1e28b5ea47e3ce058c5e3fbbdfd084690e981d8167f3",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/continuation_20261118/run_diagnostics.sh": "15109beda432ac7a5683dc42480769b62a9195bb142c4f6cbf66326d330b68bb"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "test": "Duplicate protection, common first-round triage, missing oracle labels, non-veto policy, and pairwise diversity",
+  "retained_rows": 505,
+  "duplicate_rows": 5,
+  "first_round_triage_passers": 219,
+  "review_eligible_unique": 131,
+  "selected": 40,
+  "priority_condition_counts": {
+    "il4ra_p1_h3_12": 5,
+    "il4ra_p1_h3_16": 5,
+    "il4ra_p2_h3_12": 5,
+    "il4ra_p2_h3_16": 5
+  }
+}

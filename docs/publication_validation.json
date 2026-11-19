@@ -1,0 +1,12 @@
+{
+  "checked_utc": "2026-11-19T05:43:20.414170+00:00",
+  "credential_pattern_scan_files": 783,
+  "credential_pattern_findings": 0,
+  "generated_designs_with_archived_source_hash": 1000,
+  "archive_objects_verified": 1095,
+  "original_artifact_paths_mapped": 2199,
+  "archive_total_bytes": 242629387,
+  "max_staged_file_bytes": 11436944,
+  "submitted_to_challenge": false,
+  "scope": "Git repository publication only; scientific limitations remain documented in the final review."
+}

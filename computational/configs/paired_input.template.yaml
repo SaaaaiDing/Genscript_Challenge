@@ -1,0 +1,35 @@
+# NOT READY FOR GENERATION.
+# Required input: reviewed T/H/L structure with unique chain IDs and mapped numbering.
+# Required contig: preserve T and only VH/VL framework segments; replace all six
+# donor CDRs with named expandable segments HCDR1-3 and LCDR1-3.
+# Define CDR boundaries with a documented numbering scheme, not raw position guesses.
+# Existing antibody CDR sequences and geometry must not become design conditions.
+# Framework provenance must satisfy the challenge's de novo requirement.
+il4ra_paired_fv:
+  input: ???
+  input_as_annotated_cif: true
+  contig: ???
+  conditions:
+    C_CRD:
+      false:
+        - select: "sel('*')"
+    C_SEQ:
+      false:
+        - select: "sel('*')"
+      true:
+        - select: "sel('T')"
+        - select: "(sel('H') or sel('L')) and not sel('*/[HCDR1,HCDR2,HCDR3,LCDR1,LCDR2,LCDR3]')"
+    C_CRDGRP:
+      null:
+        - select: "sel('*')"
+      1:
+        - select: "sel('T') and is_protein_backbone"
+      2:
+        # One shared group retains VH/VL framework geometry while allowing the Fv
+        # to move relative to target group 1. CDRs have no coordinate condition.
+        - select: "(sel('H') or sel('L')) and is_protein_backbone and not sel('*/[HCDR1,HCDR2,HCDR3,LCDR1,LCDR2,LCDR3]')"
+    C_CATH:
+      "2.60.40":
+        - select: "sel('H') or sel('L')"
+    # Add C_HOT only after reviewing accessible target surface patches and glycans.
+    # Clear inherited nondefault conditions when authoring the clean source input.

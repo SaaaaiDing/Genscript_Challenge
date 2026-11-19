@@ -1,0 +1,203 @@
+Environment variable CCD_MIRROR_PATH not set. Will not be able to use function requiring this variable. To set it you may:
+  (1) add the line 'export VAR_NAME=path/to/variable' to your .bashrc or .zshrc file
+  (2) set it in your current shell with 'export VAR_NAME=path/to/variable'
+  (3) write it to a .env file in the root of the atomworks.io repository
+Environment variable PDB_MIRROR_PATH not set. Will not be able to use function requiring this variable. To set it you may:
+  (1) add the line 'export VAR_NAME=path/to/variable' to your .bashrc or .zshrc file
+  (2) set it in your current shell with 'export VAR_NAME=path/to/variable'
+  (3) write it to a .env file in the root of the atomworks.io repository
+/storage/group/yjz5549/default/RFD4/RFD4-Proteina/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+CONFIG
+├── inference_backend
+│   └── native                                                                                      
+├── bioir
+│   └── dtype: bfloat16                                                                             
+│       attention_backend: null                                                                     
+│       cuda_graph: true                                                                            
+│       cuda_graph_max_tokens: 511                                                                  
+│       max_graphs: null                                                                            
+│       match_reference_rng: false                                                                  
+│                                                                                                   
+├── run_name_
+│   └── il4ra_paired_fv_pilot                                                                       
+├── verbose
+│   └── True                                                                                        
+├── hf_ckpt_path
+│   └── /storage/group/yjz5549/default/RFD4/huggingface/hub/models--nvidia--RFD4-Proteina/snapshots/
+│       a06e2509c7033b010fc43614e9fd840303588502                                                    
+├── hf_ckpt_revision
+│   └── a06e2509c7033b010fc43614e9fd840303588502                                                    
+├── out_dir
+│   └── /storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20
+│       261118/runs/batch_00                                                                        
+├── adapter_path
+│   └── None                                                                                        
+├── delete_failing_pre_oracle
+│   └── False                                                                                       
+├── num_replicates
+│   └── 25                                                                                          
+├── compile_lengths
+│   └── None                                                                                        
+├── nn
+│   └── torch_compile_mode: null                                                                    
+│       torch_compile_fullgraph: null                                                               
+│       tri_mult_backend: null                                                                      
+│       attention_type: null                                                                        
+│                                                                                                   
+├── precision
+│   └── bf16-mixed                                                                                  
+├── batch_size
+│   └── 1                                                                                           
+├── subset_to_examples
+│   └── None                                                                                        
+├── prevalidate_inputs
+│   └── True                                                                                        
+├── seed
+│   └── 2026111900                                                                                  
+├── torch_deterministic
+│   └── False                                                                                       
+├── skip_existing
+│   └── True                                                                                        
+├── save_chain_of_interest
+│   └── False                                                                                       
+├── compress_outputs
+│   └── False                                                                                       
+├── metrics_tags
+│   └── []                                                                                          
+├── search
+│   └── checkpoints: null                                                                           
+│       save_states: false                                                                          
+│       resume_from: null                                                                           
+│       resume_seed: null                                                                           
+│                                                                                                   
+├── num_workers
+│   └── 0                                                                                           
+├── hardware
+│   └── accelerator: gpu                                                                            
+│       ngpus_per_node_: 1                                                                          
+│       nnodes_: 1                                                                                  
+│                                                                                                   
+├── ncpus_
+│   └── 2                                                                                           
+├── gen_njobs
+│   └── 1                                                                                           
+├── eval_njobs
+│   └── 1                                                                                           
+├── job_id
+│   └── None                                                                                        
+├── generation
+│   └── n_recycle: 0                                                                                
+│       n_recycle_schedule:                                                                         
+│       - - 5                                                                                       
+│         - 6                                                                                       
+│       - - 10                                                                                      
+│         - 5                                                                                       
+│       - - 5                                                                                       
+│         - 4                                                                                       
+│       - - 10                                                                                      
+│         - 3                                                                                       
+│       - - 20                                                                                      
+│         - 2                                                                                       
+│       - - 10                                                                                      
+│         - 1                                                                                       
+│       condition_on_recycle_remaining: true                                                        
+│       val_set_name_override:                                                                      
+│       /storage/group/yjz5549/default/GenScript_challenge/computational/inputs/annotated/il4ra_p1_h
+│       3_12.cif                                                                                    
+│       args:                                                                                       
+│         nsteps: 60                                                                                
+│         condition_decoder_on_sequence_prediction: true                                            
+│         guidance_w: 1.0                                                                           
+│         partial_trajectory_fraction_steps: null                                                   
+│         partial_t_backbone: null                                                                  
+│         partial_t_latent: null                                                                    
+│         couple_partial_t: false                                                                   
+│         inverse_folding: false                                                                    
+│         inverse_folding_method: resampled_forward_marginal                                        
+│         save_trajectory_every: 0                                                                  
+│         bb_ca_only_trajectories: true                                                             
+│         dump_noisy_trajectories: false                                                            
+│       model:                                                                                      
+│         bb_ca:                                                                                    
+│           schedule:                                                                               
+│             mode: log                                                                             
+│             p: 2.0                                                                                
+│             tail_steps: 10                                                                        
+│             tail_step_multiplier: 2                                                               
+│           gt:                                                                                     
+│             mode: 1/t                                                                             
+│             p: 1.0                                                                                
+│             clamp_val: null                                                                       
+│           simulation_step_params:                                                                 
+│             sampling_mode: vf_tsr                                                                 
+│             sc_scale_noise: 1.0                                                                   
+│             t_lim_ode: 0.95                                                                       
+│             t_lim_ode_below: 0.02                                                                 
+│             center_every_step: false                                                              
+│             tsr_k: 16.0                                                                           
+│             tsr_sigma: 3.0                                                                        
+│         local_latents:                                                                            
+│           schedule:                                                                               
+│             mode: power                                                                           
+│             p: 2.0                                                                                
+│             tail_steps: 10                                                                        
+│             tail_step_multiplier: 2                                                               
+│           gt:                                                                                     
+│             mode: tan                                                                             
+│             p: 1.0                                                                                
+│             clamp_val: null                                                                       
+│           simulation_step_params:                                                                 
+│             sampling_mode: vf_tsr                                                                 
+│             sc_scale_noise: 1.0                                                                   
+│             t_lim_ode: 0.95                                                                       
+│             t_lim_ode_below: 0.02                                                                 
+│             center_every_step: false                                                              
+│             tsr_k: 4.0                                                                            
+│             tsr_sigma: 12.0                                                                       
+│       dataset:                                                                                    
+│         num_replicates: 25                                                                        
+│         transform:                                                                                
+│           metrics_tags: []                                                                        
+│         sampling_transforms: null                                                                 
+│                                                                                                   
+├── inputs
+│   └── /storage/group/yjz5549/default/GenScript_challenge/computational/inputs/annotated/il4ra_p1_h
+│       3_12.cif                                                                                    
+└── global_prefix
+    └── None                                                                                        
+[2026-11-18 13:37:56,741][rfproteina.generate][INFO] - [rank: 0] Using provided base seed: 2026111900
+[2026-11-18 13:37:56,741][rfproteina.generate][INFO] - [rank: 0] Seeding everything to seed 2026111900
+[rank: 0] Seed set to 2026111900
+[2026-11-18 13:37:56,819][rfproteina.nn.modules.norm][INFO] - Score-network norm type: 'layer_norm'
+[2026-11-18 13:37:56,840][rfproteina.nn.feature_factory][INFO] - [rank: 0] No features requested
+[2026-11-18 13:37:57,486][rfproteina.nn.modules.norm][INFO] - Score-network norm type: 'layer_norm'
+[2026-11-18 13:37:57,490][rfproteina.nn.feature_factory][INFO] - [rank: 0] No features requested
+[2026-11-18 13:37:58,138][rfproteina.proteina][INFO] - [rank: 0] cfg_exp.nn: {'name': 'local_latents_transformer', 'output_parameterization': {'bb_ca': 'v', 'local_latents': 'v'}, 'sequence_readout': {'enabled': True, 'detach': True, 'num_classes': 147}, 'nlayers': 14, 'token_dim': 768, 'nheads': 12, 'parallel_mha_transition': False, 'token_type_emb_dim': 32, 'cath_emb_dim': 32, 'strict_feats': False, 'noise_align_chirality': True, 'noise_align_internal_coords': False, 'noise_align_chirality_translate': False, 'noise_align_internal_coords_translate': False, 'use_atom37_factory': True, 'feats_seq': ['xt_bb_ca', 'xt_local_latents', 'token_type', 'sequence_probabilities', 'cond_a37coors_nm', 'cond_a37coors_internal_nm', 'rasa_binned', 'secondary_structure', 'hbond_modernized', 'pistack', 'pication', 'saltbridge', 'hydrophobic', 'metal_coord', 'na_ss_state', 'hotspot', 'atom_charge', 'atomic_element', 'coord_group_seq', 'chirality', 'chain_centroid_xyz'], 'feats_cond_seq': ['time_emb_bb_ca', 'time_emb_local_latents', 'cath_code', 'recycle_remaining'], 'dim_cond': 256, 'idx_emb_dim': 256, 't_emb_dim': 256, 'feats_pair_repr': ['xt_bb_ca_pair_dists', 'bond_mask', 'bond_order', 'is_aromatic', 'index_group_pair', 'molecule_idx_pair', 'molecule_entity_pair', 'token_bond_path_length', 'canonical_polymer_ordering', 'na_ss_pair'], 'feats_pair_cond': ['time_emb_bb_ca', 'time_emb_local_latents'], 'xt_pair_dist_dim': 30, 'xt_pair_dist_min': 0.1, 'xt_pair_dist_max': 3, 'seq_sep_dim': 64, 'pair_repr_dim': 384, 'update_pair_repr': True, 'update_pair_repr_every_n': 2, 'use_tri_mult': True, 'tri_mult_c': 256, 'tri_mult_bias': False, 'tri_mult_backend': 'cuequivariance', 'recycle': {'enabled': True, 'grad': 'last', 'training_max_recycles': 9, 'condition_probability': 0.5}, 'checkpointing': 'none', 'pair_write': 'hadamard', 'use_qkln': True, 'attention_type': 'torch', 'use_torch_compile': False, 'norm_type': 'rmsnorm_torch_fused'}
+[2026-11-18 13:37:58,139][rfproteina.nn.modules.norm][INFO] - Score-network norm type: 'rmsnorm_torch_fused'
+[2026-11-18 13:38:00,290][rfproteina.generate][INFO] - [rank: 0] Guidance is turned off.
+[2026-11-18 13:38:00,294][rfproteina.inference_utils.datasets][INFO] - [rank: 0] Prevalidating input example: il4ra_p1_h3_12
+Using bfloat16 Automatic Mixed Precision (AMP)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+💡 Tip: For seamless cloud logging and experiment tracking, try installing [litlogger](https://pypi.org/project/litlogger/) to enable LitLogger, which logs metrics and artifacts automatically to the Lightning Experiments platform.
+[2026-11-18 13:38:02,682][rfproteina.generate][INFO] - [rank: 0] ✓ Dataloader created: 25 samples, batch_size=1
+[2026-11-18 13:38:02,682][rfproteina.generate][INFO] - [rank: 0] Running inference on 25 batches...
+💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+SLURM auto-requeueing enabled. Setting signal handlers.
+/storage/group/yjz5549/default/RFD4/RFD4-Proteina/.venv/lib/python3.12/site-packages/lightning/pytorch/utilities/_pytree.py:21: `isinstance(treespec, LeafSpec)` is deprecated, use `isinstance(treespec, TreeSpec) and treespec.is_leaf()` instead.
+[2026-11-18 13:38:03,866][rfproteina.proteina][INFO] - [rank: 0] 
+╭──────────────────── Validation [1/1] ────────────────────╮
+│ Dataset:                                                 │
+│ /storage/group/yjz5549/default/GenScript_challenge/compu │
+│ tational/inputs/annotated/il4ra_p1_h3_12.cif             │
+│ Tags:    none                                            │
+╰──────────────────────────────────────────────────────────╯
+
+[2026-11-18 13:38:03,866][rfproteina.proteina][INFO] - [rank: 0] [val//storage/group/yjz5549/default/GenScript_challenge/computational/inputs/annotated/il4ra_p1_h3_12.cif] epoch=0, batch=0, steps=100, elapsed=0.0s, steps/s=0.00, n_examples=1, ids=['il4ra_p1_h3_12_rep0']
+[2026-11-18 13:55:48,881][rfproteina.metrics.utils.metrics_utils][INFO] - [rank: 0] [metrics-pool] drain: n=25 workers=0 wall=0.00s
+[2026-11-18 13:55:49,061][rfproteina.metrics.utils.metrics_utils][INFO] - [rank: 0] [metrics-pool] post-fold inline: n=25 workers=0 wall=0.18s avg=7ms/ex
+[2026-11-18 13:55:49,085][rfproteina.proteina][INFO] - [rank: 0] Saved per_example_metrics to /storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/runs/batch_00/inference_metrics/per_example_metrics.csv
+sizzling... 🔥 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 25/25 0:17:45 • 0:00:00 0.00it/s 
+[2026-11-18 13:55:50,186][rfproteina.generate][INFO] - [rank: 0] ✓ Generation complete! Results saved to /storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/runs/batch_00

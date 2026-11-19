@@ -1,0 +1,7 @@
+{
+  "SLURM_JOB_ID": "57427235",
+  "SLURM_JOB_NODELIST": "p-gc-3039",
+  "SLURM_JOB_GPUS": null,
+  "CUDA_VISIBLE_DEVICES": "0",
+  "SLURM_CPUS_PER_TASK": "2"
+}

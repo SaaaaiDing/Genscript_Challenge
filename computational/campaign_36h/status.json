@@ -1,0 +1,10 @@
+{
+  "status": "cancelled_before_gpu_oracle_start",
+  "job_id": "57451588",
+  "generated": 0,
+  "refolded": 0,
+  "computational_passers": 0,
+  "triage_passers": 4,
+  "elapsed_hours": 0.0006093074003001675,
+  "stop_reason": "Correct scheduler GPU mapping before resubmission; first attempt retained intact."
+}

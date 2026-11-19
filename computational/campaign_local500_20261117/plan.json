@@ -1,0 +1,31 @@
+{
+  "target_new_designs": 500,
+  "batches": 20,
+  "designs_per_batch": 25,
+  "tasks": [
+    "il4ra_p1_h3_12",
+    "il4ra_p1_h3_16",
+    "il4ra_p2_h3_12",
+    "il4ra_p2_h3_16"
+  ],
+  "generation_hours_cap": 12,
+  "total_hours_cap": 35.25,
+  "oracle_count_cap": 80,
+  "zero_passer_stop_after_oracles": 24,
+  "zero_triage_stop_after_designs": 160,
+  "pilot_seconds_per_design": 43.875,
+  "expected_generation_hours": 7.5,
+  "account": "yjz5549_cr_default",
+  "partition": "standard",
+  "qos": "normal",
+  "node": "p-gc-3039",
+  "allocation_id": "57427235",
+  "gpu": "a100:1",
+  "cpus": 2,
+  "memory": "48G",
+  "walltime": "35:15:00",
+  "execution": "Existing allocation on the current node, explicitly requested by user",
+  "novelty_scope": "Frozen TheraSAbDab IL4R reference set; not exhaustive patent clearance",
+  "stopping_policy": "Stop on missing oracle evidence or infrastructure failure; never loosen gates automatically",
+  "selection": "Balanced four conditions; sequence deduplication and greedy six-CDR diversity; at most 20 review candidates"
+}

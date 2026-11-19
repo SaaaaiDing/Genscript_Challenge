@@ -1,0 +1,4 @@
+- inputs=/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/oracles/set_010/inputs
+- out_dir=/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/oracles/set_010/results
+- compress_outputs=false
+- +metrics.refolding_oracles.oracle_ppi.seed=20261118

@@ -1,0 +1,58 @@
+{
+  "status": "initial_design_job_running",
+  "protected_node": "p-gc-3039",
+  "protected_allocation_at_audit": "57427235",
+  "account": "yjz5549_cr_default",
+  "partition_candidate": "standard",
+  "qos": "preempt",
+  "scheduler_gate": "Resolved: preempt QoS accepted by test-only and actual submission. Job 57445564 started on p-gc-3016, excluding p-gc-3039. This QoS has no preemption targets; the job may itself be preempted.",
+  "constraints": {
+    "exclude_protected_node": true,
+    "do_not_use_existing_desktop_allocation": true,
+    "do_not_kill_suspend_renice_or_reconfigure_other_jobs": true,
+    "do_not_override_scheduler_gpu_visibility": true,
+    "max_concurrent_gpu_jobs": 1,
+    "generation_and_refolding_overlap": false,
+    "job_arrays": false,
+    "automatic_retries": false,
+    "reuse_existing_weights_without_copying": true
+  },
+  "generation_pilot": {
+    "gpu_request": "gpu:a100:1",
+    "cpus": 2,
+    "memory_gib": 24,
+    "walltime": "01:00:00",
+    "batch_size": 1,
+    "replicates": 2,
+    "data_loader_workers": 0,
+    "numeric_threads": 1,
+    "compile_warmup": false,
+    "sampling_steps": 60,
+    "trunk_passes": 180,
+    "resource_estimates_measured": false
+  },
+  "refolding_pilot": {
+    "gpu_request": "gpu:a100:1",
+    "cpus": 4,
+    "memory_gib": 48,
+    "walltime": "01:00:00",
+    "candidates": 1,
+    "numeric_threads": 1,
+    "resource_estimates_measured": false,
+    "note": "Provisional request only. OpenFold3 multichain GPU fit and host memory use remain unmeasured."
+  },
+  "stop_conditions": [
+    "Unresolved scheduler preemption behavior",
+    "Unexpected node, GPU allocation, or inherited desktop allocation",
+    "Invalid input, missing weights, or mixed interpreter dependencies",
+    "Missing paired-chain oracle metrics or failed identity mapping",
+    "OOM, time limit, or unexpected resource growth; do not expand automatically"
+  ],
+  "executed_plan": {
+    "job_id": "57445564",
+    "representative_smoke": 1,
+    "exploratory_designs": 8,
+    "target_node": "p-gc-3016",
+    "gpu_preflight": "passed"
+  }
+}

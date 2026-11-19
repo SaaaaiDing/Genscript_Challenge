@@ -1,0 +1,48 @@
+
+==============================================
+Cluster Configuration
+==============================================
+  Cluster:         local
+  Partition:       standard
+  GPUs per node:   not set
+  Runtime:         01:00:00
+  Runtime:         Native Python environment
+  Account:         yjz5549_cr_default
+
+Repository root: /storage/group/yjz5549/default/RFD4/RFD4-Proteina
+Using active Python: /storage/group/yjz5549/default/RFD4/RFD4-Proteina/.venv/bin/python
+PYTHONPATH set for the selected runtime
+Environment variables configured
+
+==============================================
+Resolving Hydra Config
+==============================================
+  Config name: pilot_generation
+  Config path: /storage/group/yjz5549/default/GenScript_challenge/computational/configs
+  Extra args:   inputs=/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/annotated out_dir=/storage/group/yjz5549/default/GenScript_challenge/computational/runs/initial_designs hf_ckpt_path=/storage/group/yjz5549/default/RFD4/huggingface/hub/models--nvidia--RFD4-Proteina/snapshots/a06e2509c7033b010fc43614e9fd840303588502 num_replicates=2 compress_outputs=false
+  Local symlink: /storage/group/yjz5549/default/RFD4/RFD4-Proteina/runs/il4ra_paired_fv_pilot
+
+==============================================
+Using Code In-Place
+==============================================
+  /storage/group/yjz5549/default/RFD4/RFD4-Proteina
+  Created .env with 0 variables
+
+==============================================
+Job Configuration
+==============================================
+  Run name:         il4ra_paired_fv_pilot
+  Run directory:    /storage/group/yjz5549/default/GenScript_challenge/computational/runs/initial_designs
+  Output directory: /storage/group/yjz5549/default/GenScript_challenge/computational/runs/initial_designs
+  Parallel jobs:    1
+  GPUs per job:     1
+  SLURM array tasks: 1
+  CPUs per task:    2
+  Concatenate:      false
+
+
+==============================================
+Submitting Job
+==============================================
+  SBATCH script: /storage/group/yjz5549/default/GenScript_challenge/computational/runs/initial_designs/slurm_batch_script.sh
+Batch script rendered; submission intentionally deferred for local validation.

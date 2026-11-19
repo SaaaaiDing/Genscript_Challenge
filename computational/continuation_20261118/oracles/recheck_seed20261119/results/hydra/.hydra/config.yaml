@@ -1,0 +1,56 @@
+metrics:
+  refolding_oracles:
+    oracle_ppi:
+      _target_: il4ra_oracle.PairedAF3Oracle
+      oracle_name: of3_ppi
+      template_query: chain_id == 'T' and is_protein
+      aggregation:
+      - median
+      required_tags_any:
+      - paired_fv_refolding
+      seed: 20261119
+  refolding_metrics:
+    target_aligned_fv_backbone_rmsd:
+      _target_: rfproteina.metrics.gt_structure_comparison.StructureComparisonMetric
+      align_mask: chain_id == 'T' and is_protein_backbone
+      subset_mask: (chain_id == 'H' or chain_id == 'L') and is_protein_backbone
+      metric_type: rmsd
+      aggregation:
+      - median
+      required_tags_any:
+      - paired_fv_refolding
+      required_tags_all:
+      - is_refold:untransformed
+    target_aligned_vh_backbone_rmsd:
+      _target_: rfproteina.metrics.gt_structure_comparison.StructureComparisonMetric
+      align_mask: chain_id == 'T' and is_protein_backbone
+      subset_mask: chain_id == 'H' and is_protein_backbone
+      metric_type: rmsd
+      aggregation:
+      - median
+      required_tags_any:
+      - paired_fv_refolding
+      required_tags_all:
+      - is_refold:untransformed
+    target_aligned_vl_backbone_rmsd:
+      _target_: rfproteina.metrics.gt_structure_comparison.StructureComparisonMetric
+      align_mask: chain_id == 'T' and is_protein_backbone
+      subset_mask: chain_id == 'L' and is_protein_backbone
+      metric_type: rmsd
+      aggregation:
+      - median
+      required_tags_any:
+      - paired_fv_refolding
+      required_tags_all:
+      - is_refold:untransformed
+verbose: true
+inputs: /storage/group/yjz5549/default/GenScript_challenge/computational/continuation_20261118/oracles/recheck_seed20261119/inputs
+metrics_tags:
+- paired_fv_refolding
+task_csv: null
+out_dir: /storage/group/yjz5549/default/GenScript_challenge/computational/continuation_20261118/oracles/recheck_seed20261119/results
+job_id: null
+gen_njobs: 1
+run_name_: il4ra_paired_fv_evaluation
+compress_outputs: false
+delete_failing_pre_oracle: false

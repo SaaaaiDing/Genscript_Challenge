@@ -1,0 +1,3557 @@
+{
+  "R1_b00_d001": {
+    "source_sha256": "77335fd774cfdd4f71362df96128c95b67c4cb3b350ba8ac5f4ce36001bd3476",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.27751424908638,
+    "source_Fab_constant_target_min_distance_A": 32.09877863776733,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 507,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.5336174964904785,
+      "L": 2.169987201690674
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b00_d012": {
+    "source_sha256": "1060a3ae17ed5dc1acfe1c06444aceb496dca073ce4e2c730937656e1b8107e3",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2345682829618454,
+    "source_Fab_constant_target_min_distance_A": 30.785770483257103,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 532,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2560648918151855,
+      "L": 2.059229612350464
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b00_d013": {
+    "source_sha256": "a7edbd41bbb0c18a0044017c9adac1f47d1358c6d47ba616dd27415cd64e1d1a",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.21296082437038422,
+    "source_Fab_constant_target_min_distance_A": 30.42963807849212,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 590,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3619699478149414,
+      "L": 2.068850517272949
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b00_d014": {
+    "source_sha256": "6dc0ee106f7663b6178ac2181da5ad29628994a03a0271684f7dad7ab617f9d2",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.31815215945243835,
+    "source_Fab_constant_target_min_distance_A": 27.887724406102993,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 422,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.260265588760376,
+      "L": 2.1737892627716064
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b00_d015": {
+    "source_sha256": "f80936e728c076fce1f27f2c206b7425c3978bad14cd6f3eaa9b0ed78262917b",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2518182694911957,
+    "source_Fab_constant_target_min_distance_A": 28.949824254637385,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 463,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.365807056427002,
+      "L": 2.098640203475952
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b00_d016": {
+    "source_sha256": "cb75fe8af4bfcbcc814991c063fd27ca12b11b38a15c4441fb758ecaf100c050",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2589821219444275,
+    "source_Fab_constant_target_min_distance_A": 31.61518074602451,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 493,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.222817897796631,
+      "L": 1.987415075302124
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b00_d019": {
+    "source_sha256": "f0e12c65051e56d92f078bac8d2b7cf2be1ec76101647ceb3c79672653920fca",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2710678279399872,
+    "source_Fab_constant_target_min_distance_A": 31.494332492630242,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 528,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3208937644958496,
+      "L": 2.08250093460083
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b00_d020": {
+    "source_sha256": "6b755f5388efa655ae24ec87abef2527adc2484265d027fca67119d3fb10f748",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2906028628349304,
+    "source_Fab_constant_target_min_distance_A": 30.16145700556878,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 464,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.5739872455596924,
+      "L": 2.064030408859253
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b00_d021": {
+    "source_sha256": "2af149e86518c07b0b8da977a66b51eb218fe18e20ea5a7ff7e009d6c9f9c438",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2229929119348526,
+    "source_Fab_constant_target_min_distance_A": 22.884779842131877,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 512,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.406081199645996,
+      "L": 2.1130900382995605
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b00_d024": {
+    "source_sha256": "da01f6c4b935f5e1118734a0c43ede1f77958a89e783ea6013ae6314b3b89879",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23361670970916748,
+    "source_Fab_constant_target_min_distance_A": 27.166304329551558,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 453,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.191213846206665,
+      "L": 2.0125601291656494
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b01_d003": {
+    "source_sha256": "37632b30507495e7a1fd634dabb994d9e5d4d0a9187952222faa348c90b6d5eb",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2744722366333008,
+    "source_Fab_constant_target_min_distance_A": 33.47470411759552,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 483,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2986624240875244,
+      "L": 1.9562757015228271
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b01_d005": {
+    "source_sha256": "23b0d2164e61d59cf62d5ff21d34e8c7ec83e45f13796da5f04b6c51bddf14d5",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24716231226921082,
+    "source_Fab_constant_target_min_distance_A": 28.78444200903008,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 529,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.1799848079681396,
+      "L": 1.9363741874694824
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b01_d007": {
+    "source_sha256": "6498f8c239768944c25edddb29195efe3fc1e1adc768883c714409b32ea1a14f",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2527730464935303,
+    "source_Fab_constant_target_min_distance_A": 30.827276899672615,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 486,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2229371070861816,
+      "L": 2.079824209213257
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b01_d009": {
+    "source_sha256": "d01ee91eaeef261eb0f8d36981d7bd7856fc2c65b347f644069df463c3edfa42",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.25620192289352417,
+    "source_Fab_constant_target_min_distance_A": 33.29498700204904,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 464,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.297778844833374,
+      "L": 2.1386091709136963
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b01_d012": {
+    "source_sha256": "ea5766105a72aa47d386ac46e4d7008aa7e99f4b1da516ddf5a07645eccfd88b",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.26684704422950745,
+    "source_Fab_constant_target_min_distance_A": 33.10143670682334,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 495,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3826799392700195,
+      "L": 2.1013920307159424
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b01_d020": {
+    "source_sha256": "46dcc4ae27f82d93dd5c510b171d9467078aec877d51ac71529028660ff27e79",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22620342671871185,
+    "source_Fab_constant_target_min_distance_A": 33.232180463392034,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 502,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2151384353637695,
+      "L": 2.1321070194244385
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b01_d023": {
+    "source_sha256": "af1e94150717a15e6a6175ffe410fc2d040bbfe556646f96648018fb04b59826",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23893862962722778,
+    "source_Fab_constant_target_min_distance_A": 30.75717429737308,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 596,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.440824031829834,
+      "L": 1.9763792753219604
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b01_d024": {
+    "source_sha256": "21d5206cd0fab632f68befb52d6db613b4be92634c4da978233786242434ccbd",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22138729691505432,
+    "source_Fab_constant_target_min_distance_A": 29.181275982685204,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 496,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2154722213745117,
+      "L": 2.0256142616271973
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b02_d000": {
+    "source_sha256": "8ce23a87f442b7aa14b608c7f5bcbbe025d43f1047948b89ffe857ada9bed4cd",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.27514779567718506,
+    "source_Fab_constant_target_min_distance_A": 30.377158442399377,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 560,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3057126998901367,
+      "L": 2.1685397624969482
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b02_d002": {
+    "source_sha256": "02822d96b5898fc94073a49d0159e81a2f700546b034daf109ff457a29856e05",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24377548694610596,
+    "source_Fab_constant_target_min_distance_A": 22.664817711400698,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 445,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4334716796875,
+      "L": 1.92111074924469
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b02_d003": {
+    "source_sha256": "5afabd87b311dbcf818a10f76318817b787a735f0705061744a664b4b556f87e",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2700697183609009,
+    "source_Fab_constant_target_min_distance_A": 28.18422689887534,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 468,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.357243776321411,
+      "L": 2.151301145553589
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b02_d004": {
+    "source_sha256": "0e792eaf1e136537cc7f092fd2a75ea2c223b76e78953685abb2f6beef68d384",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2541557550430298,
+    "source_Fab_constant_target_min_distance_A": 21.87813790509778,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 498,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4365386962890625,
+      "L": 1.9991143941879272
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b02_d010": {
+    "source_sha256": "ed40a0152877b067a8bc4de3082f2e22f00c821e15e0678745a66e62867355a5",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24189947545528412,
+    "source_Fab_constant_target_min_distance_A": 25.691267862125876,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 459,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.1526107788085938,
+      "L": 2.140836715698242
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b02_d023": {
+    "source_sha256": "ea430630d5bc276d9a3b7780c870f30de64e9dfdea5832ee3ed7f1c4898ec280",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.25301626324653625,
+    "source_Fab_constant_target_min_distance_A": 27.53193985471426,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 461,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.387712001800537,
+      "L": 1.9580031633377075
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b03_d007": {
+    "source_sha256": "d0acb14b46dc41174a70bf3e6a4d9dcd463725c672e7a8e515ee2ce7bc298d7e",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.19567729532718658,
+    "source_Fab_constant_target_min_distance_A": 24.40612835262435,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 538,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.195648193359375,
+      "L": 1.9429951906204224
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b03_d024": {
+    "source_sha256": "4449d6025d1e0a7ee315d0d9e1dbf73a7cb51e97473df932c3d2b7863a784449",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.32595300674438477,
+    "source_Fab_constant_target_min_distance_A": 27.235394588410106,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 384,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2383944988250732,
+      "L": 2.0532305240631104
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b04_d000": {
+    "source_sha256": "32177403bec8d7f9aa9cf14204b07c3c2d6cde149e11e83ce9966701273960fc",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2823818027973175,
+    "source_Fab_constant_target_min_distance_A": 27.725573904282083,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 460,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3388867378234863,
+      "L": 2.103717088699341
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b04_d005": {
+    "source_sha256": "2b592c873e1856f2a18025cd4358ec3687a6127d3e348b668683923f46e8c411",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22697530686855316,
+    "source_Fab_constant_target_min_distance_A": 32.025207232034525,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 520,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3433175086975098,
+      "L": 2.047794818878174
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b04_d008": {
+    "source_sha256": "37a9fdc3841b7f8606643c72c00dd13a6ea94c481147e2c423d17842d22357fc",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2584601044654846,
+    "source_Fab_constant_target_min_distance_A": 31.63369206832128,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 543,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3109512329101562,
+      "L": 2.1381311416625977
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b04_d014": {
+    "source_sha256": "917ea6fea3efc7996b84578a5c25ffd609eb254512ad0474d9fe4bd60ee76f85",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.26670753955841064,
+    "source_Fab_constant_target_min_distance_A": 25.151972141747958,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 481,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.478010416030884,
+      "L": 2.1289405822753906
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b04_d019": {
+    "source_sha256": "5d5bb80b194e32d5c385e5bfb3c1c5fd7eac3890daaad73160a89d693571e1a5",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.25726988911628723,
+    "source_Fab_constant_target_min_distance_A": 26.767133463216233,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 497,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.309603452682495,
+      "L": 2.153679609298706
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b04_d020": {
+    "source_sha256": "fcbfeb4bd52f57eeaaf0386bc257534d2b5af0c34e21c3ecc2c191dfe3affd6f",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22534462809562683,
+    "source_Fab_constant_target_min_distance_A": 30.016846577886916,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 469,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2461845874786377,
+      "L": 2.0729753971099854
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b04_d024": {
+    "source_sha256": "d61cdccb69e55f101f11e75b04dbb134f464e1540c48886ebab5e02f35a64e0b",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2641047239303589,
+    "source_Fab_constant_target_min_distance_A": 29.00937282538798,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 478,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.503732204437256,
+      "L": 2.033160448074341
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b05_d004": {
+    "source_sha256": "37c1951e645384797cf63d8203ecc616b05d6fdd65d048cd32c64dd75e786268",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2532764673233032,
+    "source_Fab_constant_target_min_distance_A": 27.103037018218902,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 477,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.406259059906006,
+      "L": 2.0194950103759766
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b05_d006": {
+    "source_sha256": "cfbb1dd389e57f5643e83604173ec9dccb01b4ee4218ee0b364a2784eda7b0d5",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.20569594204425812,
+    "source_Fab_constant_target_min_distance_A": 31.789557171453467,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 465,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.284757137298584,
+      "L": 2.1015853881835938
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b05_d010": {
+    "source_sha256": "f2b7ad45b764b620d9be1ae545e7ceb74aa8d09dc964f922c84245a4562dd73b",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.26732951402664185,
+    "source_Fab_constant_target_min_distance_A": 33.55762822969179,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 513,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.407527446746826,
+      "L": 2.0051722526550293
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b05_d011": {
+    "source_sha256": "49340ccf1a6c1f40fdc60d0f9f2b8bd399f1204139d0190ad05174b4d8a75460",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24504435062408447,
+    "source_Fab_constant_target_min_distance_A": 29.106095472806143,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 413,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2572824954986572,
+      "L": 2.045945405960083
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b05_d013": {
+    "source_sha256": "8f498702cd380d00310a3026f96d9d9220ce1508864afaa938f8b6d25f661e01",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23862022161483765,
+    "source_Fab_constant_target_min_distance_A": 24.09639707608121,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 570,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2678511142730713,
+      "L": 2.0811767578125
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b05_d014": {
+    "source_sha256": "abd833f59cc3d6cc5fb80b972b4de0b3ead83dbfdb991d2f246590c6552f53e8",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2242390662431717,
+    "source_Fab_constant_target_min_distance_A": 30.869480262220492,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 545,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2873871326446533,
+      "L": 2.0554850101470947
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b05_d016": {
+    "source_sha256": "cab1db52e24bea27659cbcb6ba2bceb6dbd96287be844a61411c9d4fd1c5ade3",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2571179270744324,
+    "source_Fab_constant_target_min_distance_A": 33.11945430970909,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 453,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4125194549560547,
+      "L": 2.055266857147217
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b05_d018": {
+    "source_sha256": "d0f6f81d593db14baf2a46022f5a81d4c8f046042f67181e364d572edfab84f3",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.275924950838089,
+    "source_Fab_constant_target_min_distance_A": 32.22617019913811,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 555,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.282674789428711,
+      "L": 2.212770938873291
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b05_d024": {
+    "source_sha256": "e2b6ae854841ce3c5f76cb5d80ffdb81131fdb0b6a529e4f7bf3360552ce9ecd",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22544914484024048,
+    "source_Fab_constant_target_min_distance_A": 27.28377946712734,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 475,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2958290576934814,
+      "L": 2.0207667350769043
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b06_d003": {
+    "source_sha256": "c52538ee863be8066d5e988a006be37fd4ceb2b97c424659d6d149e775babc0d",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.20675140619277954,
+    "source_Fab_constant_target_min_distance_A": 25.81336074420997,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 521,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3080904483795166,
+      "L": 2.022707223892212
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b06_d014": {
+    "source_sha256": "a24dfa81cb13ae5469fca34fe70c7da9a489228cb998fad8ae950c8fb6880b1a",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2596360146999359,
+    "source_Fab_constant_target_min_distance_A": 26.90191373471161,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 407,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3918845653533936,
+      "L": 1.9979565143585205
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b06_d018": {
+    "source_sha256": "2b1c05fc07a10f2481b8abd9875929c657a25e4ffd2569b023b9205288b69427",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.27177461981773376,
+    "source_Fab_constant_target_min_distance_A": 29.08320435856528,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 526,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4164280891418457,
+      "L": 2.018415689468384
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b06_d019": {
+    "source_sha256": "12934a4c2d58841fcce143ce77c09e7cfcf0a088628266186d87ee43ae8c57d4",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22901585698127747,
+    "source_Fab_constant_target_min_distance_A": 25.02760930868378,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 479,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2833311557769775,
+      "L": 2.0035269260406494
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b06_d021": {
+    "source_sha256": "53a038f89c1b01ec563d9882bf8b0140f95650aeea44d7bc00a61485f4191516",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.25731271505355835,
+    "source_Fab_constant_target_min_distance_A": 29.805460336546453,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 467,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3389527797698975,
+      "L": 2.04308819770813
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b07_d008": {
+    "source_sha256": "1561a1b2bae2549b8b7a9b240ad1a1e94764b5abe6ff3b481928e7c4b34d7234",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2897385060787201,
+    "source_Fab_constant_target_min_distance_A": 25.24825829782346,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 499,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3267881870269775,
+      "L": 2.0503547191619873
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b07_d011": {
+    "source_sha256": "ea9013071954e6c6f42b6086325f66c02765d4f144b0410c3dadf4d02a02dcb9",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.21998994052410126,
+    "source_Fab_constant_target_min_distance_A": 27.74333489588979,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 539,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2781524658203125,
+      "L": 1.9183435440063477
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b07_d014": {
+    "source_sha256": "93c4d29aa8a7731596b4f6438c262c4bead3b773b0ec74e07f609ea233979f8f",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.21499259769916534,
+    "source_Fab_constant_target_min_distance_A": 30.289659718633658,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 562,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4782731533050537,
+      "L": 2.126100778579712
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b08_d000": {
+    "source_sha256": "510fe86e39d979d5339f4237691bc5f855efd6724b2b9799a9976db39ba9008d",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22592991590499878,
+    "source_Fab_constant_target_min_distance_A": 31.663266105236616,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 522,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2895233631134033,
+      "L": 1.9902454614639282
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b08_d003": {
+    "source_sha256": "c22a956adba3ede3884eb349cb9358a0663c388a8bc2934663bf43dab3a24069",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2395331710577011,
+    "source_Fab_constant_target_min_distance_A": 28.50852691023749,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 509,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3025500774383545,
+      "L": 2.1129302978515625
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b08_d004": {
+    "source_sha256": "bda3a429f4053ecbef7c0d94ce9c817df61ea7ab2f973530c4536b3a92927018",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.28206774592399597,
+    "source_Fab_constant_target_min_distance_A": 31.389967855050767,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 458,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.436633825302124,
+      "L": 2.1459741592407227
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b08_d007": {
+    "source_sha256": "7260d4d177c306a55b87f8edc0986d4588624bf7393ae29b6dcc5e4abaaf30bd",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22164173424243927,
+    "source_Fab_constant_target_min_distance_A": 28.385717607143526,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 447,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.477785110473633,
+      "L": 2.084622621536255
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b08_d008": {
+    "source_sha256": "a01ff35cad2306764933df8b452865a082a822743ac45bd5648747f2f85fc9ea",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2883506715297699,
+    "source_Fab_constant_target_min_distance_A": 30.056551210507173,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 504,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2570078372955322,
+      "L": 2.079010486602783
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b08_d010": {
+    "source_sha256": "f34662b2957882d89d36446c32f58103c8c744669303fcaaf2495614b591a0f4",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.28612521290779114,
+    "source_Fab_constant_target_min_distance_A": 29.34206764327452,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 482,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3023159503936768,
+      "L": 1.9124525785446167
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b08_d013": {
+    "source_sha256": "84477430c77d303f25fbab87279fa26735735cc8048b86d42f2a0c3cb86223db",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.26458844542503357,
+    "source_Fab_constant_target_min_distance_A": 26.615032602097266,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 483,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.219871997833252,
+      "L": 2.2168376445770264
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b08_d014": {
+    "source_sha256": "b665813ecc9b464760409437560fac9b2c923b2e60d88d49e11278f524fad9e4",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2418089210987091,
+    "source_Fab_constant_target_min_distance_A": 30.20772970483047,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 531,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.5224809646606445,
+      "L": 2.0717358589172363
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b08_d015": {
+    "source_sha256": "a6bc143682bb9f23389c599b2327095806c9945834be024466f332034fef7b87",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.25084176659584045,
+    "source_Fab_constant_target_min_distance_A": 27.653138472580824,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 454,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.29736328125,
+      "L": 2.0175797939300537
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b08_d018": {
+    "source_sha256": "c2db46124ebf0ae88955743254765fbaf54c527c79c21c22b1c83076230248d1",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.21593229472637177,
+    "source_Fab_constant_target_min_distance_A": 31.19615314275373,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 515,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2712998390197754,
+      "L": 2.000082015991211
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b08_d020": {
+    "source_sha256": "0b3059c2766e5c18e1e6673d1eb809b46dd174965bf8c2bfb628170ba4fefcc1",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.29018592834472656,
+    "source_Fab_constant_target_min_distance_A": 28.74643193339489,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 461,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3852009773254395,
+      "L": 2.1985249519348145
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b08_d023": {
+    "source_sha256": "1db032d46173a3d675fc36dbc20c489354c7fc3728d9886f977679282be356e3",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.21543855965137482,
+    "source_Fab_constant_target_min_distance_A": 26.970859396987876,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 446,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3887932300567627,
+      "L": 2.0845344066619873
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b09_d000": {
+    "source_sha256": "b12e4b5e212833f278a70840dd847eb64bb89dfb554fbcaa853572e0e46d4549",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.27629008889198303,
+    "source_Fab_constant_target_min_distance_A": 30.352787038587095,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 557,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.552495241165161,
+      "L": 1.9522229433059692
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b09_d002": {
+    "source_sha256": "f2ec847ba79a09b9a1635a1dc38bc960b3ecadf530fab89f84061d97178c7932",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.20730629563331604,
+    "source_Fab_constant_target_min_distance_A": 32.56577731553813,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 543,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.39563250541687,
+      "L": 2.0717458724975586
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b09_d007": {
+    "source_sha256": "7347a764519bcaa6558d5123c916cfd28dfad650b85c6a5b1aeb78598779bed3",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2502260208129883,
+    "source_Fab_constant_target_min_distance_A": 30.595365785794925,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 573,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3513081073760986,
+      "L": 2.1728243827819824
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b09_d009": {
+    "source_sha256": "31d454c869ec5639e8757dc90c16fb9902ae4ce3ad129ec79e1d32cce6b4cb1c",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.25410550832748413,
+    "source_Fab_constant_target_min_distance_A": 32.10982630175439,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 519,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.323373317718506,
+      "L": 1.988813042640686
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b09_d015": {
+    "source_sha256": "afa3992ec7fbc96148e8f869f9030749b3e1e62d941a77665bd4612cc73234f2",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24116411805152893,
+    "source_Fab_constant_target_min_distance_A": 33.08463170775715,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 541,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2021334171295166,
+      "L": 2.207728385925293
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b09_d019": {
+    "source_sha256": "fff906a8258c738f60fc3c5a9ad414d3fabcea0018a98e25fb84f8509765e9c5",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23991616070270538,
+    "source_Fab_constant_target_min_distance_A": 30.097031492416882,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 560,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.300189733505249,
+      "L": 2.0494794845581055
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b09_d020": {
+    "source_sha256": "0b1ccffcafeffeba08872c79d271335b4e74dffd7479e96241e27dfc787d2c1a",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2151598185300827,
+    "source_Fab_constant_target_min_distance_A": 28.68776255278283,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 548,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.472822904586792,
+      "L": 1.9481936693191528
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b09_d021": {
+    "source_sha256": "f0fb245afe06b561c732a039da034d9a07c0b7e9b91196b1595824d19a2a1d27",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.284405380487442,
+    "source_Fab_constant_target_min_distance_A": 33.12138618237052,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 512,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2781615257263184,
+      "L": 2.197179079055786
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b09_d022": {
+    "source_sha256": "de8a4ef48aed724f28bb9b60e309cb54b3aebafc9a64f27fbab3336e822d81fc",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.27375301718711853,
+    "source_Fab_constant_target_min_distance_A": 33.71367870634642,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 451,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3974485397338867,
+      "L": 2.2288453578948975
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b10_d001": {
+    "source_sha256": "7045c67b4093abcdd84d9e93f2fee9fab5aa0edcefc5a9f63b2a119277f60c34",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2789075970649719,
+    "source_Fab_constant_target_min_distance_A": 26.631778476486065,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 434,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2773234844207764,
+      "L": 2.197251081466675
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b10_d004": {
+    "source_sha256": "d9856aecaf258135abdb62bfa755a41bbc362fb35b513348670e948e1cab30fe",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.25754016637802124,
+    "source_Fab_constant_target_min_distance_A": 27.037403648006443,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 499,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3865911960601807,
+      "L": 1.9522087574005127
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b10_d012": {
+    "source_sha256": "66a1abdd3e6db4d9f7166345fb14b10f6b6cd74f2d3f61a5cec533f7e165a99d",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2662506401538849,
+    "source_Fab_constant_target_min_distance_A": 25.934011121452194,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 413,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.1607460975646973,
+      "L": 2.1012649536132812
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b10_d019": {
+    "source_sha256": "17363d500b5026b50c33015525fa359ad0079b612bd85ba38269a9f600593874",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.252102792263031,
+    "source_Fab_constant_target_min_distance_A": 29.24398000198124,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 612,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.406759738922119,
+      "L": 2.062164545059204
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b10_d021": {
+    "source_sha256": "ce7c97348625044d9d2a0981794eb92acd895550bed657e1a4aa838069245a2a",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23406066000461578,
+    "source_Fab_constant_target_min_distance_A": 27.15669120105992,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 502,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4029245376586914,
+      "L": 2.0708773136138916
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b11_d011": {
+    "source_sha256": "edf262fdaa60490c22621dac16ff32ef2a583005b0ba3fb453b2e3ee011a3216",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.18772068619728088,
+    "source_Fab_constant_target_min_distance_A": 29.999239839399166,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 630,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3689093589782715,
+      "L": 2.0227863788604736
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b11_d016": {
+    "source_sha256": "98ebe1985dabde36652025373edb108cf82bcfcdcfa6a355e9ee6b5fbd3f07c5",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.29569146037101746,
+    "source_Fab_constant_target_min_distance_A": 29.638144497362095,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 586,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4065840244293213,
+      "L": 2.159553289413452
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b11_d017": {
+    "source_sha256": "37be9949af089f5e34c17e14b4ef4f079eecd4b26c6d930abdcacd6eb867e546",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22797933220863342,
+    "source_Fab_constant_target_min_distance_A": 30.469591763372673,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 487,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.319685220718384,
+      "L": 2.111603021621704
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b12_d000": {
+    "source_sha256": "689984da6018a0eed2fa855667cfa0677d3e87e2410c00c9f915351e6e57966b",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2626752555370331,
+    "source_Fab_constant_target_min_distance_A": 31.190815903567632,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 532,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.372580051422119,
+      "L": 2.079284429550171
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b12_d001": {
+    "source_sha256": "a1e0a98d90026c89c7d44d1a6959a2e61af8a0f1389953b9a1fe6c8cadd3c7b6",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23127113282680511,
+    "source_Fab_constant_target_min_distance_A": 30.269029032903273,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 487,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3862130641937256,
+      "L": 2.080758810043335
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b12_d004": {
+    "source_sha256": "63a05e44122fba55312356ee1a922a4d5fa953957c27c6ee84f6d5949bcd7b00",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.26800301671028137,
+    "source_Fab_constant_target_min_distance_A": 28.118034121839564,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 491,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.1304738521575928,
+      "L": 2.1028330326080322
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b12_d009": {
+    "source_sha256": "893d450237b55d84e6cc62c2494745eb5071050f9cc2e87e3b6db060ab7b8b01",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.28304657340049744,
+    "source_Fab_constant_target_min_distance_A": 26.902052328152635,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 449,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.187023162841797,
+      "L": 2.089233636856079
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b12_d012": {
+    "source_sha256": "b2d45504aad15b0579d3659d449eae180f7c699e735a4fc936da2d89434b7b8c",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2325095385313034,
+    "source_Fab_constant_target_min_distance_A": 31.84667951227861,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 504,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4021828174591064,
+      "L": 2.0201032161712646
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b12_d015": {
+    "source_sha256": "447d25abbe7fbf5e2c9499f900a061c066deb4e7d06cfca74228bd893919b981",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.26843342185020447,
+    "source_Fab_constant_target_min_distance_A": 23.71523561131551,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 458,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4598238468170166,
+      "L": 1.9929267168045044
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b12_d024": {
+    "source_sha256": "1359a4f20cbfe10dc6a8626ed0fff24b6319839e27b3caac6202f8fe0d612a5f",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2083985060453415,
+    "source_Fab_constant_target_min_distance_A": 31.25799989746897,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 575,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.309154510498047,
+      "L": 2.0475707054138184
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b13_d000": {
+    "source_sha256": "39ced06e2feb62cb45152cb7925b903594fd97342ab8088daa10d61ac1aaf29c",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24292080104351044,
+    "source_Fab_constant_target_min_distance_A": 29.26416241706568,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 555,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.115381956100464,
+      "L": 2.150277853012085
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b13_d004": {
+    "source_sha256": "6ff0acabc326f84e0c8a6059b6a7cd9953b91668036336bfa704e9bb727aeeb5",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24873344600200653,
+    "source_Fab_constant_target_min_distance_A": 32.22535900359229,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 497,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.356585741043091,
+      "L": 2.0708296298980713
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b13_d008": {
+    "source_sha256": "1b45d95678c56a82f755387e970bb69c4f08ac28cea9d8a6ca3d49288846c3a4",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2586265504360199,
+    "source_Fab_constant_target_min_distance_A": 15.869345335302135,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 532,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2889132499694824,
+      "L": 2.012972593307495
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b13_d011": {
+    "source_sha256": "1069f44c29d917ae760b04f5f3e4251fd7fb5d541d6937ba18a4aa9468f124f8",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23734122514724731,
+    "source_Fab_constant_target_min_distance_A": 29.04861068541509,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 445,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3672943115234375,
+      "L": 2.06764554977417
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b13_d019": {
+    "source_sha256": "17c615038cb45f9845776d7d049466beacaf61c7b42c8ed87d3c85aed2390b2c",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.28051117062568665,
+    "source_Fab_constant_target_min_distance_A": 34.29167201474736,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 493,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4401729106903076,
+      "L": 2.1110267639160156
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b13_d021": {
+    "source_sha256": "0b9bab3d397ab3d2fb0d33ff34ee39d109342400a5238d7442d109d18d590d5e",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2721003592014313,
+    "source_Fab_constant_target_min_distance_A": 27.841335099366976,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 500,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4982073307037354,
+      "L": 2.021047830581665
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b13_d022": {
+    "source_sha256": "2d49b009035d3291e2586a96966fe091577174ac6ee75668a83fb7547a6c33d0",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.25891900062561035,
+    "source_Fab_constant_target_min_distance_A": 33.025671491493455,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 510,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3345985412597656,
+      "L": 2.0084216594696045
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b13_d023": {
+    "source_sha256": "d303391fc151ed00b3d15891b32d20a4755aad46e78a848c97658bc6e7cfe3f6",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2646333873271942,
+    "source_Fab_constant_target_min_distance_A": 32.671776758726445,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 546,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2839467525482178,
+      "L": 2.041599750518799
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b14_d002": {
+    "source_sha256": "79e22469b03485563c69ddc09ea4da860714b1648604dae048c4105127618032",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.26053524017333984,
+    "source_Fab_constant_target_min_distance_A": 29.844631607179483,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 443,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2038321495056152,
+      "L": 2.03977370262146
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b14_d003": {
+    "source_sha256": "b03e096713685dc339692b1bf7a73591a99ce967143fdce8908636894ee1708c",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24526622891426086,
+    "source_Fab_constant_target_min_distance_A": 24.6513349247076,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 1,
+    "Fv_HL_atom_contacts_below_5A": 503,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4102346897125244,
+      "L": 2.0456438064575195
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b14_d013": {
+    "source_sha256": "99fe6c176e82a38fc13ce18c8827f9b53686f49c4eab14f5857089d933596a9d",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22733403742313385,
+    "source_Fab_constant_target_min_distance_A": 24.620817897913515,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 507,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.184683084487915,
+      "L": 2.0555362701416016
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b14_d017": {
+    "source_sha256": "d87de15a4e506ee3c3c41bca1cfc0e34884043224873bff68ffc23b24efb222c",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22975900769233704,
+    "source_Fab_constant_target_min_distance_A": 22.851975088426784,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 479,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.212684392929077,
+      "L": 2.050102472305298
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b15_d010": {
+    "source_sha256": "4d0f5452bd793afd349478000391f6bdc7e53848c2b46b97ae0c02f1383fe0b2",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24513490498065948,
+    "source_Fab_constant_target_min_distance_A": 28.204497116712467,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 484,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.303562641143799,
+      "L": 2.001028060913086
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b15_d011": {
+    "source_sha256": "2195822d6ab5446205ea437442d3586e9ef24cb1a5f764464a707d3b78bbba23",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.30402228236198425,
+    "source_Fab_constant_target_min_distance_A": 29.83675633313084,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 515,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3743369579315186,
+      "L": 1.9870926141738892
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b15_d016": {
+    "source_sha256": "dc5f1cf74579532744df8672ddebd3507f0425d780d06eb3dbc5f2a5c5810e4d",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.27629905939102173,
+    "source_Fab_constant_target_min_distance_A": 27.277869035640776,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 441,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.43942928314209,
+      "L": 1.9769351482391357
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b15_d019": {
+    "source_sha256": "c03fc07c3ceb325ccde7dc5219ae27f8db422bf9e157365bb7d786684d0b52d9",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2672511637210846,
+    "source_Fab_constant_target_min_distance_A": 29.755266426448188,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 550,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3760573863983154,
+      "L": 2.084061622619629
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b15_d020": {
+    "source_sha256": "7143be40d82b70985458afb92a4a32f52ca20f99e4815b48e9f2c5a6e3d20683",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.25052353739738464,
+    "source_Fab_constant_target_min_distance_A": 23.42397172889211,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 499,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.1702494621276855,
+      "L": 1.9753233194351196
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b15_d023": {
+    "source_sha256": "b5a19e17d9c2aa93dbecf2b657e6f457be733eb7492c87be369fbeaceee425a3",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2218325138092041,
+    "source_Fab_constant_target_min_distance_A": 29.670096855858663,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 581,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.304131507873535,
+      "L": 1.9739089012145996
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b16_d002": {
+    "source_sha256": "e30198021813d491de92c6cbbb00a9be96657977abd528cd0ed6536c3b470e31",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2998562753200531,
+    "source_Fab_constant_target_min_distance_A": 27.69239980258386,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 413,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.360626220703125,
+      "L": 2.131932258605957
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b16_d003": {
+    "source_sha256": "6f4e50c080c093c197f38fe8d4e8d129f166195df4f2eae4ed2a962020440d95",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24993766844272614,
+    "source_Fab_constant_target_min_distance_A": 26.99705682964707,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 470,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.25516939163208,
+      "L": 1.9916611909866333
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b16_d004": {
+    "source_sha256": "4362000ecfd77cc1dd9b40253676d5cdadf28e90437d7d0412bca52414b7b646",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22011877596378326,
+    "source_Fab_constant_target_min_distance_A": 32.18903739569738,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 526,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.250795841217041,
+      "L": 2.0679476261138916
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b16_d006": {
+    "source_sha256": "84bd96463944ee0a18aeccc07270f345f90b23ca20443195178984fc58fee66c",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.19019964337348938,
+    "source_Fab_constant_target_min_distance_A": 27.13539875602186,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 585,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3197476863861084,
+      "L": 2.0361580848693848
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b16_d007": {
+    "source_sha256": "345ee5034277ef05d73f6e418bc6207cc0892b5691995a18fa94cbf9b3fd51c7",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24621433019638062,
+    "source_Fab_constant_target_min_distance_A": 31.642547076986578,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 555,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2298872470855713,
+      "L": 2.042405366897583
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b16_d009": {
+    "source_sha256": "d524b45c20cfb8bbed598285a43c9d4d2fd811a49a1348e5434e0908fb7758f9",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24755215644836426,
+    "source_Fab_constant_target_min_distance_A": 23.82838231645268,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 593,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.212360143661499,
+      "L": 2.075021982192993
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b16_d010": {
+    "source_sha256": "f0b41ca104193a612f58f4dfae1c9dc3b1a4b6a5f93f71b20fad04c2f5d025c0",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24968478083610535,
+    "source_Fab_constant_target_min_distance_A": 29.699223257452612,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 488,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3953704833984375,
+      "L": 2.0099003314971924
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b16_d011": {
+    "source_sha256": "4b0a4986455ef7d20939ced8ca3c1b36fc699b1029b15a8ded2850b7ce417c66",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22497224807739258,
+    "source_Fab_constant_target_min_distance_A": 25.688582053173135,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 573,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.325748920440674,
+      "L": 1.978790283203125
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b16_d012": {
+    "source_sha256": "d3247216ed0c1fac70659494442eee8054df02ade9533da06a720c946036c67c",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22914396226406097,
+    "source_Fab_constant_target_min_distance_A": 26.395577719650834,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 479,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2509653568267822,
+      "L": 1.9530223608016968
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b16_d015": {
+    "source_sha256": "cd47cc6f629ce0d755a47eab986da604ce2f125ea04ac79c7a4aa3dc525389f3",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.29329660534858704,
+    "source_Fab_constant_target_min_distance_A": 25.958932147017855,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 493,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3788886070251465,
+      "L": 2.0836567878723145
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b16_d024": {
+    "source_sha256": "61f7aaca1a94874d5bceff71e458f3c7da99a6c48a96a8b8520e35d8a5eda0c4",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.18141718208789825,
+    "source_Fab_constant_target_min_distance_A": 30.951007180631763,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 579,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2913944721221924,
+      "L": 2.007938861846924
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b17_d002": {
+    "source_sha256": "b87fe6e14ce3123b4a55635fa13d808e2ebaa085d611f642395deb516f2817f0",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22678327560424805,
+    "source_Fab_constant_target_min_distance_A": 28.59049294707692,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 517,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.373091697692871,
+      "L": 1.9919966459274292
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b17_d005": {
+    "source_sha256": "5784fd35e296d4457d227b9b03cb873c153899c1803137dd6f8bbb80503d7f84",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24061354994773865,
+    "source_Fab_constant_target_min_distance_A": 30.403764678176625,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 499,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3533713817596436,
+      "L": 2.0617258548736572
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b17_d006": {
+    "source_sha256": "46eb8bb2cd5a515ce8f7d6ab957107b661fe9ac8ce25a84eea8050c053728fc3",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2545587122440338,
+    "source_Fab_constant_target_min_distance_A": 32.55743675338635,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 504,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.294337749481201,
+      "L": 2.108938217163086
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b17_d008": {
+    "source_sha256": "e59feb5d2b8a5767aba24bbd08fc3caf21b314b682e544615a0fccc1608eaaec",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24669454991817474,
+    "source_Fab_constant_target_min_distance_A": 32.66142233244824,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 559,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.1752092838287354,
+      "L": 2.0219764709472656
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b17_d011": {
+    "source_sha256": "c7d3a2c4ed4500fcb96f7e7d92de9ced5f111c8dcbbbd016a26284ac0aa8d770",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.27001363039016724,
+    "source_Fab_constant_target_min_distance_A": 26.75648441619596,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 514,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.502047300338745,
+      "L": 2.076507806777954
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b17_d016": {
+    "source_sha256": "97e37581e35ff490e297e4001235d1e10a9e67968a02fe434bd989517fb1f658",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22063207626342773,
+    "source_Fab_constant_target_min_distance_A": 31.434712722961045,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 555,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.286660671234131,
+      "L": 2.1184000968933105
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b17_d019": {
+    "source_sha256": "20bda53bb49ac7db0d55bc3e91c529cec2f61491fab0f2e37ed74597fb8fb05b",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2731214463710785,
+    "source_Fab_constant_target_min_distance_A": 29.93142120248843,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 547,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4299509525299072,
+      "L": 2.139845371246338
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b17_d021": {
+    "source_sha256": "7108e7fc27b3545ceff127bcbcc0abcf3045c26626c25ddcd7ab57d878c9c908",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.299909383058548,
+    "source_Fab_constant_target_min_distance_A": 29.246724259920285,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 483,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3521947860717773,
+      "L": 2.269063949584961
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b17_d024": {
+    "source_sha256": "cf86a416c0620016930405c654dc317c365b87d1129a9f8fd8ed6e79512b34b5",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23527708649635315,
+    "source_Fab_constant_target_min_distance_A": 33.25642212226965,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 500,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3444669246673584,
+      "L": 2.0264341831207275
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b18_d003": {
+    "source_sha256": "87ead35cdd0f7979a4db9b2bdd99b9f801a57c9b6d2a6859199eea2255f3dbdb",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2576424777507782,
+    "source_Fab_constant_target_min_distance_A": 26.830675075480332,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 461,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.175445079803467,
+      "L": 2.0817854404449463
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b18_d018": {
+    "source_sha256": "bff38c1db3e83c4b94e8dc768f7e1c9021a142b48532a3466142603fa5ac064d",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2850111126899719,
+    "source_Fab_constant_target_min_distance_A": 31.231717456460782,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 562,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.318406343460083,
+      "L": 2.139096260070801
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b18_d023": {
+    "source_sha256": "034ffc54d5ccd117325596b71e01fc3f0ce0393d1c5710518fd61867069109ed",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.29534682631492615,
+    "source_Fab_constant_target_min_distance_A": 27.20731147497905,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 418,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3479647636413574,
+      "L": 2.1344382762908936
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b19_d001": {
+    "source_sha256": "9616565bc508e20f8f316fcaeec07ff067f4485ca33769751c4c532f209f32bf",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23852822184562683,
+    "source_Fab_constant_target_min_distance_A": 26.847792989555284,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 484,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.268688201904297,
+      "L": 2.0447847843170166
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b19_d003": {
+    "source_sha256": "6a759e07c49b3952a275b6fbb0e16a3ffcea9fe2afe6431801de228c47668422",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2408359795808792,
+    "source_Fab_constant_target_min_distance_A": 28.513333833563273,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 485,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3418984413146973,
+      "L": 1.9502228498458862
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b19_d014": {
+    "source_sha256": "373a07d827c8b0a6540e6b8afc1f134f89176442336102d104243886685a52bd",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24664844572544098,
+    "source_Fab_constant_target_min_distance_A": 30.101349136022467,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 491,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.336012125015259,
+      "L": 2.1091055870056152
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R1_b19_d024": {
+    "source_sha256": "dd73bd1ae23b5d4d2b7bed78d45a3c4ded6a8224bcc099dc9b9ea46e3640555a",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.28741803765296936,
+    "source_Fab_constant_target_min_distance_A": 26.043635122420298,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 489,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2782936096191406,
+      "L": 2.0470707416534424
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b00_d000": {
+    "source_sha256": "16195ce7f9f5058789d81b069dcf2f91a5058a74902529ca85decf72621a9074",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22164569795131683,
+    "source_Fab_constant_target_min_distance_A": 27.21825705734116,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 439,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2823634147644043,
+      "L": 2.078392505645752
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b00_d002": {
+    "source_sha256": "7f9d82101c0b2370b4b5c7d4a28ebc61ffa3256c9f986dc9a5712f8b7d1c29bf",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.30168163776397705,
+    "source_Fab_constant_target_min_distance_A": 32.07422970680998,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 476,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2965919971466064,
+      "L": 2.0141327381134033
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b00_d016": {
+    "source_sha256": "bab10c5b7aeef36d4e006b3b5a71862cc20cdcb3aecbc2163674fcc263b10c55",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22560568153858185,
+    "source_Fab_constant_target_min_distance_A": 25.022218880196895,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 503,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3524322509765625,
+      "L": 2.1429152488708496
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b00_d020": {
+    "source_sha256": "444cd5ba4d75956c7b3f018047b4ccb393e376d726a675e1595778b684d7db00",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.1894858479499817,
+    "source_Fab_constant_target_min_distance_A": 29.19950515061777,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 504,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3849005699157715,
+      "L": 2.0819411277770996
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b00_d024": {
+    "source_sha256": "3a9c4f6c8dfa09a6c500c8420e769c616e3a60a828137e49777da1deabd4bfb1",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22452187538146973,
+    "source_Fab_constant_target_min_distance_A": 28.769645521599482,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 543,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2920854091644287,
+      "L": 2.0263583660125732
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b01_d001": {
+    "source_sha256": "0b75964ab94439395734c63ca7c9585fd32b1fa8fb1c5abe2e1fcf19ea79467e",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24210578203201294,
+    "source_Fab_constant_target_min_distance_A": 27.93184319471884,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 525,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4030439853668213,
+      "L": 2.077887773513794
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b01_d008": {
+    "source_sha256": "85e2335d4d6c057e21e5a58bf271941af4f4742f8491589f10cc01deabbd26ff",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23166492581367493,
+    "source_Fab_constant_target_min_distance_A": 34.2115291171186,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 504,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.1551246643066406,
+      "L": 2.015378713607788
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b01_d009": {
+    "source_sha256": "64494a5b1c3223ba77e1298b3e772b49dc1821fc1396b3ba3a7a154eae9593f9",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2521287798881531,
+    "source_Fab_constant_target_min_distance_A": 32.98036506536241,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 531,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3964736461639404,
+      "L": 2.101320266723633
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b01_d013": {
+    "source_sha256": "e0458f9ac6d33851133d0d82f5f3a828232ee289ef59e3e624bd431bb8db7262",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2758960425853729,
+    "source_Fab_constant_target_min_distance_A": 30.778971238909907,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 592,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.377855062484741,
+      "L": 2.1258137226104736
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b01_d016": {
+    "source_sha256": "aff6e5c125189cf6cf4530b96a4c5a2502775d762f66716918db58b24f447a30",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2554844617843628,
+    "source_Fab_constant_target_min_distance_A": 21.68691071926835,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 546,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.360672950744629,
+      "L": 2.027132272720337
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b01_d018": {
+    "source_sha256": "b9dfae9a8186ab967be5eef5c5de08023a901d2a3364f669058364ee51261958",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.20193572342395782,
+    "source_Fab_constant_target_min_distance_A": 29.16350749248292,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 488,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4728434085845947,
+      "L": 2.094578504562378
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b01_d019": {
+    "source_sha256": "fb3b88cd126858bd1daeae3cedd7771216aefb1d1ad3429f76fffc1199e34449",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24454474449157715,
+    "source_Fab_constant_target_min_distance_A": 33.720768031729776,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 454,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2426979541778564,
+      "L": 2.079949378967285
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b01_d020": {
+    "source_sha256": "d46f0255e78b76f6321b1e37c15e7385645175cbfca7f7bb2129ed014ec607bb",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23583509027957916,
+    "source_Fab_constant_target_min_distance_A": 28.91945949201302,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 480,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.231733560562134,
+      "L": 2.159353256225586
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b01_d024": {
+    "source_sha256": "c12b83e4de18a0e06ec837dfc8e1ee7dba106b4281d5f8259094b7e1b426be0c",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24570465087890625,
+    "source_Fab_constant_target_min_distance_A": 28.602743824678186,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 493,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.367213487625122,
+      "L": 1.9210885763168335
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b02_d009": {
+    "source_sha256": "70001cfe38d1698b34918aae6fc36aefccf0a812dc4f206b36b22cc186716e1b",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2209971845149994,
+    "source_Fab_constant_target_min_distance_A": 30.456750801110847,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 535,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.406832695007324,
+      "L": 2.2719767093658447
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b02_d011": {
+    "source_sha256": "1705c887d91983b7ce9eb2bb798021545daf86e7d6d3b5de8d3c48db068c53e6",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.28450295329093933,
+    "source_Fab_constant_target_min_distance_A": 28.33237419048168,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 495,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.26615309715271,
+      "L": 2.287268877029419
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b02_d012": {
+    "source_sha256": "4cb0c2a0868b09d00b2463cd58331f1d36c714e49921a3bb81a1ee2b015dbac9",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22010846436023712,
+    "source_Fab_constant_target_min_distance_A": 25.590447725349204,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 492,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.355180263519287,
+      "L": 2.0494229793548584
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b02_d016": {
+    "source_sha256": "0cef0f884312ecca2d0807ebe93d1d00de6b0fcefdf0fe73bf7118569619a70d",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2521910071372986,
+    "source_Fab_constant_target_min_distance_A": 17.664327140277184,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 521,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2709579467773438,
+      "L": 1.962908387184143
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b02_d022": {
+    "source_sha256": "312db486c4ac4f41820106e7f7cb54b228bd2ebc4393249694e49f7a32ff4972",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2941646873950958,
+    "source_Fab_constant_target_min_distance_A": 23.918909621283007,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 435,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.218386173248291,
+      "L": 2.102083206176758
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b03_d006": {
+    "source_sha256": "5a81f24c943ea973b240a2a7b0e4833a7705655352bc3ac3ff07d57260701122",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.3161972761154175,
+    "source_Fab_constant_target_min_distance_A": 30.926332519592087,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 537,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.320486068725586,
+      "L": 2.013232707977295
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b03_d012": {
+    "source_sha256": "4c4006774332348b54a05843fb192e4cfa57c57bb7ce599b9a3ccc439cbf98d1",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.20812466740608215,
+    "source_Fab_constant_target_min_distance_A": 30.79699464748577,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 469,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.184060573577881,
+      "L": 2.081664800643921
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b03_d017": {
+    "source_sha256": "78e08a456368ee1e6cfb2a49d52ebc9477e59252072a9210fe2bc3e55c86a2f4",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.31451350450515747,
+    "source_Fab_constant_target_min_distance_A": 30.904540810992696,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 533,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.382406711578369,
+      "L": 2.0825111865997314
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b03_d018": {
+    "source_sha256": "194f406119319213888ffd2bf01df87dc3ba400b8f721c0dccc9cc0f0c72b679",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.19545575976371765,
+    "source_Fab_constant_target_min_distance_A": 28.559786314463626,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 471,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2835628986358643,
+      "L": 2.048727512359619
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b03_d024": {
+    "source_sha256": "5991b11c49cc85ec59ad96678b1f243511de2009c4d783d4badf6c83f43c2571",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.3027266561985016,
+    "source_Fab_constant_target_min_distance_A": 29.477635668159078,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 563,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2971737384796143,
+      "L": 2.127354860305786
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b04_d003": {
+    "source_sha256": "bbd9acf16d41f8fb939fcb82ecbe05d4a60356f32f330631b887968efb3cb3f3",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2642558813095093,
+    "source_Fab_constant_target_min_distance_A": 31.972533627329376,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 527,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.5280802249908447,
+      "L": 2.0778419971466064
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b04_d004": {
+    "source_sha256": "42117d7f59f14cebdc369f1524855870ce5b0f23514532461832089cfab264b4",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23527562618255615,
+    "source_Fab_constant_target_min_distance_A": 32.45827250570871,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 616,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3067243099212646,
+      "L": 2.1876027584075928
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b04_d010": {
+    "source_sha256": "264f8f9b034ae5aff050302020b37cef5c2e909502d5dc06175b4e7baf3d4fb9",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.21969380974769592,
+    "source_Fab_constant_target_min_distance_A": 33.40161672693257,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 486,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.182743549346924,
+      "L": 1.9302427768707275
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b04_d013": {
+    "source_sha256": "aa6e8faa6c3514f9d6cf9ab728edc4cb7c7af1ce624d29babb831e5299093f09",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24858666956424713,
+    "source_Fab_constant_target_min_distance_A": 26.652765559336213,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 568,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3588802814483643,
+      "L": 2.201611280441284
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b05_d000": {
+    "source_sha256": "63879579569b10472be0a891809c73ee2c7b26126368ad947eb237f4b6dd7c6e",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.20987087488174438,
+    "source_Fab_constant_target_min_distance_A": 30.073073316315707,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 546,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4211602210998535,
+      "L": 2.1489055156707764
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b05_d004": {
+    "source_sha256": "c52b127781e1f61ce02ef8d13c2f5059e3206dfc8df9dab7fea033e4e9614a15",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2343979924917221,
+    "source_Fab_constant_target_min_distance_A": 32.14561654737007,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 528,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.384582281112671,
+      "L": 2.030904769897461
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b05_d005": {
+    "source_sha256": "28662ff48ba0114dccf60031ae40d96b8191483ff716388eb4aa04c49f5d87ec",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.30903828144073486,
+    "source_Fab_constant_target_min_distance_A": 34.371706688739835,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 535,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3302085399627686,
+      "L": 2.089886426925659
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b05_d006": {
+    "source_sha256": "932b2a2660e0d06679c61ed633aeed6d98fcb48e8309a5e9e6f859fe0d230ec1",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.20576444268226624,
+    "source_Fab_constant_target_min_distance_A": 31.163287769789257,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 533,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.222815752029419,
+      "L": 2.073343515396118
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b05_d007": {
+    "source_sha256": "c520a1ada62f5730d80fa06ccbe3dceb6d2bd79e50c6dc914e595e2ac5fdb54d",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2596077024936676,
+    "source_Fab_constant_target_min_distance_A": 32.46071554356799,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 559,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3460516929626465,
+      "L": 2.2752015590667725
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b05_d010": {
+    "source_sha256": "f8fb22650c9a9b0e17f64c85cea43f0f25eff8975f6f867efaa28051f781a85f",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23412883281707764,
+    "source_Fab_constant_target_min_distance_A": 28.90907021766504,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 483,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.393566131591797,
+      "L": 2.05155086517334
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b05_d011": {
+    "source_sha256": "65e607bcecb2a937600863ffd613db91b1516cc691875c40b53531cfa861ee35",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.3016064465045929,
+    "source_Fab_constant_target_min_distance_A": 20.070909031989782,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 537,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3841259479522705,
+      "L": 1.993135929107666
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b05_d013": {
+    "source_sha256": "18f1d46efdb3ef7ce093b483f959f95bc36f4610cdc44d4d97ac6a0c3d3ed963",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.27622857689857483,
+    "source_Fab_constant_target_min_distance_A": 32.27384502317092,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 520,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.434278964996338,
+      "L": 2.0959715843200684
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b05_d023": {
+    "source_sha256": "1fd5e07b1ac2e3a431444028506183cd114fd698ee926efaad51adcb7abf474e",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.25101903080940247,
+    "source_Fab_constant_target_min_distance_A": 24.859227338994266,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 552,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.251697063446045,
+      "L": 2.0016355514526367
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b06_d012": {
+    "source_sha256": "2cd7b95afd7700b22b28b4537d537102ec4690dabc9d64dfd38e181adba7da95",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2986127436161041,
+    "source_Fab_constant_target_min_distance_A": 26.174907133842588,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 430,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.433246612548828,
+      "L": 2.2379612922668457
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b06_d023": {
+    "source_sha256": "54c43aaa19a90ce62d95d99ed6de28884943745cf50019b8f05ac1ff12b2378f",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.28628024458885193,
+    "source_Fab_constant_target_min_distance_A": 27.414149345320617,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 512,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.432060480117798,
+      "L": 2.0770888328552246
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b07_d003": {
+    "source_sha256": "d08c89473cf9cb67011d3b8f65f3c59f61d931e6fde40dff960a3dd8268f2e8a",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2605303227901459,
+    "source_Fab_constant_target_min_distance_A": 31.011898557014657,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 476,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.269831418991089,
+      "L": 1.9938932657241821
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b07_d009": {
+    "source_sha256": "3978e13be3d3e54a6dd34f1afe07b52278941d0352fbb109f529c7b1feea0414",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.20146378874778748,
+    "source_Fab_constant_target_min_distance_A": 25.380760540095274,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 529,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2640254497528076,
+      "L": 2.134127616882324
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b07_d018": {
+    "source_sha256": "b5e0c99fb6db9291f62df5602b417b20342959bf9bdb6efb8c8692cfc9d88ca5",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.18958726525306702,
+    "source_Fab_constant_target_min_distance_A": 27.718193135387317,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 522,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.1847286224365234,
+      "L": 1.9617369174957275
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b07_d019": {
+    "source_sha256": "d4d3b85a4aeb7bbe8595b4c2d96a5be1a58cb5844021c0bb21bb46cbe573c7c6",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24427565932273865,
+    "source_Fab_constant_target_min_distance_A": 29.433778385432714,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 472,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.308891773223877,
+      "L": 2.141541004180908
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b07_d024": {
+    "source_sha256": "38bba003470778eb7c0b579226f2fced2bc9db3b44ad6786ae3242b54f834384",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.26567474007606506,
+    "source_Fab_constant_target_min_distance_A": 28.998501762541625,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 545,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3752689361572266,
+      "L": 2.034282922744751
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b08_d002": {
+    "source_sha256": "9a1751f266b75d95e098038ffdea30a3ef27f9b90eeaa5b33e0ab72b886bf821",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2507777810096741,
+    "source_Fab_constant_target_min_distance_A": 31.861841412925678,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 570,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.342655658721924,
+      "L": 2.194857120513916
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b08_d003": {
+    "source_sha256": "e67a46a48828e852b082991d8106c84308b619d9bf879fcd24f1775a7b2dc694",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2715705633163452,
+    "source_Fab_constant_target_min_distance_A": 32.04478644704476,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 479,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4110405445098877,
+      "L": 2.1640241146087646
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b08_d008": {
+    "source_sha256": "e1ca17c7f0e20380199dd76137acfde5b4ec092ff324a3c39e7aee05c65e75d2",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.21317604184150696,
+    "source_Fab_constant_target_min_distance_A": 31.78197224716825,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 368,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3185133934020996,
+      "L": 2.102555274963379
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b08_d010": {
+    "source_sha256": "70a9eb93d814a030c47d869f262fd091d448ad7fa6032695a6eb145fd64d03c5",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2376626878976822,
+    "source_Fab_constant_target_min_distance_A": 31.775948253006316,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 544,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3877549171447754,
+      "L": 2.059990644454956
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b08_d012": {
+    "source_sha256": "dc6154bda8bf33e39b5952f8808dc534e55047d9688a529b44b092b6d86a2d76",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2425607293844223,
+    "source_Fab_constant_target_min_distance_A": 31.85151774638257,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 575,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.462029218673706,
+      "L": 2.193999767303467
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b08_d013": {
+    "source_sha256": "e7ec565421091362fd38bc5673d76a2ae189c6685f59132403115796f2399555",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.250657320022583,
+    "source_Fab_constant_target_min_distance_A": 31.60670069361285,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 560,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2823736667633057,
+      "L": 2.0819311141967773
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b08_d020": {
+    "source_sha256": "b8aa3ddbe366f9db3b552af55bf2b0721bf840570c53ca8fad3056c8411d0857",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.269572377204895,
+    "source_Fab_constant_target_min_distance_A": 28.02680597392214,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 442,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2944226264953613,
+      "L": 2.045708417892456
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b09_d000": {
+    "source_sha256": "2ce050fdfc1dd7369d04ae3ecc109b19f01e039d0c5aa482db815c1c9166e3f4",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.26674216985702515,
+    "source_Fab_constant_target_min_distance_A": 30.368929263811783,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 596,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.348550319671631,
+      "L": 1.9584959745407104
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b09_d004": {
+    "source_sha256": "4e06231a0d1d8470d12a61a8f19a8625f5fb5860ad6afc8a5243a250e23e7f05",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.27626726031303406,
+    "source_Fab_constant_target_min_distance_A": 32.25384955881868,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 505,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3777287006378174,
+      "L": 2.0300159454345703
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b09_d011": {
+    "source_sha256": "f17e5aa9d4f54a0232acf396a3d2136f448bc25a6da9cfbad1e3403f67a1ae7d",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.26045745611190796,
+    "source_Fab_constant_target_min_distance_A": 24.445353145750975,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 667,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2918472290039062,
+      "L": 2.025235652923584
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b09_d016": {
+    "source_sha256": "0720aed41a6bdab3ef94b464334dfe27269025162336143a366994b405b27653",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.27607226371765137,
+    "source_Fab_constant_target_min_distance_A": 30.363211057803486,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 509,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.291816234588623,
+      "L": 2.16616153717041
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b09_d020": {
+    "source_sha256": "4964ac5c7a810d0333aa95f855ae8e2959838b74a2a03c6244335d4d742f6309",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2265702486038208,
+    "source_Fab_constant_target_min_distance_A": 30.420907172151814,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 558,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4647042751312256,
+      "L": 1.986878752708435
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b09_d023": {
+    "source_sha256": "274809afc371db6bd0936590358805cc5906c75edcf15a0bb77cf0058242ab91",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22259409725666046,
+    "source_Fab_constant_target_min_distance_A": 30.32022261632765,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 571,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3174238204956055,
+      "L": 2.059541940689087
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b10_d001": {
+    "source_sha256": "4535e264997f0e89878bd77b7731093737074a52f763f1d59f2ce4e0b4b61f6c",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.20861408114433289,
+    "source_Fab_constant_target_min_distance_A": 24.643192422932263,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 1,
+    "Fv_HL_atom_contacts_below_5A": 508,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.226489305496216,
+      "L": 1.9180656671524048
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b10_d002": {
+    "source_sha256": "7ffd3f0d1686ccd550b70ff4da459a3d05dacc1baf4e5083da8d9f47e007e81d",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2431054562330246,
+    "source_Fab_constant_target_min_distance_A": 29.52108955104658,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 520,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2967886924743652,
+      "L": 1.9749438762664795
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b10_d003": {
+    "source_sha256": "ff2300d28fc5a419e4018485a14fa3b3edb77dc8e697c2df10a6ea27f1e1cbde",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2725701630115509,
+    "source_Fab_constant_target_min_distance_A": 30.506201551430124,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 602,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.404895544052124,
+      "L": 2.110982894897461
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b10_d008": {
+    "source_sha256": "22386919a17e970c959a9703ae657be1a346ad20f90b35632e479cc6e7623614",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.26865026354789734,
+    "source_Fab_constant_target_min_distance_A": 23.697551918796755,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 575,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3452470302581787,
+      "L": 1.992026925086975
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b10_d012": {
+    "source_sha256": "3c46fc1ff06a026537f663dd07236cd2f97561b279255ae90d7bd661bc1f3c1d",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24566656351089478,
+    "source_Fab_constant_target_min_distance_A": 27.488836187562814,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 626,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.267566442489624,
+      "L": 2.0614407062530518
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b10_d017": {
+    "source_sha256": "2587ec37beb2699f02f45b12bb78de0c45ef080e8db216af5aceeab530fea609",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22520241141319275,
+    "source_Fab_constant_target_min_distance_A": 29.420132223544417,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 464,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3431315422058105,
+      "L": 2.1419436931610107
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b10_d018": {
+    "source_sha256": "5fc00d4147333d9b6a9f0e0f0661b6e6ac0e845a59d892002b39435e22c4ba25",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24312061071395874,
+    "source_Fab_constant_target_min_distance_A": 27.91767347924116,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 527,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.400758743286133,
+      "L": 2.006706476211548
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b11_d006": {
+    "source_sha256": "bb380c28a038e646148e3b9ad4eb5061a6e7b1bfe69f5820089bb0fab53ec119",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2478303462266922,
+    "source_Fab_constant_target_min_distance_A": 29.8713794279089,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 566,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.450563907623291,
+      "L": 1.9971227645874023
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b11_d013": {
+    "source_sha256": "48b12a3e1799435b089b27243199eb7f5eb89e3d4ba004b9a88f374989203b38",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2310589849948883,
+    "source_Fab_constant_target_min_distance_A": 29.360884004327414,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 509,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2881555557250977,
+      "L": 2.124096393585205
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b11_d020": {
+    "source_sha256": "ef995e217320f8713e5a60b58626b634b5f899efc98432a81255f7d8863a1c57",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2271973043680191,
+    "source_Fab_constant_target_min_distance_A": 29.40232180550541,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 524,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2733774185180664,
+      "L": 2.05942964553833
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b11_d024": {
+    "source_sha256": "bcb9a0cb9f5cfeed78a8674a32b1099e704c24c92b4a89b510394cdb57cd43a5",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2381681352853775,
+    "source_Fab_constant_target_min_distance_A": 28.168673996268215,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 469,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2835543155670166,
+      "L": 2.0620040893554688
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b12_d002": {
+    "source_sha256": "c98697ca1d2ae1c8f22e5bf52225b59b3715b5550f96249dcb878c8cd7b928b8",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2750985622406006,
+    "source_Fab_constant_target_min_distance_A": 27.23298526331388,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 476,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3900952339172363,
+      "L": 2.1144306659698486
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b12_d003": {
+    "source_sha256": "09c7739fbc866d9fbb9f9edc542d2168476ffebec87bdffa7f068e573d21d9c4",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.25569790601730347,
+    "source_Fab_constant_target_min_distance_A": 32.61483872306117,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 608,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.498595714569092,
+      "L": 2.157907724380493
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b12_d005": {
+    "source_sha256": "c8a06a74ec7c58e29a639aabb3b3c1356a0ffdefe185c062399960792d80df17",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2638850510120392,
+    "source_Fab_constant_target_min_distance_A": 27.50980813486877,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 488,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3970391750335693,
+      "L": 2.0264077186584473
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b12_d007": {
+    "source_sha256": "cf0efb2b2157d25d259849c56b35a799587c67a1b69c6796af6c4a2054801cff",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.21428672969341278,
+    "source_Fab_constant_target_min_distance_A": 22.30547734381988,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 598,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3547675609588623,
+      "L": 2.1305813789367676
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b12_d008": {
+    "source_sha256": "5cc3d078e0e15aed019d02c26f21bd577795650723ad09c48564121d355607b0",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.19276195764541626,
+    "source_Fab_constant_target_min_distance_A": 29.579883071654468,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 541,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3824403285980225,
+      "L": 1.9635065793991089
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b12_d014": {
+    "source_sha256": "884abed7fe047bab7ecf7ad362cf47294f3c2fb53e63c9ba4a1899c6dc582118",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2357993721961975,
+    "source_Fab_constant_target_min_distance_A": 27.860691414194864,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 536,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.174283504486084,
+      "L": 2.06689715385437
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b12_d017": {
+    "source_sha256": "96b5da34ea97dc0b1455644d1b35bad1fa456e26033787a64a75940947204252",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.3104958236217499,
+    "source_Fab_constant_target_min_distance_A": 30.749000223741927,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 449,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.25417423248291,
+      "L": 2.1409707069396973
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b12_d018": {
+    "source_sha256": "f7c8031bf53a09b01293edc5b5e6c4e4457085a781243e5a6a8de86d9d525322",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.224649116396904,
+    "source_Fab_constant_target_min_distance_A": 30.521172211602565,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 498,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3177549839019775,
+      "L": 1.9967528581619263
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b13_d002": {
+    "source_sha256": "d8df54a204c27f070a23d58534cd12466c45c4b0109f82ceafebffaf53368a8f",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2256305068731308,
+    "source_Fab_constant_target_min_distance_A": 28.586985123180515,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 521,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3488192558288574,
+      "L": 2.011824369430542
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b13_d003": {
+    "source_sha256": "2f9c3d8928e69b602125089460266be21a9ceb36c7c22ea48df7a4a2b8698f9d",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2419806867837906,
+    "source_Fab_constant_target_min_distance_A": 31.96625191582026,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 502,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4951486587524414,
+      "L": 2.132459878921509
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b13_d005": {
+    "source_sha256": "82f5bbd07dc63a062649641c9d1a62137a4bb77ee7b0b4ee82eb1a3f396b3e52",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.27673277258872986,
+    "source_Fab_constant_target_min_distance_A": 29.400535883379238,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 547,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.334653615951538,
+      "L": 2.192970037460327
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b13_d012": {
+    "source_sha256": "471e8011ff8b2b601c5c50cbf22493a14dc0d33bdee47b222edfbdf5abaad647",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23970896005630493,
+    "source_Fab_constant_target_min_distance_A": 32.616857190580475,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 448,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.318558692932129,
+      "L": 2.142169952392578
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b13_d015": {
+    "source_sha256": "256a12f6bc869c7154e8c8e8517e473b64934af7279464840f772850a8c9baaa",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2912987470626831,
+    "source_Fab_constant_target_min_distance_A": 27.65345352917275,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 568,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.392634391784668,
+      "L": 2.1425766944885254
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b13_d016": {
+    "source_sha256": "d4765c5362860ea8111d47557082532a99b1f190b267514bacee2c80483e3647",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.20273348689079285,
+    "source_Fab_constant_target_min_distance_A": 29.09288441663291,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 497,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.445948839187622,
+      "L": 2.2211427688598633
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b13_d018": {
+    "source_sha256": "f301d4cb4cbe38db403d88830dabcc93081ab0c63631828bd5ca851f5df6db06",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2472892552614212,
+    "source_Fab_constant_target_min_distance_A": 32.12554600975905,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 579,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3830995559692383,
+      "L": 2.154928207397461
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b14_d012": {
+    "source_sha256": "0f1b32c8c0b1a452ad1085defb065d5596505d737f58c7bb3b224fe612b6e6a4",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24137702584266663,
+    "source_Fab_constant_target_min_distance_A": 25.798706457186697,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 510,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.256040096282959,
+      "L": 1.9981305599212646
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b14_d013": {
+    "source_sha256": "07c9ba641416370497b717e3de2a4d1fc568ab092f74abe95d3bc346cdd962a6",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2736445665359497,
+    "source_Fab_constant_target_min_distance_A": 25.240871427139528,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 481,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.288590669631958,
+      "L": 2.0262129306793213
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b14_d020": {
+    "source_sha256": "ab8eb2b9c7832dba061da2bfc1ae5257b938b03a4846618817a21d98f12056e9",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.21907326579093933,
+    "source_Fab_constant_target_min_distance_A": 29.92814514005902,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 566,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2816097736358643,
+      "L": 2.0788230895996094
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b14_d021": {
+    "source_sha256": "6ed8a02249d9b026dfcd207cdeef589d409288d8935ed8ea582bed9b86d968f4",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22452233731746674,
+    "source_Fab_constant_target_min_distance_A": 22.146137955881834,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 506,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.298255443572998,
+      "L": 2.071147918701172
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b16_d000": {
+    "source_sha256": "901f1abe1c0adcbda76be47e0252b09999d1481f1c3037674f05f52ecef76f6c",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.21557557582855225,
+    "source_Fab_constant_target_min_distance_A": 29.218290243766297,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 535,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.193979263305664,
+      "L": 2.0208821296691895
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b16_d006": {
+    "source_sha256": "da043ef8c953b65dae93a3005e2ceabfe9b25322413327460fc94f34d733438c",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23291219770908356,
+    "source_Fab_constant_target_min_distance_A": 29.901496378837958,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 489,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.331693172454834,
+      "L": 2.03495192527771
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b16_d011": {
+    "source_sha256": "78129f5fec9e2139a693d86c975f9041b1e7dbc887c0f70fb53663deb13d6f8e",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.23849701881408691,
+    "source_Fab_constant_target_min_distance_A": 31.97940315867566,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 462,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2638962268829346,
+      "L": 2.071819305419922
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b16_d019": {
+    "source_sha256": "14b63d850e31092cf94c68e9fc03d69b8f7c1c90cfa2a418f25fa5d48655bc4d",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2753254473209381,
+    "source_Fab_constant_target_min_distance_A": 26.840415533021936,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 479,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4832687377929688,
+      "L": 1.8951952457427979
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b16_d020": {
+    "source_sha256": "48da34e16ffdeaf1b1600009cb3401920a98b1f07458787ee4f20eabaf3a8be6",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.21906298398971558,
+    "source_Fab_constant_target_min_distance_A": 30.796001378425725,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 508,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.356814384460449,
+      "L": 2.1053667068481445
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b17_d002": {
+    "source_sha256": "629c5ea8d2b2f6f0e4590e580349c5559bc1013367a6af3e5dcf3cc35e1b2c3f",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22841964662075043,
+    "source_Fab_constant_target_min_distance_A": 32.321955044128934,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 536,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3304550647735596,
+      "L": 2.0632946491241455
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b17_d005": {
+    "source_sha256": "3f62672bc49b76a5af3cb464cffa627cd60ae8808a2b59fbd11507303ee81f27",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2805309593677521,
+    "source_Fab_constant_target_min_distance_A": 28.58416801068663,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 475,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2673611640930176,
+      "L": 2.1854681968688965
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b17_d008": {
+    "source_sha256": "d875f90fb05ae66ebc86cf0cd9984baa7b8ada390f6a1e6401958adb9ead5ab3",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2541664242744446,
+    "source_Fab_constant_target_min_distance_A": 32.02027025832549,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 545,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3111143112182617,
+      "L": 2.1015465259552
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b17_d011": {
+    "source_sha256": "56065f2f7cc97ebbe1195aa60e53c6e494932871f99d5a20247b2d29d2b621b2",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.22748878598213196,
+    "source_Fab_constant_target_min_distance_A": 32.70887798638614,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 531,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.224569082260132,
+      "L": 2.038613796234131
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b17_d021": {
+    "source_sha256": "cbe1648a9d86131cf7d6c4192a98144fffee81038e05e8b2fa676d5d32b8fcd6",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.25724104046821594,
+    "source_Fab_constant_target_min_distance_A": 26.5404560353225,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 580,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.295597553253174,
+      "L": 2.023920774459839
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b18_d000": {
+    "source_sha256": "b46c65fb949a5f637e4484bc7798c66329f5734c8979fbd30338dbc20479a507",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2743801474571228,
+    "source_Fab_constant_target_min_distance_A": 24.66038863967426,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 510,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.1895363330841064,
+      "L": 2.0174059867858887
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b18_d007": {
+    "source_sha256": "7338c755d387e5699ba1090f5bff97003633c596b69384bba550228843250db1",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.24101749062538147,
+    "source_Fab_constant_target_min_distance_A": 25.390387873341254,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 460,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.373234987258911,
+      "L": 2.104396343231201
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b18_d009": {
+    "source_sha256": "e29d196813e9016fc8cfa1e723ac96c553ec8b1f6d23f34ac461402ce1c9d749",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2330390214920044,
+    "source_Fab_constant_target_min_distance_A": 26.096468687735477,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 454,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.382864475250244,
+      "L": 2.0963540077209473
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b18_d018": {
+    "source_sha256": "302770f8143509b02d21fd9b6b848f3770d78460bf5332f38057e248e569a0a7",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.20761241018772125,
+    "source_Fab_constant_target_min_distance_A": 26.262693478844486,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 484,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2843825817108154,
+      "L": 1.8903069496154785
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b18_d019": {
+    "source_sha256": "1837d38953572901ca30d2442f8b7f06d8b8a4497fafdb04e04595f4df96daa3",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2792324125766754,
+    "source_Fab_constant_target_min_distance_A": 29.706660046892218,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 550,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.379943609237671,
+      "L": 2.086472988128662
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b18_d024": {
+    "source_sha256": "90383b25a9c461b91b553741debd68b7a7839e7b3c161d50e1f1fcea4daff5a9",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.3049008250236511,
+    "source_Fab_constant_target_min_distance_A": 25.78283052837317,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 462,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2233190536499023,
+      "L": 2.1514768600463867
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b19_d003": {
+    "source_sha256": "f4d302273f3d5af8414b2a8d68db7609c8022a1806e51af34aeaa4c011425c37",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.21483592689037323,
+    "source_Fab_constant_target_min_distance_A": 18.30882953370918,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 497,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.4048736095428467,
+      "L": 1.9850013256072998
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b19_d012": {
+    "source_sha256": "b32037e48218e02e918d17fbaf7ab5544c2c4dc4788c0552e9482b6ed8328204",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.281423419713974,
+    "source_Fab_constant_target_min_distance_A": 26.965863338159775,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 448,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.3131439685821533,
+      "L": 2.0650413036346436
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  },
+  "R2_b19_d023": {
+    "source_sha256": "667bba024f21f5243de4633b5b675d85c893720c79791303e12433a3aa90ae2c",
+    "source_fab": "5I19",
+    "source_framework_CA_fit_rmsd_A": 0.2501341998577118,
+    "source_Fab_constant_target_min_distance_A": 29.077949102202467,
+    "source_Fab_constant_target_clashes_below_2A": 0,
+    "Fv_HL_clashes_below_2A": 0,
+    "Fv_HL_atom_contacts_below_5A": 522,
+    "Fv_intrachain_SG_distance_A": {
+      "H": 2.2741289138793945,
+      "L": 2.036144256591797
+    },
+    "full_H2L2_3D_assembly_validated": false,
+    "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+  }
+}

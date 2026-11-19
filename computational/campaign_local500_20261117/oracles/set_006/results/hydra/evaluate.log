@@ -1,0 +1,23 @@
+[2026-11-18 03:39:56,641][rfproteina.evaluate][WARNING] - [rank: 0] No task_csv provided; all structures will be assigned task='all'
+[2026-11-18 03:39:56,644][rfproteina.utils.logging][INFO] - [rank: 0] 
+    Validation Metrics    
+┏━━━━━━━━━━━━┳━━━━━━━━━━━┓
+┃       Name ┃      Type ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━┩
+│ oracle_ppi │ AF3Oracle │
+└────────────┴───────────┘
+
+[2026-11-18 03:39:56,660][rfproteina.utils.logging][INFO] - [rank: 0] 
+                      Validation Metrics                       
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                            Name ┃                      Type ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ target_aligned_fv_backbone_rmsd │ StructureComparisonMetric │
+│ target_aligned_vh_backbone_rmsd │ StructureComparisonMetric │
+│ target_aligned_vl_backbone_rmsd │ StructureComparisonMetric │
+└─────────────────────────────────┴───────────────────────────┘
+
+[2026-11-18 03:40:00,482][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra500_57427235/o.sock (timeout=1.0h)
+[2026-11-18 03:40:47,789][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra500_57427235/o.sock (timeout=1.0h)
+[2026-11-18 03:41:05,936][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra500_57427235/o.sock (timeout=1.0h)
+[2026-11-18 03:41:24,159][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra500_57427235/o.sock (timeout=1.0h)

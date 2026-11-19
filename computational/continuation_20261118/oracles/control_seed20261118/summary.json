@@ -1,0 +1,20 @@
+[
+  {
+    "design_id": "positive_control_6wgl",
+    "seed": 20261118,
+    "predicted": "/storage/group/yjz5549/default/GenScript_challenge/computational/continuation_20261118/oracles/control_seed20261118/results/evaluation_samples/positive_control_6wgl_cc92a442/positive_control_6wgl_cc92a442_of3_ppi_refolded.cif",
+    "confidence": "/storage/group/yjz5549/default/GenScript_challenge/computational/continuation_20261118/oracles/control_seed20261118/results/evaluation_samples/positive_control_6wgl_cc92a442/positive_control_6wgl_cc92a442_of3_ppi_confidences.json",
+    "role": "evaluation_only_positive_control_not_a_submission_candidate",
+    "metrics": {
+      "target_aligned_fv_rmsd": 54.83476638793945,
+      "H_plddt": 75.03472000000001,
+      "L_plddt": 63.93883928571429,
+      "min_ipae_HL": 26.905,
+      "min_ipae_HT": 23.28,
+      "min_ipae_LT": 20.425,
+      "iptm_HL": 4.0,
+      "iptm_HT": 8.0,
+      "iptm_LT": 12.0
+    }
+  }
+]

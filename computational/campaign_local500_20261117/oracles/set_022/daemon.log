@@ -1,0 +1,57 @@
+[af3-daemon] listening on /tmp/il4ra500_57427235/o.sock (pid=3751166)
+[af3-daemon] starting warm AF3 worker (gpu=0, num_recycles=5)
+[af3-daemon] warm AF3 worker ready (pid=3751222)
+I1118 10:25:14.266938 22862953522880 pipeline.py:187] Processing b00_d013_ce071c67, random_seed=20261118
+I1118 10:25:15.459010 22862953522880 pipeline.py:279] Calculating bucket size for input with 433 tokens.
+I1118 10:25:15.459289 22862953522880 pipeline.py:285] Got bucket size 512 for input with 433 tokens, resulting in 79 padded tokens.
+/app/alphafold/src/alphafold3/model/network/featurization.py:113: UserWarning: Explicitly requested dtype int64 requested in broadcasted_iota is not available, and will be truncated to dtype int32. To enable more dtypes, set the jax_enable_x64 configuration option or the JAX_ENABLE_X64 shell environment variable. See https://github.com/jax-ml/jax#current-gotchas for more.
+  iota = jax.lax.broadcasted_iota(jnp.int64, logits.shape, axis)
+E1118 10:25:26.234390 22867098899200 af3_runtime.py:145] tokamax autotuning failed; falling back to default kernels
+Traceback (most recent call last):
+  File "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/src/rfproteina/af3/af3_runtime.py", line 140, in run_inference
+    self._autotune_result = tokamax.autotune(self._model, rng_key, featurised_example)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/alphafold3_venv/lib/python3.12/site-packages/tokamax/_src/autotuning/api.py", line 283, in autotune
+    bound_args = get_bound_args(f, *args)  # pytype: disable=paramspec-error
+                 ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/alphafold3_venv/lib/python3.12/site-packages/tokamax/_src/autotuning/api.py", line 201, in get_bound_args
+    bound_args = hlo_utils.get_opspecs(f)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/alphafold3_venv/lib/python3.12/site-packages/tokamax/_src/hlo_utils.py", line 288, in get_opspecs
+    for kernel in get_kernel_info(x, include_xla_kernels=include_xla_kernels):
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/alphafold3_venv/lib/python3.12/site-packages/tokamax/_src/hlo_utils.py", line 277, in get_kernel_info
+    x.operation.walk(handle_op, ir.WalkOrder.PRE_ORDER)
+RuntimeError: Exception raised in callback: Traceback (most recent call last):
+  File "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/src/rfproteina/af3/run_alphafold_batch.py", line 341, in <module>
+  File "/alphafold3_venv/lib/python3.12/site-packages/absl/app.py", line 316, in run
+  File "/alphafold3_venv/lib/python3.12/site-packages/absl/app.py", line 261, in _run_main
+  File "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/src/rfproteina/af3/run_alphafold_batch.py", line 320, in main
+  File "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/src/rfproteina/af3/run_alphafold_batch.py", line 297, in _serve_loop
+  File "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/src/rfproteina/af3/run_alphafold_batch.py", line 217, in _run
+  File "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/src/rfproteina/af3/run_alphafold_batch.py", line 161, in _infer_and_extract
+  File "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/src/rfproteina/af3/af3_runtime.py", line 140, in run_inference
+  File "/alphafold3_venv/lib/python3.12/site-packages/tokamax/_src/autotuning/api.py", line 283, in autotune
+  File "/alphafold3_venv/lib/python3.12/site-packages/tokamax/_src/autotuning/api.py", line 201, in get_bound_args
+  File "/alphafold3_venv/lib/python3.12/site-packages/tokamax/_src/hlo_utils.py", line 288, in get_opspecs
+  File "/alphafold3_venv/lib/python3.12/site-packages/tokamax/_src/hlo_utils.py", line 277, in get_kernel_info
+  File "/alphafold3_venv/lib/python3.12/site-packages/tokamax/_src/hlo_utils.py", line 259, in handle_op
+  File "/alphafold3_venv/lib/python3.12/site-packages/tokamax/_src/hlo_utils.py", line 102, in _get_op_name
+AttributeError: 'jaxlib.mlir._mlir_libs._mlir.ir.NameLoc' object has no attribute 'is_a_name'
+Batch wrapper: (1/1) b00_d013_ce071c67 OK
+AF3 batch wrapper: 1/1 succeeded in 35.0s (34.96s/example)
+I1118 10:25:45.346928 22861402068672 pipeline.py:187] Processing b08_d010_369ad1d2, random_seed=20261118
+I1118 10:25:45.375232 22861402068672 pipeline.py:279] Calculating bucket size for input with 433 tokens.
+I1118 10:25:45.375320 22861402068672 pipeline.py:285] Got bucket size 512 for input with 433 tokens, resulting in 79 padded tokens.
+Batch wrapper: (1/1) b08_d010_369ad1d2 OK
+AF3 batch wrapper: 1/1 succeeded in 16.8s (16.75s/example)
+I1118 10:26:03.398123 22861402068672 pipeline.py:187] Processing b12_d001_13fe984d, random_seed=20261118
+I1118 10:26:03.428053 22861402068672 pipeline.py:279] Calculating bucket size for input with 433 tokens.
+I1118 10:26:03.428141 22861402068672 pipeline.py:285] Got bucket size 512 for input with 433 tokens, resulting in 79 padded tokens.
+Batch wrapper: (1/1) b12_d001_13fe984d OK
+AF3 batch wrapper: 1/1 succeeded in 16.8s (16.84s/example)
+I1118 10:26:21.579918 22861402068672 pipeline.py:187] Processing b12_d024_27beb238, random_seed=20261118
+I1118 10:26:21.609699 22861402068672 pipeline.py:279] Calculating bucket size for input with 433 tokens.
+I1118 10:26:21.609781 22861402068672 pipeline.py:285] Got bucket size 512 for input with 433 tokens, resulting in 79 padded tokens.
+Batch wrapper: (1/1) b12_d024_27beb238 OK
+AF3 batch wrapper: 1/1 succeeded in 16.9s (16.93s/example)

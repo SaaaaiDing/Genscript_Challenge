@@ -1,0 +1,48 @@
+
+==============================================
+Cluster Configuration
+==============================================
+  Cluster:         local
+  Partition:       standard
+  GPUs per node:   not set
+  Runtime:         36:00:00
+  Runtime:         Native Python environment
+  Account:         yjz5549_cr_default
+
+Repository root: /storage/group/yjz5549/default/RFD4/RFD4-Proteina
+Using active Python: /storage/group/yjz5549/default/RFD4/RFD4-Proteina/.venv/bin/python
+PYTHONPATH set for the selected runtime
+Environment variables configured
+
+==============================================
+Resolving Hydra Config
+==============================================
+  Config name: pilot_generation
+  Config path: /storage/group/yjz5549/default/GenScript_challenge/computational/configs
+  Extra args:   inputs=/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/annotated out_dir=/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_36h run_name_=il4ra_1600_36h num_replicates=400 compress_outputs=false
+  Local symlink: /storage/group/yjz5549/default/RFD4/RFD4-Proteina/runs/il4ra_1600_36h
+
+==============================================
+Using Code In-Place
+==============================================
+  /storage/group/yjz5549/default/RFD4/RFD4-Proteina
+  Created .env with 0 variables
+
+==============================================
+Job Configuration
+==============================================
+  Run name:         il4ra_1600_36h
+  Run directory:    /storage/group/yjz5549/default/GenScript_challenge/computational/campaign_36h
+  Output directory: /storage/group/yjz5549/default/GenScript_challenge/computational/campaign_36h
+  Parallel jobs:    1
+  GPUs per job:     1
+  SLURM array tasks: 1
+  CPUs per task:    2
+  Concatenate:      false
+
+
+==============================================
+Submitting Job
+==============================================
+  SBATCH script: /storage/group/yjz5549/default/GenScript_challenge/computational/campaign_36h/slurm_batch_script.sh
+Batch script rendered; submission intentionally deferred for local validation.

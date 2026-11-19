@@ -1,0 +1,121 @@
+{
+  "original_file_count": 2199,
+  "unique_objects": 1095,
+  "original_bytes": 2771996999,
+  "unique_uncompressed_bytes": 1383348652,
+  "compressed_bytes": 242629387,
+  "parts": [
+    {
+      "path": "archives/raw_artifacts_001.tar.gz",
+      "bytes": 10066560,
+      "sha256": "acc673617d39a64ca27211e40109c931fc0fee956cb93f3b58e17ef73dd8d860"
+    },
+    {
+      "path": "archives/raw_artifacts_002.tar.gz",
+      "bytes": 11408812,
+      "sha256": "30bfe5c1603d6b4ac40d2b02aa5e0a13909e38c7fea452281e59014ac022254a"
+    },
+    {
+      "path": "archives/raw_artifacts_003.tar.gz",
+      "bytes": 11427388,
+      "sha256": "62683a06c41bb0da41e193a3acc3d5a1d1d6d87a9761688737ea02ed820e4946"
+    },
+    {
+      "path": "archives/raw_artifacts_004.tar.gz",
+      "bytes": 11396777,
+      "sha256": "c543b5789bd95e25c84e945f14184f6d0e180e3c7ca645d435ec5fd2177ef1a6"
+    },
+    {
+      "path": "archives/raw_artifacts_005.tar.gz",
+      "bytes": 11397241,
+      "sha256": "30a820bc16539b818caf9fca3d7e3a9f062ea338296758511db7c1fed3f277f7"
+    },
+    {
+      "path": "archives/raw_artifacts_006.tar.gz",
+      "bytes": 11420350,
+      "sha256": "9e93be788eac96e4d8cb33919acb9a3c564ca1034d27b328f0f502dd951b93b0"
+    },
+    {
+      "path": "archives/raw_artifacts_007.tar.gz",
+      "bytes": 11436944,
+      "sha256": "2277d3e66742fd15116146c525b663a0d7731808cf55c10984bf9984b880c071"
+    },
+    {
+      "path": "archives/raw_artifacts_008.tar.gz",
+      "bytes": 11396743,
+      "sha256": "f4951235a6aad848a2789a7a1bd5239bd5d61a45ed30f916bb435844ebcddcf1"
+    },
+    {
+      "path": "archives/raw_artifacts_009.tar.gz",
+      "bytes": 11389639,
+      "sha256": "33039fa1c9f35fea377bffc1262f0dc00cb1df892e726ae91c14661d3edace84"
+    },
+    {
+      "path": "archives/raw_artifacts_010.tar.gz",
+      "bytes": 11407367,
+      "sha256": "26e8bb92824d235a4796b1811a032ec663ea647268f5154df52aec7476af753e"
+    },
+    {
+      "path": "archives/raw_artifacts_011.tar.gz",
+      "bytes": 10591716,
+      "sha256": "75c396ccd571e443489bc91befe711d9e14865380f5c669bb38b5e10c3d6da30"
+    },
+    {
+      "path": "archives/raw_artifacts_012.tar.gz",
+      "bytes": 7684518,
+      "sha256": "2f52844cb2c9821c7cf45713e5931c07b23635306188ec55997d8fefc9605c24"
+    },
+    {
+      "path": "archives/raw_artifacts_013.tar.gz",
+      "bytes": 11391436,
+      "sha256": "d9c0f6ffca17052586ad15eb2211db1f3f902b6bb70e7578a6352e78d237a3a7"
+    },
+    {
+      "path": "archives/raw_artifacts_014.tar.gz",
+      "bytes": 11391266,
+      "sha256": "ab7bf76d374ded8e90d4fc85ad002fe5ae719691a07b4280933f235a54ae6a78"
+    },
+    {
+      "path": "archives/raw_artifacts_015.tar.gz",
+      "bytes": 11401344,
+      "sha256": "51fc63014556ae92f16e4fd85b164efbe684dfd8ddc18103a5edf3c57546d3ab"
+    },
+    {
+      "path": "archives/raw_artifacts_016.tar.gz",
+      "bytes": 11393978,
+      "sha256": "901113d4aec1497f580c377f5180ee18109d61bd7d2264a8195c04c174dd780b"
+    },
+    {
+      "path": "archives/raw_artifacts_017.tar.gz",
+      "bytes": 11394982,
+      "sha256": "5581e6d84b4044c6674abf9fb9c9bebc3119e19248999299416571b27d823e66"
+    },
+    {
+      "path": "archives/raw_artifacts_018.tar.gz",
+      "bytes": 11394053,
+      "sha256": "fb14171786cd07d7e61b1d54303894f7a6a67679aa6c6519b2be50efe8ecadc5"
+    },
+    {
+      "path": "archives/raw_artifacts_019.tar.gz",
+      "bytes": 11389148,
+      "sha256": "2e66845b3496fc6b4cdff44e27aee48884b8e8ef6106c71137d40d7092bb0950"
+    },
+    {
+      "path": "archives/raw_artifacts_020.tar.gz",
+      "bytes": 11382892,
+      "sha256": "71444609121a12fe2c7ada93cdd024a988639a21148a6e3bd837c384a758e35e"
+    },
+    {
+      "path": "archives/raw_artifacts_021.tar.gz",
+      "bytes": 11399758,
+      "sha256": "ee2441ebc109bc3c437d0e052cec687e0735acfd0f1aeca6edd75d04454fe2c9"
+    },
+    {
+      "path": "archives/raw_artifacts_022.tar.gz",
+      "bytes": 9066475,
+      "sha256": "2f317352bf6bdfecc488f93d08e2b1e82903233b4b18766e618a6bcb7fbb2a8d"
+    }
+  ],
+  "file_map_sha256": "c1d72926fd22a3d0432c5135c761d8a6d84657a14716cf79b54504b6fa66a1da",
+  "exclusions": "Credentials, caches, temporary files, model weights and external environments are not published. Non-CIF duplicated content-addressed artifacts are omitted; source/config/report copies remain tracked."
+}

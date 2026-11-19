@@ -1,0 +1,22 @@
+[
+  {
+    "file": "/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/raw/3BPN.cif",
+    "url": "https://files.rcsb.org/download/3BPN.cif",
+    "sha256": "0c5f3a7d9e9bcca4c5f9ce1759496c94931f98a3d0b24e146764b64e2c90aa7d"
+  },
+  {
+    "file": "/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/raw/5I19.cif",
+    "url": "https://files.rcsb.org/download/5I19.cif",
+    "sha256": "2c16e8dad4830b8c1b9df9395b015c921678844af2b7ded03066ff1eb5329339"
+  },
+  {
+    "file": "/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/raw/P24394.json",
+    "url": "https://rest.uniprot.org/uniprotkb/P24394.json",
+    "sha256": "82e3592c0dcbcc02447fcaecb02eb2ab212f572ce99bc6c3ad60fd4248560208"
+  },
+  {
+    "file": "/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/raw/IL4RA_AF.cif",
+    "url": "https://alphafold.ebi.ac.uk/files/AF-P24394-F1-model_v6.cif",
+    "sha256": "30433a03bd8595f7aa25c20c94fbdd845a5ebdf5c7e09f66bd7ced5a7c0dfc98"
+  }
+]

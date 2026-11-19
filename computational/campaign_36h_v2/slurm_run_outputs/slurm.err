@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/campaign36.py", line 384, in <module>
+    main()
+  File "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/campaign36.py", line 327, in main
+    evaluate(initial)
+  File "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/campaign36.py", line 288, in evaluate
+    assert len(predicted) == len(confidence) == 1, f'Missing or ambiguous oracle artifacts for {did}'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Missing or ambiguous oracle artifacts for pilot_00

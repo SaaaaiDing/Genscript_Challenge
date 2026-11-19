@@ -1,0 +1,123 @@
+inference_backend: native
+bioir:
+  dtype: bfloat16
+  attention_backend: null
+  cuda_graph: true
+  cuda_graph_max_tokens: 511
+  max_graphs: null
+  match_reference_rng: false
+run_name_: il4ra_paired_fv_pilot
+verbose: true
+hf_ckpt_path: /storage/group/yjz5549/default/RFD4/huggingface/hub/models--nvidia--RFD4-Proteina/snapshots/a06e2509c7033b010fc43614e9fd840303588502
+hf_ckpt_revision: a06e2509c7033b010fc43614e9fd840303588502
+out_dir: /storage/group/yjz5549/default/GenScript_challenge/computational/campaign_36h/runs/batch_07
+ckpt_name: rfd4-proteina-flow-release-2026-10-19.ckpt
+ckpt_path: /storage/group/yjz5549/default/RFD4/RFD4-Proteina/data_path/flow_checkpoints
+adapter_path: null
+delete_failing_pre_oracle: false
+autoencoder_ckpt_path: /storage/group/yjz5549/default/RFD4/RFD4-Proteina/data_path/ae_checkpoints/rfd4-proteina-ae-release-2026-10-19.ckpt
+num_replicates: 40
+compile_lengths: null
+nn:
+  torch_compile_mode: null
+  torch_compile_fullgraph: null
+  tri_mult_backend: null
+  attention_type: null
+precision: bf16-mixed
+batch_size: 1
+subset_to_examples: null
+prevalidate_inputs: true
+seed: 2026111807
+torch_deterministic: false
+skip_existing: true
+save_chain_of_interest: false
+compress_outputs: false
+metrics_tags: []
+search:
+  checkpoints: null
+  save_states: false
+  resume_from: null
+  resume_seed: null
+num_workers: 0
+hardware:
+  accelerator: gpu
+  ngpus_per_node_: 1
+  nnodes_: 1
+ncpus_: 2
+gen_njobs: 1
+eval_njobs: 1
+job_id: null
+generation:
+  n_recycle: 0
+  n_recycle_schedule:
+  - - 5
+    - 6
+  - - 10
+    - 5
+  - - 5
+    - 4
+  - - 10
+    - 3
+  - - 20
+    - 2
+  - - 10
+    - 1
+  condition_on_recycle_remaining: true
+  val_set_name_override: /storage/group/yjz5549/default/GenScript_challenge/computational/inputs/annotated/il4ra_p2_h3_16.cif
+  args:
+    nsteps: 60
+    condition_decoder_on_sequence_prediction: true
+    guidance_w: 1.0
+    partial_trajectory_fraction_steps: null
+    partial_t_backbone: null
+    partial_t_latent: null
+    couple_partial_t: false
+    inverse_folding: false
+    inverse_folding_method: resampled_forward_marginal
+    save_trajectory_every: 0
+    bb_ca_only_trajectories: true
+    dump_noisy_trajectories: false
+  model:
+    bb_ca:
+      schedule:
+        mode: log
+        p: 2.0
+        tail_steps: 10
+        tail_step_multiplier: 2
+      gt:
+        mode: 1/t
+        p: 1.0
+        clamp_val: null
+      simulation_step_params:
+        sampling_mode: vf_tsr
+        sc_scale_noise: 1.0
+        t_lim_ode: 0.95
+        t_lim_ode_below: 0.02
+        center_every_step: false
+        tsr_k: 16.0
+        tsr_sigma: 3.0
+    local_latents:
+      schedule:
+        mode: power
+        p: 2.0
+        tail_steps: 10
+        tail_step_multiplier: 2
+      gt:
+        mode: tan
+        p: 1.0
+        clamp_val: null
+      simulation_step_params:
+        sampling_mode: vf_tsr
+        sc_scale_noise: 1.0
+        t_lim_ode: 0.95
+        t_lim_ode_below: 0.02
+        center_every_step: false
+        tsr_k: 4.0
+        tsr_sigma: 12.0
+  dataset:
+    num_replicates: 40
+    transform:
+      metrics_tags: []
+    sampling_transforms: null
+inputs: /storage/group/yjz5549/default/GenScript_challenge/computational/inputs/annotated/il4ra_p2_h3_16.cif
+global_prefix: null

@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "gpu_enabled": false,
+  "jobs_submitted": 0,
+  "checks": {
+    "hydra_composition": {
+      "status": "passed",
+      "result": {
+        "pilot_generation": {
+          "mandatory_input": "inputs",
+          "required_output_environment": "IL4RA_RUN_DIR",
+          "metrics_tags": [],
+          "trunk_passes": 180
+        },
+        "paired_evaluation": {
+          "mandatory_input": "inputs",
+          "required_output_environment": "IL4RA_RUN_DIR",
+          "metrics_tags": [
+            "paired_fv_refolding"
+          ],
+          "oracle": "of3_ppi",
+          "template_query": "chain_id == 'T' and is_protein"
+        }
+      }
+    }
+  },
+  "elapsed_seconds": 0.53,
+  "peak_rss_mib": 257.88,
+  "cpu_affinity": [
+    1
+  ],
+  "scope": "CPU preparation only; not GPU preflight, input round-trip, inference, or oracle validation."
+}

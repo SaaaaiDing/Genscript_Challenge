@@ -1,0 +1,11 @@
+{
+  "status": "failed",
+  "job_id": "57451616",
+  "generated": 0,
+  "refolded": 0,
+  "computational_passers": 0,
+  "triage_passers": 4,
+  "elapsed_hours": 0.030068892096104617,
+  "error": "AssertionError('Missing or ambiguous oracle artifacts for pilot_00')",
+  "traceback": "Traceback (most recent call last):\n  File \"/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/campaign36.py\", line 327, in main\n    evaluate(initial)\n  File \"/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/campaign36.py\", line 288, in evaluate\n    assert len(predicted) == len(confidence) == 1, f'Missing or ambiguous oracle artifacts for {did}'\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: Missing or ambiguous oracle artifacts for pilot_00\n"
+}

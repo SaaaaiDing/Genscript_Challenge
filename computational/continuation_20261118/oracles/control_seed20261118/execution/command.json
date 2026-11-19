@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "rfd4-evaluate",
+    "--config-path",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/configs",
+    "--config-name",
+    "paired_evaluation",
+    "inputs=/storage/group/yjz5549/default/GenScript_challenge/computational/continuation_20261118/oracles/control_seed20261118/inputs",
+    "out_dir=/storage/group/yjz5549/default/GenScript_challenge/computational/continuation_20261118/oracles/control_seed20261118/results",
+    "compress_outputs=false",
+    "metrics.refolding_oracles.oracle_ppi._target_=il4ra_oracle.PairedAF3Oracle",
+    "+metrics.refolding_oracles.oracle_ppi.seed=20261118"
+  ],
+  "timeout_seconds": 7200
+}

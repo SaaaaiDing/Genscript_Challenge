@@ -1,0 +1,25 @@
+# Credentials and machine-local state
+.env
+.env.*
+**/.env
+**/.env.*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+*.lock
+*.sock
+computational/cache/
+computational/tmp/
+computational/sockets/
+
+# Losslessly archived, deduplicated by repository_tools/build_archive.py
+*.cif
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+computational/**/artifacts/
+computational/igg_review_20261118/reports/numbering.json
+
+# Local audit scratch
+.publication/

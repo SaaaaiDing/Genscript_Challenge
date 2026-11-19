@@ -1,0 +1,62 @@
+# Draft: only run after verifying T/H/L identities survive oracle round-tripping.
+# Do not use single-chain COI pass criteria for a two-chain antibody.
+defaults:
+  - evaluate
+  - override /metrics/inline_metrics: null
+  - override /metrics/refolding_oracles: null
+  - override /metrics/refolding_metrics: null
+  - override /metrics/pass_criteria: null
+  - override /metrics/pre_oracle_filters: null
+  - override /metrics/custom_metrics: null
+  - _self_
+
+hydra:
+  searchpath:
+    - file://${oc.env:PROJECT_ROOT}/configs
+  run:
+    dir: ${out_dir}/hydra
+
+inputs: ???
+out_dir: ${oc.env:IL4RA_RUN_DIR}
+run_name_: il4ra_paired_fv_evaluation
+metrics_tags: [paired_fv_refolding]
+gen_njobs: 1
+delete_failing_pre_oracle: false
+compress_outputs: true
+
+metrics:
+  refolding_oracles:
+    oracle_ppi:
+      _target_: rfproteina.metrics.oracles.af3_oracle.AF3Oracle
+      oracle_name: of3_ppi
+      # Template the antigen only. Framework conditioning must not template the Fv.
+      template_query: "chain_id == 'T' and is_protein"
+      aggregation: [median]
+      required_tags_any: [paired_fv_refolding]
+  refolding_metrics:
+    target_aligned_fv_backbone_rmsd:
+      _target_: rfproteina.metrics.gt_structure_comparison.StructureComparisonMetric
+      align_mask: "chain_id == 'T' and is_protein_backbone"
+      subset_mask: "(chain_id == 'H' or chain_id == 'L') and is_protein_backbone"
+      metric_type: rmsd
+      aggregation: [median]
+      required_tags_any: [paired_fv_refolding]
+      required_tags_all: ["is_refold:untransformed"]
+    target_aligned_vh_backbone_rmsd:
+      _target_: rfproteina.metrics.gt_structure_comparison.StructureComparisonMetric
+      align_mask: "chain_id == 'T' and is_protein_backbone"
+      subset_mask: "chain_id == 'H' and is_protein_backbone"
+      metric_type: rmsd
+      aggregation: [median]
+      required_tags_any: [paired_fv_refolding]
+      required_tags_all: ["is_refold:untransformed"]
+    target_aligned_vl_backbone_rmsd:
+      _target_: rfproteina.metrics.gt_structure_comparison.StructureComparisonMetric
+      align_mask: "chain_id == 'T' and is_protein_backbone"
+      subset_mask: "chain_id == 'L' and is_protein_backbone"
+      metric_type: rmsd
+      aggregation: [median]
+      required_tags_any: [paired_fv_refolding]
+      required_tags_all: ["is_refold:untransformed"]
+  # Pass thresholds are intentionally absent until paired metrics are validated.
+  # Retain and map H-T, L-T, and H-L confidence pairs separately. H-L is not binding.

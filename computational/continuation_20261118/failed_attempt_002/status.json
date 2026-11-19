@@ -1,0 +1,12 @@
+{
+  "status": "failed",
+  "stage": "control_seed20261118",
+  "generated": 0,
+  "refolded": 0,
+  "job_id": "57427235",
+  "node": "p-gc-3039",
+  "started_at": "2026-11-18T06:25:21-0500",
+  "updated_at": "2026-11-18T06:26:54-0500",
+  "error": "AssertionError('Missing oracle evidence: positive_control_6wgl')",
+  "traceback": "Traceback (most recent call last):\n  File \"/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/continue_challenge.py\", line 209, in <module>\n    main()\n  File \"/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/continue_challenge.py\", line 186, in main\n    results=evaluate([control],'control_seed20261118',20261118)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/continue_challenge.py\", line 90, in evaluate\n    assert len(predicted)==len(conf)==1, f'Missing oracle evidence: {r[\"design_id\"]}'\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: Missing oracle evidence: positive_control_6wgl\n"
+}

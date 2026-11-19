@@ -1,0 +1,41 @@
+{
+  "status": "completed",
+  "total_generated": 1000,
+  "unique_pairs": 998,
+  "original_unique_review_pool": 237,
+  "review_v2_pool": 211,
+  "priority_count": 20,
+  "reserve_count": 20,
+  "reference_source_rows": 1133,
+  "reference_pairs_screened": 1243,
+  "reference_pairs_numbering_excluded": 0,
+  "numbering_errors_in_designs": 0,
+  "additional_reasons_in_original_pool": {
+    "CDR_hydrophobic_run_ge5": 24,
+    "Fv_HL_clash": 2
+  },
+  "pool_risk_tiers": {
+    "1": 175,
+    "0": 36
+  },
+  "priority_risk_tiers": {
+    "0": 20
+  },
+  "reserve_risk_tiers": {
+    "0": 9,
+    "1": 11
+  },
+  "priority_per_condition": {
+    "il4ra_p1_h3_12": 7,
+    "il4ra_p1_h3_16": 6,
+    "il4ra_p2_h3_12": 2,
+    "il4ra_p2_h3_16": 5
+  },
+  "changed_priority_candidates": 17,
+  "sequence_assembly_pass_count": 40,
+  "full_H2L2_3D_assembly_validated": false,
+  "geometry_thresholds_relaxed": false,
+  "chemical_motif_preference_relaxed_in_priority": false,
+  "experimental_binding_validated": false,
+  "original_strict_complete_pass_count": 0
+}

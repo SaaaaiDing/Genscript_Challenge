@@ -1,0 +1,25 @@
+[2026-11-18 06:14:43,202][rfproteina.evaluate][WARNING] - [rank: 0] No task_csv provided; all structures will be assigned task='all'
+[2026-11-18 06:14:43,205][rfproteina.utils.logging][INFO] - [rank: 0] 
+    Validation Metrics    
+┏━━━━━━━━━━━━┳━━━━━━━━━━━┓
+┃       Name ┃      Type ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━┩
+│ oracle_ppi │ AF3Oracle │
+└────────────┴───────────┘
+
+[2026-11-18 06:14:43,221][rfproteina.utils.logging][INFO] - [rank: 0] 
+                      Validation Metrics                       
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                            Name ┃                      Type ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ target_aligned_fv_backbone_rmsd │ StructureComparisonMetric │
+│ target_aligned_vh_backbone_rmsd │ StructureComparisonMetric │
+│ target_aligned_vl_backbone_rmsd │ StructureComparisonMetric │
+└─────────────────────────────────┴───────────────────────────┘
+
+[2026-11-18 06:14:45,340][rfproteina.utils.chain][WARNING] - [rank: 0] Could not unambiguously determine chain of interest; defaulting to first chain in sorted order.
+[2026-11-18 06:14:45,348][rfproteina.utils.chain][WARNING] - [rank: 0] Could not unambiguously determine chain of interest; defaulting to first chain in sorted order.
+[2026-11-18 06:14:45,554][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra_continue_57427235/o.sock (timeout=1.0h)
+[2026-11-18 06:15:31,221][rfproteina.metrics.oracles.af3_oracle][WARNING] - [rank: 0] AF3 coord transfer failed for positive_control_6wgl_cc92a442: Atom count mismatch: input has 3470, AF3 output has 3263
+[2026-11-18 06:15:31,224][rfproteina.utils.chain][WARNING] - [rank: 0] Could not unambiguously determine chain of interest; defaulting to first chain in sorted order.
+[2026-11-18 06:15:31,238][rfproteina.metrics.utils.metrics_utils][WARNING] - [rank: 0] positive_control_6wgl_cc92a442: refolded CIF missing for oracle_ppi: None

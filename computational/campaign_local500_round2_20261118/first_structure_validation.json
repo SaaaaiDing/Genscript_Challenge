@@ -1,0 +1,11 @@
+{
+  "first_structure": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/runs/batch_00/inference_samples/il4ra_p1_h3_12_rep0/il4ra_p1_h3_12_rep0_generated.cif",
+  "chain_lengths": {
+    "T": 207,
+    "H": 119,
+    "L": 107
+  },
+  "finite_coordinates": true,
+  "canonical_target_sequence": true,
+  "interpretation": "Operational verification only; per-design scientific screening follows batch completion."
+}

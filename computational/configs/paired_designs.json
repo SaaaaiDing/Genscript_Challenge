@@ -1,0 +1,174 @@
+{
+  "il4ra_p1_h3_12": {
+    "input": "/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/paired_source.cif",
+    "input_as_annotated_cif": true,
+    "contig": "T26-232, /0, L1-26, LCDR1:6-6, L33-49, LCDR2:3-3, L53-88, LCDR3:9-9, L98-107, /0, H1-25, HCDR1:8-8, H34-50, HCDR2:8-8, H59-96, HCDR3:12-12, H109-119",
+    "conditions": {
+      "C_SEQ": {
+        "true": [
+          {
+            "select": "sel('T')"
+          },
+          {
+            "select": "(sel('H') or sel('L')) and not sel('*/[HCDR1,HCDR2,HCDR3,LCDR1,LCDR2,LCDR3]')"
+          }
+        ]
+      },
+      "C_CRDGRP": {
+        "1": [
+          {
+            "select": "sel('T') and is_protein_backbone"
+          }
+        ],
+        "2": [
+          {
+            "select": "(sel('H') or sel('L')) and not sel('*/[HCDR1,HCDR2,HCDR3,LCDR1,LCDR2,LCDR3]') and is_protein_backbone"
+          }
+        ]
+      },
+      "C_CATH": {
+        "2.60.40": [
+          {
+            "select": "sel('H') or sel('L')"
+          }
+        ]
+      },
+      "C_HOT": {
+        "true": [
+          {
+            "select": "sel('T/*/[107,108,109]/CA')"
+          }
+        ]
+      }
+    }
+  },
+  "il4ra_p1_h3_16": {
+    "input": "/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/paired_source.cif",
+    "input_as_annotated_cif": true,
+    "contig": "T26-232, /0, L1-26, LCDR1:6-6, L33-49, LCDR2:3-3, L53-88, LCDR3:9-9, L98-107, /0, H1-25, HCDR1:8-8, H34-50, HCDR2:8-8, H59-96, HCDR3:16-16, H109-119",
+    "conditions": {
+      "C_SEQ": {
+        "true": [
+          {
+            "select": "sel('T')"
+          },
+          {
+            "select": "(sel('H') or sel('L')) and not sel('*/[HCDR1,HCDR2,HCDR3,LCDR1,LCDR2,LCDR3]')"
+          }
+        ]
+      },
+      "C_CRDGRP": {
+        "1": [
+          {
+            "select": "sel('T') and is_protein_backbone"
+          }
+        ],
+        "2": [
+          {
+            "select": "(sel('H') or sel('L')) and not sel('*/[HCDR1,HCDR2,HCDR3,LCDR1,LCDR2,LCDR3]') and is_protein_backbone"
+          }
+        ]
+      },
+      "C_CATH": {
+        "2.60.40": [
+          {
+            "select": "sel('H') or sel('L')"
+          }
+        ]
+      },
+      "C_HOT": {
+        "true": [
+          {
+            "select": "sel('T/*/[107,108,109]/CA')"
+          }
+        ]
+      }
+    }
+  },
+  "il4ra_p2_h3_12": {
+    "input": "/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/paired_source.cif",
+    "input_as_annotated_cif": true,
+    "contig": "T26-232, /0, L1-26, LCDR1:6-6, L33-49, LCDR2:3-3, L53-88, LCDR3:9-9, L98-107, /0, H1-25, HCDR1:8-8, H34-50, HCDR2:8-8, H59-96, HCDR3:12-12, H109-119",
+    "conditions": {
+      "C_SEQ": {
+        "true": [
+          {
+            "select": "sel('T')"
+          },
+          {
+            "select": "(sel('H') or sel('L')) and not sel('*/[HCDR1,HCDR2,HCDR3,LCDR1,LCDR2,LCDR3]')"
+          }
+        ]
+      },
+      "C_CRDGRP": {
+        "1": [
+          {
+            "select": "sel('T') and is_protein_backbone"
+          }
+        ],
+        "2": [
+          {
+            "select": "(sel('H') or sel('L')) and not sel('*/[HCDR1,HCDR2,HCDR3,LCDR1,LCDR2,LCDR3]') and is_protein_backbone"
+          }
+        ]
+      },
+      "C_CATH": {
+        "2.60.40": [
+          {
+            "select": "sel('H') or sel('L')"
+          }
+        ]
+      },
+      "C_HOT": {
+        "true": [
+          {
+            "select": "sel('T/*/[67,70]/CA')"
+          }
+        ]
+      }
+    }
+  },
+  "il4ra_p2_h3_16": {
+    "input": "/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/paired_source.cif",
+    "input_as_annotated_cif": true,
+    "contig": "T26-232, /0, L1-26, LCDR1:6-6, L33-49, LCDR2:3-3, L53-88, LCDR3:9-9, L98-107, /0, H1-25, HCDR1:8-8, H34-50, HCDR2:8-8, H59-96, HCDR3:16-16, H109-119",
+    "conditions": {
+      "C_SEQ": {
+        "true": [
+          {
+            "select": "sel('T')"
+          },
+          {
+            "select": "(sel('H') or sel('L')) and not sel('*/[HCDR1,HCDR2,HCDR3,LCDR1,LCDR2,LCDR3]')"
+          }
+        ]
+      },
+      "C_CRDGRP": {
+        "1": [
+          {
+            "select": "sel('T') and is_protein_backbone"
+          }
+        ],
+        "2": [
+          {
+            "select": "(sel('H') or sel('L')) and not sel('*/[HCDR1,HCDR2,HCDR3,LCDR1,LCDR2,LCDR3]') and is_protein_backbone"
+          }
+        ]
+      },
+      "C_CATH": {
+        "2.60.40": [
+          {
+            "select": "sel('H') or sel('L')"
+          }
+        ]
+      },
+      "C_HOT": {
+        "true": [
+          {
+            "select": "sel('T/*/[67,70]/CA')"
+          }
+        ]
+      }
+    }
+  }
+}

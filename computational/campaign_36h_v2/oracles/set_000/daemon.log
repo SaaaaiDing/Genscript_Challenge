@@ -1,0 +1,7 @@
+[af3-daemon] listening on /tmp/il4ra_57451616/o.sock (pid=3478559)
+[af3-daemon] starting warm AF3 worker (gpu=0, num_recycles=5)
+WARNING: skipping mount of /storage/group/yjz5549/default/GenScript_challenge/computational/cache/of3_jax: stat /storage/group/yjz5549/default/GenScript_challenge/computational/cache/of3_jax: no such file or directory
+INFO:    Terminating squashfuse_ll after timeout
+INFO:    Timeouts can be caused by a running background process
+FATAL:   container creation failed: mount hook function failure: mount /storage/group/yjz5549/default/GenScript_challenge/computational/cache/of3_jax->/storage/group/yjz5549/default/GenScript_challenge/computational/cache/of3_jax error: while mounting /storage/group/yjz5549/default/GenScript_challenge/computational/cache/of3_jax: mount source /storage/group/yjz5549/default/GenScript_challenge/computational/cache/of3_jax doesn't exist
+[af3-daemon] warm worker failed: warm AF3 worker exited during startup (rc=255)

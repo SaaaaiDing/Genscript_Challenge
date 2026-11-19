@@ -1,0 +1,102 @@
+/storage/group/yjz5549/default/RFD4/RFD4-Proteina/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+Environment variable CCD_MIRROR_PATH not set. Will not be able to use function requiring this variable. To set it you may:
+  (1) add the line 'export VAR_NAME=path/to/variable' to your .bashrc or .zshrc file
+  (2) set it in your current shell with 'export VAR_NAME=path/to/variable'
+  (3) write it to a .env file in the root of the atomworks.io repository
+Environment variable PDB_MIRROR_PATH not set. Will not be able to use function requiring this variable. To set it you may:
+  (1) add the line 'export VAR_NAME=path/to/variable' to your .bashrc or .zshrc file
+  (2) set it in your current shell with 'export VAR_NAME=path/to/variable'
+  (3) write it to a .env file in the root of the atomworks.io repository
+CONFIG
+├── metrics
+│   └── refolding_oracles:                                                                          
+│         oracle_ppi:                                                                               
+│           _target_: rfproteina.metrics.oracles.af3_oracle.AF3Oracle                               
+│           oracle_name: of3_ppi                                                                    
+│           template_query: chain_id == 'T' and is_protein                                          
+│           aggregation:                                                                            
+│           - median                                                                                
+│           required_tags_any:                                                                      
+│           - paired_fv_refolding                                                                   
+│           seed: 20261118                                                                          
+│       refolding_metrics:                                                                          
+│         target_aligned_fv_backbone_rmsd:                                                          
+│           _target_: rfproteina.metrics.gt_structure_comparison.StructureComparisonMetric          
+│           align_mask: chain_id == 'T' and is_protein_backbone                                     
+│           subset_mask: (chain_id == 'H' or chain_id == 'L') and is_protein_backbone               
+│           metric_type: rmsd                                                                       
+│           aggregation:                                                                            
+│           - median                                                                                
+│           required_tags_any:                                                                      
+│           - paired_fv_refolding                                                                   
+│           required_tags_all:                                                                      
+│           - is_refold:untransformed                                                               
+│         target_aligned_vh_backbone_rmsd:                                                          
+│           _target_: rfproteina.metrics.gt_structure_comparison.StructureComparisonMetric          
+│           align_mask: chain_id == 'T' and is_protein_backbone                                     
+│           subset_mask: chain_id == 'H' and is_protein_backbone                                    
+│           metric_type: rmsd                                                                       
+│           aggregation:                                                                            
+│           - median                                                                                
+│           required_tags_any:                                                                      
+│           - paired_fv_refolding                                                                   
+│           required_tags_all:                                                                      
+│           - is_refold:untransformed                                                               
+│         target_aligned_vl_backbone_rmsd:                                                          
+│           _target_: rfproteina.metrics.gt_structure_comparison.StructureComparisonMetric          
+│           align_mask: chain_id == 'T' and is_protein_backbone                                     
+│           subset_mask: chain_id == 'L' and is_protein_backbone                                    
+│           metric_type: rmsd                                                                       
+│           aggregation:                                                                            
+│           - median                                                                                
+│           required_tags_any:                                                                      
+│           - paired_fv_refolding                                                                   
+│           required_tags_all:                                                                      
+│           - is_refold:untransformed                                                               
+│                                                                                                   
+├── verbose
+│   └── True                                                                                        
+├── inputs
+│   └── /storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/
+│       oracles/set_018/inputs                                                                      
+├── metrics_tags
+│   └── ['paired_fv_refolding']                                                                     
+├── task_csv
+│   └── None                                                                                        
+├── out_dir
+│   └── /storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/
+│       oracles/set_018/results                                                                     
+├── job_id
+│   └── None                                                                                        
+├── gen_njobs
+│   └── 1                                                                                           
+├── run_name_
+│   └── il4ra_paired_fv_evaluation                                                                  
+├── compress_outputs
+│   └── False                                                                                       
+└── delete_failing_pre_oracle
+    └── False                                                                                       
+[2026-11-18 05:20:09,941][rfproteina.evaluate][WARNING] - [rank: 0] No task_csv provided; all structures will be assigned task='all'
+[2026-11-18 05:20:09,944][rfproteina.utils.logging][INFO] - [rank: 0] 
+    Validation Metrics    
+┏━━━━━━━━━━━━┳━━━━━━━━━━━┓
+┃       Name ┃      Type ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━┩
+│ oracle_ppi │ AF3Oracle │
+└────────────┴───────────┘
+
+[2026-11-18 05:20:09,964][rfproteina.utils.logging][INFO] - [rank: 0] 
+                      Validation Metrics                       
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                            Name ┃                      Type ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ target_aligned_fv_backbone_rmsd │ StructureComparisonMetric │
+│ target_aligned_vh_backbone_rmsd │ StructureComparisonMetric │
+│ target_aligned_vl_backbone_rmsd │ StructureComparisonMetric │
+└─────────────────────────────────┴───────────────────────────┘
+
+[2026-11-18 05:20:13,698][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra500_57427235/o.sock (timeout=1.0h)
+[2026-11-18 05:20:59,212][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra500_57427235/o.sock (timeout=1.0h)
+[2026-11-18 05:21:17,391][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra500_57427235/o.sock (timeout=1.0h)
+[2026-11-18 05:21:35,605][rfproteina.metrics.oracles.af3_oracle][INFO] - [rank: 0] AF3 fold_batch: routing 1 designs via daemon at /tmp/il4ra500_57427235/o.sock (timeout=1.0h)

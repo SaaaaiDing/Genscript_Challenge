@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "scope": "CPU environment, asset presence, configuration composition, and score-semantics checks only",
+  "checks": {
+    "environment_metadata": {
+      "status": "passed",
+      "source": "cpu_checks.json"
+    },
+    "cached_assets": {
+      "status": "passed",
+      "source": "cpu_checks.json"
+    },
+    "hydra_composition": {
+      "status": "passed",
+      "source": "config_checks.json"
+    },
+    "cpu_imports": {
+      "status": "passed",
+      "source": "cpu_checks.json"
+    },
+    "paired_confidence_counterexample": {
+      "status": "passed",
+      "source": "cpu_checks.json"
+    }
+  },
+  "gpu_inference_performed": false,
+  "slurm_jobs_submitted": 0,
+  "actual_paired_input_validated": false,
+  "remaining_execution_gates": [
+    "Reviewed target and paired-framework input with annotation round-trip validation",
+    "Authorized scheduler-enforced non-preemption",
+    "GPU preflight and single-sample inference",
+    "Separate OpenFold3 smoke test and paired metric validation"
+  ]
+}

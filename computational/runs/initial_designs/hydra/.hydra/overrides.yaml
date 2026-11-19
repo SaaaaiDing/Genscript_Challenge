@@ -1,0 +1,10 @@
+- inputs=/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/annotated
+- out_dir=/storage/group/yjz5549/default/GenScript_challenge/computational/runs/initial_designs
+- hf_ckpt_path=/storage/group/yjz5549/default/RFD4/huggingface/hub/models--nvidia--RFD4-Proteina/snapshots/a06e2509c7033b010fc43614e9fd840303588502
+- num_replicates=2
+- compress_outputs=false
+- out_dir=/storage/group/yjz5549/default/GenScript_challenge/computational/runs/initial_designs
+- hardware.ngpus_per_node_=1
+- hardware.nnodes_=1
+- job_id=0
+- gen_njobs=1

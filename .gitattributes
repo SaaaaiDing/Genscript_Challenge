@@ -1,0 +1,6 @@
+# Preserve exact bytes of provenance, logs and reference sequences on every OS.
+* -text
+*.gz -diff
+*.xlsx -diff
+*.zip -diff
+*.pdf -diff

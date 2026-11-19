@@ -1,0 +1,33 @@
+Environment variable CCD_MIRROR_PATH not set. Will not be able to use function requiring this variable. To set it you may:
+  (1) add the line 'export VAR_NAME=path/to/variable' to your .bashrc or .zshrc file
+  (2) set it in your current shell with 'export VAR_NAME=path/to/variable'
+  (3) write it to a .env file in the root of the atomworks.io repository
+Environment variable PDB_MIRROR_PATH not set. Will not be able to use function requiring this variable. To set it you may:
+  (1) add the line 'export VAR_NAME=path/to/variable' to your .bashrc or .zshrc file
+  (2) set it in your current shell with 'export VAR_NAME=path/to/variable'
+  (3) write it to a .env file in the root of the atomworks.io repository
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=1857: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2004: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2272: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2514: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2648: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2957: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=1857: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2004: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2272: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2514: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2648: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2957: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=1857: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2004: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2272: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2514: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2648: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2957: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=1857: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2004: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2272: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2514: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2648: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+Expandable segment sentinel insertion copied annotation values without explicit re-derivation for source atom_idx=2957: ['auth_seq_id', 'label_alt_id', 'label_entity_id', 'transformation_id']
+PAIRED_INPUTS_READY 4

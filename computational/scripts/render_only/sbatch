@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Stop the upstream launcher after it renders the batch script. Never submit.
+echo 'Batch script rendered; submission intentionally deferred for local validation.' >&2
+exit 97

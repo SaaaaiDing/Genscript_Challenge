@@ -1,0 +1,30 @@
+{
+  "checked_at_utc": "2026-11-19T04:32:16.623236+00:00",
+  "rounds": {
+    "R1": {
+      "generated_records": 500,
+      "source_structure_hashes_verified": 500,
+      "resolved_batch_configs": 0,
+      "batch_process_logs": 20,
+      "batch_generation_logs": 20,
+      "events_present": true,
+      "status": "completed_with_stop_condition",
+      "input_batch_configs": 20
+    },
+    "R2": {
+      "generated_records": 500,
+      "source_structure_hashes_verified": 500,
+      "resolved_batch_configs": 20,
+      "batch_process_logs": 20,
+      "batch_generation_logs": 20,
+      "events_present": true,
+      "status": "completed",
+      "input_batch_configs": 0
+    }
+  },
+  "scope": "Requested 1000 generation, pooled screening, follow-up diagnostics, additional review and full-chain sequence assembly complete. Not every candidate was refolded; full H2L2 3D prediction not performed.",
+  "submission_file": "exports/priority20_official_template.xlsx",
+  "submission_records": 20,
+  "submitted_to_platform": false,
+  "result_package_is_full_raw_compute_archive": false
+}

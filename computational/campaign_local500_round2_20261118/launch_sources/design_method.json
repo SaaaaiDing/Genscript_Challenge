@@ -1,0 +1,111 @@
+{
+  "target": "P24394-1 residues 26-232, canonical sequence, AlphaFold v6 backbone",
+  "experimental_core_rmsd_angstrom": 1.1184871196746826,
+  "framework": "5I19 human germline IGHV3-23/IGKV1-39; retain framework only",
+  "cdr_numbering": "IMGT; regenerate positions 27-38, 56-65, 105-117 in both chains",
+  "framework_details": {
+    "L": {
+      "source_chain": "A",
+      "source_variable_sequence": "DIQMTQSPSSLSASVGDRVTITCRASQSISSYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYSTPLTFGQGTKVEIK",
+      "removed_cdrs": {
+        "LCDR1": "QSISSY",
+        "LCDR2": "AAS",
+        "LCDR3": "QQSYSTPLT"
+      },
+      "tokens": [
+        "L1-26",
+        "LCDR1:6-6",
+        "L33-49",
+        "LCDR2:3-3",
+        "L53-88",
+        "LCDR3:9-9",
+        "L98-107"
+      ]
+    },
+    "H": {
+      "source_chain": "B",
+      "source_variable_sequence": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISGSGGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAKYDGIYGELDFWGQGTLVTVSS",
+      "removed_cdrs": {
+        "HCDR1": "GFTFSSYA",
+        "HCDR2": "ISGSGGST",
+        "HCDR3": "AKYDGIYGELDF"
+      },
+      "tokens": [
+        "H1-25",
+        "HCDR1:8-8",
+        "H34-50",
+        "HCDR2:8-8",
+        "H59-96",
+        "HCDR3:12-12",
+        "H109-119"
+      ]
+    }
+  },
+  "glycosylation_sites": [
+    53,
+    98,
+    128,
+    134,
+    176,
+    209
+  ],
+  "patches": [
+    {
+      "hotspots": [
+        107,
+        108,
+        109
+      ],
+      "evidence": [
+        [
+          107,
+          81,
+          182.00897216796875,
+          15.910277366638184,
+          91.31
+        ],
+        [
+          108,
+          82,
+          110.28199005126953,
+          15.690916061401367,
+          93.38
+        ],
+        [
+          109,
+          83,
+          76.88716125488281,
+          16.551679611206055,
+          95.06
+        ]
+      ]
+    },
+    {
+      "hotspots": [
+        67,
+        70
+      ],
+      "evidence": [
+        [
+          67,
+          41,
+          167.182861328125,
+          12.272871971130371,
+          86.06
+        ],
+        [
+          70,
+          44,
+          133.79824829101562,
+          13.327498435974121,
+          91.75
+        ]
+      ]
+    }
+  ],
+  "limits": [
+    "Glycan-distance filtering is a heuristic, not explicit glycan modeling.",
+    "No experimental binding claim.",
+    "Framework and CDR novelty require final reference comparisons."
+  ]
+}

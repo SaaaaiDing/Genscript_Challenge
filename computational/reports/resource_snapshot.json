@@ -1,0 +1,68 @@
+{
+  "captured_at_utc": "2026-11-17T21:50:49.164554+00:00",
+  "commands": {
+    "node": {
+      "argv": [
+        "scontrol",
+        "show",
+        "node",
+        "p-gc-3039"
+      ],
+      "returncode": 0,
+      "stdout": "NodeName=p-gc-3039 Arch=x86_64 CoresPerSocket=24 \n   CPUAlloc=24 CPUEfctv=48 CPUTot=48 CPULoad=3.37\n   AvailableFeatures=standard,a100,cascadelake\n   ActiveFeatures=standard,a100,cascadelake\n   Gres=gpu:a100:2(S:0-1)\n   NodeAddr=p-gc-3039 NodeHostName=p-gc-3039 Version=26.05.4\n   OS=Linux 4.18.0-553.174.1.el8_10.x86_64 #1 SMP Wed Oct 14 02:16:12 EDT 2026 \n   RealMemory=375000 AllocMem=196608 FreeMem=30275 Sockets=2 Boards=1\n   State=MIXED ThreadsPerCore=1 TmpDisk=0 Weight=130 Owner=N/A MCS_label=N/A\n   Partitions=standard,sla-prio \n   BootTime=2026-10-23T08:47:51 SlurmdStartTime=2026-10-23T08:50:47\n   LastBusyTime=2026-11-17T10:09:47 ResumeAfterTime=None SuspendTime=INFINITE\n   CfgTRES=cpu=48,mem=375000M,billing=13615,gres/gpu=2,gres/gpu:a100=2\n   AllocTRES=cpu=24,mem=192G,gres/gpu=2,gres/gpu:a100=2\n   CurrentWatts=0 AveWatts=0\n\n",
+      "stderr": ""
+    },
+    "partition": {
+      "argv": [
+        "scontrol",
+        "show",
+        "partition",
+        "standard"
+      ],
+      "returncode": 0,
+      "stdout": "PartitionName=standard\n   AllowGroups=ALL DenyAccounts=reserved_allocation AllowQos=normal,debug,express,preempt\n   AllocNodes=ALL Default=NO CpuBind=cores  QoS=N/A\n   DefaultTime=1-00:00:00 DisableRootJobs=YES Exclusive=NO GraceTime=0 Hidden=NO\n   MaxNodes=UNLIMITED MaxTime=14-00:00:00 MinNodes=0 LLN=NO MaxCPUsPerNode=UNLIMITED MaxCPUsPerSocket=UNLIMITED\n   NodeSets=standard_nodes\n   Nodes=p-gc-[3001-3040,3101-3160,3192-3193,3201-3202],p-ic-[4001-4012],p-sc-[2169-2308,2337-2340],p-zc-[7001-7035]\n   PriorityJobFactor=50 PriorityTier=40 RootOnly=NO ReqResv=NO OverSubscribe=NO\n   OverTimeLimit=NONE PreemptMode=REQUEUE\n   State=UP TotalCPUs=13288 TotalNodes=295 SelectTypeParameters=NONE\n   JobDefaults=(null)\n   DefMemPerNode=UNLIMITED MaxMemPerNode=UNLIMITED\n   TRES=cpu=13288,mem=125322000M,node=295,billing=2569371,gres/gpu=168,gres/gpu:a100=76,gres/gpu:a100_1g=2,gres/gpu:a100_2g=1,gres/gpu:a100_3g=7,gres/gpu:a40=12,gres/gpu:p100=60,gres/gpu:v100=10\n   TRESBillingWeights=CPU=144.44,Mem=18.05G,GRES/gpu:a40=3555.51,GRES/gpu:a100=3340.96,GRES/gpu:a100_3g=1670.48,GRES/gpu:a100_2g=1113.65,GRES/gpu:a100_1g=477.28,GRES/gpu:p100=380.31,GRES/gpu:v100=2716.77\n\n",
+      "stderr": ""
+    },
+    "qos": {
+      "argv": [
+        "sacctmgr",
+        "-n",
+        "-P",
+        "show",
+        "qos",
+        "format=Name,Preempt,PreemptMode,Priority"
+      ],
+      "returncode": 0,
+      "stdout": "normal|preempt|cluster|1000\nic||cluster|0\nligo||cluster|0\ndebug|preempt|cluster|20000\nexpress|preempt|cluster|10000\nmgc-open||cluster|0\nmgc-mri|mgc-open|cluster|0\nmgc-mri-debug|mgc-mri,mgc-open|cluster|0\nmgc-nih|mgc-open|cluster|0\nmgc-nih-debug|mgc-nih,mgc-open|cluster|0\ninteractive||cluster|0\nreserved|preempt|cluster|1000\npreempt||cluster|0\n",
+      "stderr": ""
+    },
+    "account_access": {
+      "argv": [
+        "sacctmgr",
+        "-n",
+        "-P",
+        "show",
+        "assoc",
+        "where",
+        "user=sqd5856",
+        "account=yjz5549_cr_default",
+        "format=User,Account,Partition,QOS,DefaultQOS"
+      ],
+      "returncode": 0,
+      "stdout": "sqd5856|yjz5549_cr_default||normal|\n",
+      "stderr": ""
+    },
+    "repository_revision": {
+      "argv": [
+        "git",
+        "-C",
+        "/storage/group/yjz5549/default/RFD4/RFD4-Proteina",
+        "rev-parse",
+        "HEAD"
+      ],
+      "returncode": 0,
+      "stdout": "aaccdd2ad0720c180468df5f9cf037a713d403e5\n",
+      "stderr": ""
+    }
+  }
+}

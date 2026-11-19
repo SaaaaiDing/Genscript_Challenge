@@ -1,0 +1,33 @@
+{
+  "created_utc": "2026-11-19T03:12:55.504941+00:00",
+  "packages": {
+    "anarcii": "2.0.8",
+    "biotite": "1.6.0",
+    "torch": "2.14.1+cu126"
+  },
+  "inputs": {
+    "computational/combined1000_20261118/all_designs.json": "cc4e50e09e3e11f5fe05b783c1ece0eabaf426de1f1dd204005dccbc2d49aca1",
+    "computational/inputs/raw/TheraSAbDab.csv": "cc9402788297ed7b6ab3d676daa21953a6d28ebbd9cc78ec7248b19f74d49d6d",
+    "computational/inputs/raw/5I19.cif": "2c16e8dad4830b8c1b9df9395b015c921678844af2b7ded03066ff1eb5329339",
+    "computational/provenance/design_method.json": "7765b50b518c8be34d65164ccf1974390ee7c0db8c40a7d91e088bb792d84d88",
+    "computational/igg_review_20261118/raw/P01834.json": "a8b28c1e2ae7e9c0d738fcb92f87b3f69e63f61ebf3652f677122ab6d2995e83",
+    "computational/igg_review_20261118/raw/P01857-1.fasta": "a0d75d075e609b502b967ce01dde239401b7d628b871b12c36358379cac1026b",
+    "computational/igg_review_20261118/raw/P01857-2.fasta": "7a592a16b7813d04992c61a1032fc195975e4799bd1554da294b597ac897b667",
+    "computational/igg_review_20261118/raw/P01857.json": "8e7aafda1532cac41374301bb5afb4019e35e9f8edf77426abd93f3d8a886f00",
+    "computational/igg_review_20261118/raw/official_template.xlsx": "b6f59ebc00728dbb20173fd7737da800b0e05465ed65fdaab22eb1e1b209f751"
+  },
+  "outputs": {
+    "exports/priority20.json": "c4fd60d85ae328df8f8933eac24e0f970d7a0bbd316894cdf80bfdc1c0b97243",
+    "exports/priority20_full_HC_LC.fasta": "854665725772929ae707ad66dfb9536131431e0b9e6d4c8ad9b95b656995d33c",
+    "exports/priority20_official_template.xlsx": "4c544b879262acf6b02b3adc6417e9f155a5aa4336d1f3bfbb001cd6ac27a416",
+    "exports/priority20_review.csv": "6369f6c6eb2376007f5b8e0dfd940de72cb8a7c25f47ff8e08cfd01f0c3dea1a",
+    "exports/reserve20.json": "b9ded3fff34eaa545c8f88d77eb6176a549dad345d4dd03051a40299134dff36",
+    "exports/reserve20_full_HC_LC.fasta": "d6b6949fdab8182863be00b179763739d3a500e90149e985328275a9b0f5503e",
+    "exports/reserve20_official_template.xlsx": "a5c2a5713ede0857e6eb5bb88dd66bf58ee79cc469760b732a50f37fa5f68ac9",
+    "exports/reserve20_review.csv": "460b122decf8cabc997f023b2e27faf185931e428e05836fec0fbbb7423f7940",
+    "code/finalize_review.py": "a2587a268da03973ac44c913eb6a2cd8e9b35a5037207220325027b78ae0a4d9",
+    "code/number_sequences.py": "f5f801005190433c03e28a4b10aefd3c35fdf86d93560b373e327f7555450c4c",
+    "code/review_geometry.py": "23a618056a2d22eb1904c0cae450229c33552acc59921a21ca636f4a94bab983",
+    "code/validate_exports.py": "747cc4520fbcde6dc2ae44296e67bf3f38c500330a723d7f6a474c093a5500be"
+  }
+}

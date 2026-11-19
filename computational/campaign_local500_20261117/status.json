@@ -1,0 +1,15 @@
+{
+  "status": "completed_with_stop_condition",
+  "job_id": "57427235",
+  "node": "p-gc-3039",
+  "target_new_designs": 500,
+  "stage": "batch_19",
+  "started_at": "2026-11-17T22:04:40-0500",
+  "generated": 500,
+  "refolded": 26,
+  "computational_passers": 0,
+  "triage_passers": 223,
+  "elapsed_hours": 7.372928245978352,
+  "updated_at": "2026-11-18T05:27:02-0500",
+  "stop_reason": "Zero computational passers after at least 24 complete refolds; redesign required."
+}

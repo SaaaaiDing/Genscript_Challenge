@@ -1,0 +1,10 @@
+{
+  "pid": 3755015,
+  "started_at": "2026-11-18T06:13:42.149980-05:00",
+  "allocation": "57427235",
+  "node": "p-gc-3039",
+  "command": [
+    "bash",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/continuation_20261118/run_diagnostics.sh"
+  ]
+}

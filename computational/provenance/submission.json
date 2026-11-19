@@ -1,0 +1,18 @@
+{
+  "job_id": "57445564",
+  "submitted_utc": "2026-11-17T22:12:10.538252+00:00",
+  "script": "/storage/group/yjz5549/default/GenScript_challenge/computational/runs/initial_designs/slurm_batch_script.sh",
+  "script_sha256": "a8675868c84f51996a0c7186c2c71ff29b5e8e0cf9e1f66a12460d0462e6cee4",
+  "qos": "preempt",
+  "excluded_node": "p-gc-3039",
+  "gpus": 1,
+  "cpus": 2,
+  "memory_gib": 24,
+  "requested_designs": 9,
+  "representative_smoke_designs": 1,
+  "exploratory_designs": 8,
+  "design_problems": 4,
+  "replicates_per_problem": 2,
+  "status": "submitted_not_yet_confirmed_running",
+  "latest_scheduler_observation": "57445564 RUNNING p-gc-3016 1:14"
+}

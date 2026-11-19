@@ -1,0 +1,55 @@
+metrics:
+  refolding_oracles:
+    oracle_ppi:
+      _target_: rfproteina.metrics.oracles.af3_oracle.AF3Oracle
+      oracle_name: of3_ppi
+      template_query: chain_id == 'T' and is_protein
+      aggregation:
+      - median
+      required_tags_any:
+      - paired_fv_refolding
+  refolding_metrics:
+    target_aligned_fv_backbone_rmsd:
+      _target_: rfproteina.metrics.gt_structure_comparison.StructureComparisonMetric
+      align_mask: chain_id == 'T' and is_protein_backbone
+      subset_mask: (chain_id == 'H' or chain_id == 'L') and is_protein_backbone
+      metric_type: rmsd
+      aggregation:
+      - median
+      required_tags_any:
+      - paired_fv_refolding
+      required_tags_all:
+      - is_refold:untransformed
+    target_aligned_vh_backbone_rmsd:
+      _target_: rfproteina.metrics.gt_structure_comparison.StructureComparisonMetric
+      align_mask: chain_id == 'T' and is_protein_backbone
+      subset_mask: chain_id == 'H' and is_protein_backbone
+      metric_type: rmsd
+      aggregation:
+      - median
+      required_tags_any:
+      - paired_fv_refolding
+      required_tags_all:
+      - is_refold:untransformed
+    target_aligned_vl_backbone_rmsd:
+      _target_: rfproteina.metrics.gt_structure_comparison.StructureComparisonMetric
+      align_mask: chain_id == 'T' and is_protein_backbone
+      subset_mask: chain_id == 'L' and is_protein_backbone
+      metric_type: rmsd
+      aggregation:
+      - median
+      required_tags_any:
+      - paired_fv_refolding
+      required_tags_all:
+      - is_refold:untransformed
+verbose: true
+inputs: ???
+metrics_tags:
+- paired_fv_refolding
+task_csv: null
+out_dir: ${oc.env:IL4RA_RUN_DIR}
+job_id: null
+gen_njobs: 1
+run_name_: il4ra_paired_fv_evaluation
+compress_outputs: true
+delete_failing_pre_oracle: false

@@ -1,0 +1,19 @@
+{
+  "argv": [
+    "rfd4-generate",
+    "--config-path",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/configs",
+    "--config-name",
+    "pilot_generation",
+    "inputs=/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/annotated/il4ra_p2_h3_16.cif",
+    "out_dir=/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/runs/batch_15",
+    "hf_ckpt_path=/storage/group/yjz5549/default/RFD4/huggingface/hub/models--nvidia--RFD4-Proteina/snapshots/a06e2509c7033b010fc43614e9fd840303588502",
+    "num_replicates=25",
+    "batch_size=1",
+    "num_workers=0",
+    "seed=2026111915",
+    "compress_outputs=false",
+    "ncpus_=2"
+  ],
+  "timeout_seconds": 5400
+}

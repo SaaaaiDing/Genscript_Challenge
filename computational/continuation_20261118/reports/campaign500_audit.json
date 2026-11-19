@@ -1,0 +1,138 @@
+{
+  "generated": 500,
+  "unique_pairs": 500,
+  "triage_passers": 219,
+  "per_condition": {
+    "il4ra_p1_h3_12": {
+      "generated": 125,
+      "triage_passers": 69
+    },
+    "il4ra_p1_h3_16": {
+      "generated": 125,
+      "triage_passers": 73
+    },
+    "il4ra_p2_h3_12": {
+      "generated": 125,
+      "triage_passers": 42
+    },
+    "il4ra_p2_h3_16": {
+      "generated": 125,
+      "triage_passers": 35
+    }
+  },
+  "refolded_total": 26,
+  "refolded_new": 24,
+  "complete_passers": 0,
+  "oracle_gate_pass_counts": {
+    "target_interface_pass": 0,
+    "refold_geometry_pass": 0
+  },
+  "vh_vl_confidence_both_at_least_80": 23,
+  "pairing_iptm_at_least_60": 22,
+  "independent_rmsd_audit": [
+    {
+      "design_id": "pilot_00",
+      "independent_target_aligned_fv_rmsd": 95.21829223632812
+    },
+    {
+      "design_id": "pilot_03",
+      "independent_target_aligned_fv_rmsd": 70.76969909667969
+    },
+    {
+      "design_id": "b00_d013",
+      "independent_target_aligned_fv_rmsd": 59.01629638671875
+    },
+    {
+      "design_id": "b01_d005",
+      "independent_target_aligned_fv_rmsd": 67.95807647705078
+    },
+    {
+      "design_id": "b01_d007",
+      "independent_target_aligned_fv_rmsd": 94.40082550048828
+    },
+    {
+      "design_id": "b01_d012",
+      "independent_target_aligned_fv_rmsd": 103.71923065185547
+    },
+    {
+      "design_id": "b02_d000",
+      "independent_target_aligned_fv_rmsd": 69.16888427734375
+    },
+    {
+      "design_id": "b05_d006",
+      "independent_target_aligned_fv_rmsd": 68.83039855957031
+    },
+    {
+      "design_id": "b05_d014",
+      "independent_target_aligned_fv_rmsd": 99.10546875
+    },
+    {
+      "design_id": "b06_d018",
+      "independent_target_aligned_fv_rmsd": 92.39913940429688
+    },
+    {
+      "design_id": "b06_d021",
+      "independent_target_aligned_fv_rmsd": 97.41722869873047
+    },
+    {
+      "design_id": "b07_d014",
+      "independent_target_aligned_fv_rmsd": 19.139585494995117
+    },
+    {
+      "design_id": "b08_d004",
+      "independent_target_aligned_fv_rmsd": 94.06328582763672
+    },
+    {
+      "design_id": "b08_d010",
+      "independent_target_aligned_fv_rmsd": 98.40702819824219
+    },
+    {
+      "design_id": "b09_d020",
+      "independent_target_aligned_fv_rmsd": 42.76313400268555
+    },
+    {
+      "design_id": "b10_d019",
+      "independent_target_aligned_fv_rmsd": 39.40003204345703
+    },
+    {
+      "design_id": "b11_d016",
+      "independent_target_aligned_fv_rmsd": 86.56147003173828
+    },
+    {
+      "design_id": "b11_d017",
+      "independent_target_aligned_fv_rmsd": 91.13803100585938
+    },
+    {
+      "design_id": "b12_d001",
+      "independent_target_aligned_fv_rmsd": 50.25069808959961
+    },
+    {
+      "design_id": "b12_d012",
+      "independent_target_aligned_fv_rmsd": 59.916664123535156
+    },
+    {
+      "design_id": "b12_d024",
+      "independent_target_aligned_fv_rmsd": 61.35117721557617
+    },
+    {
+      "design_id": "b13_d019",
+      "independent_target_aligned_fv_rmsd": 107.8960952758789
+    },
+    {
+      "design_id": "b13_d021",
+      "independent_target_aligned_fv_rmsd": 92.66484069824219
+    },
+    {
+      "design_id": "b15_d019",
+      "independent_target_aligned_fv_rmsd": 35.75044250488281
+    },
+    {
+      "design_id": "b16_d007",
+      "independent_target_aligned_fv_rmsd": 69.88249969482422
+    },
+    {
+      "design_id": "b19_d014",
+      "independent_target_aligned_fv_rmsd": 25.907005310058594
+    }
+  ]
+}

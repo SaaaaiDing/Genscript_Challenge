@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/continue_challenge.py", line 209, in <module>
+    main()
+  File "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/continue_challenge.py", line 186, in main
+    results=evaluate([control],'control_seed20261118',20261118)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/continue_challenge.py", line 90, in evaluate
+    assert len(predicted)==len(conf)==1, f'Missing oracle evidence: {r["design_id"]}'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Missing oracle evidence: positive_control_6wgl
+srun: error: p-gc-3039: task 0: Exited with exit code 1

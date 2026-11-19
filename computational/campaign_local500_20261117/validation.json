@@ -1,0 +1,18 @@
+{
+  "per_condition": {
+    "il4ra_p1_h3_12": 125,
+    "il4ra_p1_h3_16": 125,
+    "il4ra_p2_h3_12": 125,
+    "il4ra_p2_h3_16": 125
+  },
+  "total": 500,
+  "changed_generation_config_fields": [
+    "generation.dataset.num_replicates",
+    "num_replicates",
+    "out_dir",
+    "seed"
+  ],
+  "screening_criteria_unchanged": true,
+  "gpu_checkpoint_preflight": "PASSED on p-gc-3039",
+  "checked_at": "2026-11-17T22:04:32.992613-05:00"
+}

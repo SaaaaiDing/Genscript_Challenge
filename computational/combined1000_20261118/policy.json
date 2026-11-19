@@ -1,0 +1,17 @@
+{
+  "id": "combined1000_geometry_sequence_review_v1",
+  "eligibility": "Original geometry/sequence triage AND zero CDR glycosylation motifs AND no frozen-reference similarity flag",
+  "oracle_policy": "Evidence only: positive-control calibration failed; no oracle veto, reward, or assumption that untested means failed",
+  "rank_within_condition": [
+    "cdr_contact_fraction descending",
+    "cdr_contact_residues descending",
+    "paired_framework_rmsd ascending",
+    "glycan_site_min_distance descending",
+    "candidate_id ascending"
+  ],
+  "diversity": "Greedy six-CDR normalized edit similarity <0.8 between all selected entries",
+  "balance": "Round-robin over four conditions; use another condition when one has no eligible diverse entries",
+  "queue_limit": 20,
+  "reserve_limit": 20,
+  "interpretation": "Provisional computational review priority; not binding probability, experimental affinity, or challenge-ready IgG"
+}

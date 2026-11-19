@@ -1,0 +1,18 @@
+{
+  "source_url": "https://www.rcsb.org/structure/6WGL",
+  "source_sha256": "ef1aa69b21f5ce0ad73fdb38ab886bd402a0f66060199eb3547be46207ead663",
+  "role": "evaluation_only; never a generation input",
+  "parser": "RCSB_WITH_METALS without missing-atom addition, arginine repair or MSE conversion; first altloc",
+  "construct": "Canonical 207-residue IL4RA AF target aligned onto 6WGL; exact reference VH/VL cropped from A/B",
+  "excluded": "Fab constant domains, crystal target chain, waters and glycans",
+  "crystal_target_differences": [
+    {
+      "uniprot_residue": 207,
+      "crystal": "LEU",
+      "canonical": "CYS"
+    }
+  ],
+  "target_core_alignment_rmsd": 1.6871427297592163,
+  "control_sha256": "36632ba39db97962e3c0bb0c8c229f065d92d54766779ced4d427a225e1a1179",
+  "validation": "pipeline, molecule, gaps, sequence and coordinate round-trip"
+}

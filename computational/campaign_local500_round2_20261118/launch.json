@@ -1,0 +1,21 @@
+{
+  "pid": 3785431,
+  "started_at": "2026-11-18T13:37:02.525340-05:00",
+  "node": "p-gc-3039",
+  "allocation": "57427235",
+  "command": [
+    "bash",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/run.sh"
+  ],
+  "source_sha256": {
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/campaign_round2_500.py": "43731e375bbd703e638a4f4a313b5b4e94f3432625880314d836fa291e4c7eaa",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/screen_combined1000.py": "b6e9d7dea958565458c67b742407dc73f8c0fa557e71aea3e8fed653ac242476",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/campaign_local500.py": "a0831ed129eae960f1de70d06a60c05d7d39b4d51fc64546ea1097c266939caa",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/quality_screen.py": "01e175988fe16cb4c23b7def6ea8b09812dfcd5e00ad5495456e1c28ded7d76f",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/scripts/environment.sh": "7441dfd5192ca5243dba1e28b5ea47e3ce058c5e3fbbdfd084690e981d8167f3",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/raw/known_il4ra_cdrs.json": "fe3abe2a2b34598ea45ab2adc711703c2bc729fa33f56baadbeb8a5d6a37e956",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/configs/paired_designs.json": "90ddbd6c76b69cc65730e3dfb4a7683827041d859662e82effdfc1c6570eddbf",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/provenance/design_method.json": "7765b50b518c8be34d65164ccf1974390ee7c0db8c40a7d91e088bb792d84d88",
+    "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/run.sh": "3141e1e7d359dc25b6a6b0fd2df2dbe37eb4af88b93d36f851088c61e757d14a"
+  }
+}

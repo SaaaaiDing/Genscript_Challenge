@@ -1,0 +1,27 @@
+#!/bin/bash
+#SBATCH --account yjz5549_cr_default
+#SBATCH --job-name il4ra_1600_36h
+#SBATCH --partition standard
+#SBATCH --time 36:00:00
+#SBATCH --nodes 1
+#SBATCH --gres=gpu:a100:1
+#SBATCH --ntasks-per-node 1
+#SBATCH --cpus-per-task 2
+#SBATCH --mem 48G
+#SBATCH --open-mode append
+#SBATCH --exclude=p-gc-3039
+#SBATCH --output ./slurm_run_outputs/slurm.out
+#SBATCH --error ./slurm_run_outputs/slurm.err
+#SBATCH --qos=preempt
+#SBATCH --no-requeue
+
+set -euo pipefail
+if [[ "$(hostname -s)" == p-gc-3039 ]]; then
+    echo 'Refusing the protected node.' >&2
+    exit 1
+fi
+export OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 NUMEXPR_NUM_THREADS=1
+ulimit -n "$(ulimit -Hn)" 2>/dev/null || true
+# One bounded coordinator serializes generation and independent refolding.
+exec bash /storage/group/yjz5549/default/GenScript_challenge/computational/scripts/environment.sh python -B /storage/group/yjz5549/default/GenScript_challenge/computational/scripts/campaign36.py
+

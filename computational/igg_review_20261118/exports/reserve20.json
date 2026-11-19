@@ -1,0 +1,4692 @@
+[
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/runs/batch_09/inference_samples/il4ra_p1_h3_16_rep19/il4ra_p1_h3_16_rep19_generated.cif",
+    "task": "il4ra_p1_h3_16",
+    "sha256": "fff906a8258c738f60fc3c5a9ad414d3fabcea0018a98e25fb84f8509765e9c5",
+    "sequence_hash": "59e904f22616b2bd7ac10aae6f15950d180836f54a99b1c37e79aa716ea3fae1",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYGMSWVRQAPGKGLEWVSAITSTGGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDNIDYSSGVYYMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISTYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYNYPWTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYG",
+      "H2": "ITSTGGST",
+      "H3": "ARDNIDYSSGVYYMDY",
+      "L1": "QDISTY",
+      "L2": "AAS",
+      "L3": "QQSYNYPWT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 2.095586028819884e-06,
+    "raw_target_rmsd": 0.6619571614564891,
+    "paired_framework_rmsd": 0.255808025646031,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 18,
+    "hotspot_contacts": 3,
+    "hotspot_distances": {
+      "107": 3.3966656289788344,
+      "108": 4.470062979338569,
+      "109": 3.7941122326762375
+    },
+    "cdr_contact_residues": 17,
+    "cdr_contact_fraction": 0.85,
+    "glycan_site_min_distance": 7.771413666631997,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 1,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Comekibart",
+    "max_known_six_cdr_similarity": 0.5636363636363637,
+    "design_id": "b09_d019",
+    "round": "R1",
+    "candidate_id": "R1_b09_d019",
+    "source_design_id": "b09_d019",
+    "original_full_gate_pass": null,
+    "oracle_evidence": [],
+    "oracle_status": "not_evaluated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "unselected",
+    "selection_order": null,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 123,
+        "cdrs": {
+          "1": "GFTFSSYG",
+          "2": "ITSTGGST",
+          "3": "ARDNIDYSSGVYYMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISTY",
+          "2": "AAS",
+          "3": "QQSYNYPWT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H3",
+          "position": 14,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "L3",
+          "position": 8,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 0,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -3,
+      "risk_tier": 0,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "fff906a8258c738f60fc3c5a9ad414d3fabcea0018a98e25fb84f8509765e9c5",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.23991616070270538,
+      "source_Fab_constant_target_min_distance_A": 30.097031492416882,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 560,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.300189733505249,
+        "L": 2.0494794845581055
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Urtoxazumab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6545454545454545,
+      "H3_similarity_at_nearest": 0.375,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 21,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYGMSWVRQAPGKGLEWVSAITSTGGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDNIDYSSGVYYMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISTYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYNYPWTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 453,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          150,
+          206
+        ],
+        [
+          267,
+          327
+        ],
+        [
+          373,
+          431
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 226,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 226,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 232,
+          "chain2": "H2",
+          "position2": 232
+        },
+        {
+          "chain1": "H1",
+          "position1": 235,
+          "chain2": "H2",
+          "position2": 235
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 303,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/runs/batch_16/inference_samples/il4ra_p1_h3_12_rep20/il4ra_p1_h3_12_rep20_generated.cif",
+    "task": "il4ra_p1_h3_12",
+    "sha256": "48da34e16ffdeaf1b1600009cb3401920a98b1f07458787ee4f20eabaf3a8be6",
+    "sequence_hash": "5893fac351053f0d64160a35da093897919f20eeca96a8219f9a99296f36c277",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISSTGGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARYNYLTRAMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQANNYPFTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYA",
+      "H2": "ISSTGGST",
+      "H3": "ARYNYLTRAMDY",
+      "L1": "QDISNY",
+      "L2": "AAS",
+      "L3": "QQANNYPFT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 2.2108458637148235e-06,
+    "raw_target_rmsd": 0.670953966254438,
+    "paired_framework_rmsd": 0.23727299230117246,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 17,
+    "hotspot_contacts": 3,
+    "hotspot_distances": {
+      "107": 3.150256797491846,
+      "108": 4.328599975378701,
+      "109": 3.288813672512985
+    },
+    "cdr_contact_residues": 14,
+    "cdr_contact_fraction": 0.8235294117647058,
+    "glycan_site_min_distance": 9.672818565003219,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 2,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Comekibart",
+    "max_known_six_cdr_similarity": 0.6481481481481481,
+    "design_id": "b16_d020",
+    "seed": 2026111916,
+    "example_id": "il4ra_p1_h3_12_rep20",
+    "round": "R2",
+    "candidate_id": "R2_b16_d020",
+    "source_design_id": "b16_d020",
+    "original_full_gate_pass": null,
+    "oracle_evidence": [],
+    "oracle_status": "not_evaluated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "unselected",
+    "selection_order": null,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 119,
+        "cdrs": {
+          "1": "GFTFSSYA",
+          "2": "ISSTGGST",
+          "3": "ARYNYLTRAMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "AAS",
+          "3": "QQANNYPFT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H3",
+          "position": 10,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 0,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": 0,
+      "risk_tier": 0,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "48da34e16ffdeaf1b1600009cb3401920a98b1f07458787ee4f20eabaf3a8be6",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.21906298398971558,
+      "source_Fab_constant_target_min_distance_A": 30.796001378425725,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 508,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.356814384460449,
+        "L": 2.1053667068481445
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Zeripatamig",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6666666666666667,
+      "H3_similarity_at_nearest": 0.41666666666666663,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 22,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISSTGGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARYNYLTRAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQANNYPFTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 449,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          146,
+          202
+        ],
+        [
+          263,
+          323
+        ],
+        [
+          369,
+          427
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 222,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 222,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 228,
+          "chain2": "H2",
+          "position2": 228
+        },
+        {
+          "chain1": "H1",
+          "position1": 231,
+          "chain2": "H2",
+          "position2": 231
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 299,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/runs/batch_09/inference_samples/il4ra_p1_h3_16_rep0/il4ra_p1_h3_16_rep0_generated.cif",
+    "task": "il4ra_p1_h3_16",
+    "sha256": "2ce050fdfc1dd7369d04ae3ecc109b19f01e039d0c5aa482db815c1c9166e3f4",
+    "sequence_hash": "9ec715cece58e911bdb2db70e1a8a3031300377b07b96576e574bc4480157f2e",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISSTGGTTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARRAYYDRAFGDYMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQDNNFPLTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYA",
+      "H2": "ISSTGGTT",
+      "H3": "ARRAYYDRAFGDYMDY",
+      "L1": "QDISNY",
+      "L2": "AAS",
+      "L3": "QQDNNFPLT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 2.3387827946091992e-06,
+    "raw_target_rmsd": 0.775112761048107,
+    "paired_framework_rmsd": 0.2818453886024943,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 17,
+    "hotspot_contacts": 3,
+    "hotspot_distances": {
+      "107": 2.845236106211824,
+      "108": 4.472318754326777,
+      "109": 3.915958660898686
+    },
+    "cdr_contact_residues": 15,
+    "cdr_contact_fraction": 0.7894736842105263,
+    "glycan_site_min_distance": 9.898905435856841,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 2,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Stapokibart",
+    "max_known_six_cdr_similarity": 0.6545454545454545,
+    "design_id": "b09_d000",
+    "seed": 2026111909,
+    "example_id": "il4ra_p1_h3_16_rep0",
+    "round": "R2",
+    "candidate_id": "R2_b09_d000",
+    "source_design_id": "b09_d000",
+    "original_full_gate_pass": null,
+    "oracle_evidence": [],
+    "oracle_status": "not_evaluated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "unselected",
+    "selection_order": null,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 123,
+        "cdrs": {
+          "1": "GFTFSSYA",
+          "2": "ISSTGGTT",
+          "3": "ARRAYYDRAFGDYMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "AAS",
+          "3": "QQDNNFPLT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H3",
+          "position": 14,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 0,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -2,
+      "risk_tier": 0,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "2ce050fdfc1dd7369d04ae3ecc109b19f01e039d0c5aa482db815c1c9166e3f4",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.26674216985702515,
+      "source_Fab_constant_target_min_distance_A": 30.368929263811783,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 596,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.348550319671631,
+        "L": 1.9584959745407104
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Urtoxazumab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6545454545454545,
+      "H3_similarity_at_nearest": 0.5,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 23,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISSTGGTTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARRAYYDRAFGDYMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQDNNFPLTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 453,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          150,
+          206
+        ],
+        [
+          267,
+          327
+        ],
+        [
+          373,
+          431
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 226,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 226,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 232,
+          "chain2": "H2",
+          "position2": 232
+        },
+        {
+          "chain1": "H1",
+          "position1": 235,
+          "chain2": "H2",
+          "position2": 235
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 303,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/runs/batch_00/inference_samples/il4ra_p1_h3_12_rep19/il4ra_p1_h3_12_rep19_generated.cif",
+    "task": "il4ra_p1_h3_12",
+    "sha256": "f0e12c65051e56d92f078bac8d2b7cf2be1ec76101647ceb3c79672653920fca",
+    "sequence_hash": "820657bfe6560e751c95b7442be0f5a9acf2918b8f5d46c091989f57511f2c32",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISSTGGLTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDYSFFDYMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISTYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYNFPWTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYA",
+      "H2": "ISSTGGLT",
+      "H3": "ARDYSFFDYMDY",
+      "L1": "QDISTY",
+      "L2": "SAS",
+      "L3": "QQSYNFPWT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 3.0711075205883053e-06,
+    "raw_target_rmsd": 0.7770800710539164,
+    "paired_framework_rmsd": 0.2865311331774303,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 17,
+    "hotspot_contacts": 3,
+    "hotspot_distances": {
+      "107": 3.1421635647872823,
+      "108": 4.326010444267429,
+      "109": 4.185751137630117
+    },
+    "cdr_contact_residues": 14,
+    "cdr_contact_fraction": 0.8235294117647058,
+    "glycan_site_min_distance": 11.21022198928357,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 1,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Stapokibart",
+    "max_known_six_cdr_similarity": 0.5882352941176471,
+    "design_id": "b00_d019",
+    "round": "R1",
+    "candidate_id": "R1_b00_d019",
+    "source_design_id": "b00_d019",
+    "original_full_gate_pass": null,
+    "oracle_evidence": [],
+    "oracle_status": "not_evaluated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "unselected",
+    "selection_order": null,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 119,
+        "cdrs": {
+          "1": "GFTFSSYA",
+          "2": "ISSTGGLT",
+          "3": "ARDYSFFDYMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISTY",
+          "2": "SAS",
+          "3": "QQSYNFPWT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H3",
+          "position": 10,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "L3",
+          "position": 8,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 0,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -3,
+      "risk_tier": 0,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "f0e12c65051e56d92f078bac8d2b7cf2be1ec76101647ceb3c79672653920fca",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.2710678279399872,
+      "source_Fab_constant_target_min_distance_A": 31.494332492630242,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 528,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.3208937644958496,
+        "L": 2.08250093460083
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Domagrozumab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6862745098039216,
+      "H3_similarity_at_nearest": 0.33333333333333337,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 24,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISSTGGLTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDYSFFDYMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISTYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYNFPWTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 449,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          146,
+          202
+        ],
+        [
+          263,
+          323
+        ],
+        [
+          369,
+          427
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 222,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 222,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 228,
+          "chain2": "H2",
+          "position2": 228
+        },
+        {
+          "chain1": "H1",
+          "position1": 231,
+          "chain2": "H2",
+          "position2": 231
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 299,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/runs/batch_00/inference_samples/il4ra_p1_h3_12_rep24/il4ra_p1_h3_12_rep24_generated.cif",
+    "task": "il4ra_p1_h3_12",
+    "sha256": "3a9c4f6c8dfa09a6c500c8420e769c616e3a60a828137e49777da1deabd4bfb1",
+    "sequence_hash": "52bd9a77c7bd593672da22c8dcc4138e3864c641a97c302b7f07e9b3e0b3710d",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYGMSWVRQAPGKGLEWVSAISSSGSNTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDWFPYFAMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQYYSLPWTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYG",
+      "H2": "ISSSGSNT",
+      "H3": "ARDWFPYFAMDY",
+      "L1": "QDISNY",
+      "L2": "SAS",
+      "L3": "QQYYSLPWT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 2.3906767417547966e-06,
+    "raw_target_rmsd": 1.0399395036506498,
+    "paired_framework_rmsd": 0.24316006088193676,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 10,
+    "hotspot_contacts": 2,
+    "hotspot_distances": {
+      "107": 2.9847121767178746,
+      "108": 3.306523902400573,
+      "109": 5.183034759671757
+    },
+    "cdr_contact_residues": 13,
+    "cdr_contact_fraction": 0.8125,
+    "glycan_site_min_distance": 9.605152617517597,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 0,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Comekibart",
+    "max_known_six_cdr_similarity": 0.6481481481481481,
+    "design_id": "b00_d024",
+    "seed": 2026111900,
+    "example_id": "il4ra_p1_h3_12_rep24",
+    "round": "R2",
+    "candidate_id": "R2_b00_d024",
+    "source_design_id": "b00_d024",
+    "original_full_gate_pass": null,
+    "oracle_evidence": [],
+    "oracle_status": "not_evaluated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "unselected",
+    "selection_order": null,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 119,
+        "cdrs": {
+          "1": "GFTFSSYG",
+          "2": "ISSSGSNT",
+          "3": "ARDWFPYFAMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "SAS",
+          "3": "QQYYSLPWT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H3",
+          "position": 4,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "H3",
+          "position": 10,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "L3",
+          "position": 8,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 0,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -2,
+      "risk_tier": 0,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "3a9c4f6c8dfa09a6c500c8420e769c616e3a60a828137e49777da1deabd4bfb1",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.22452187538146973,
+      "source_Fab_constant_target_min_distance_A": 28.769645521599482,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 543,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.2920854091644287,
+        "L": 2.0263583660125732
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Domagrozumab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.7058823529411764,
+      "H3_similarity_at_nearest": 0.41666666666666663,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 25,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYGMSWVRQAPGKGLEWVSAISSSGSNTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDWFPYFAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQYYSLPWTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 449,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          146,
+          202
+        ],
+        [
+          263,
+          323
+        ],
+        [
+          369,
+          427
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 222,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 222,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 228,
+          "chain2": "H2",
+          "position2": 228
+        },
+        {
+          "chain1": "H1",
+          "position1": 231,
+          "chain2": "H2",
+          "position2": 231
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 299,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/runs/batch_04/inference_samples/il4ra_p1_h3_12_rep24/il4ra_p1_h3_12_rep24_generated.cif",
+    "task": "il4ra_p1_h3_12",
+    "sha256": "d61cdccb69e55f101f11e75b04dbb134f464e1540c48886ebab5e02f35a64e0b",
+    "sequence_hash": "6b6f9473ac33fe7cc285008b85bd3b18ff78a9526974bf446d05597923a6ad56",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISSSGAVTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARNRLYFRYMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYSSPWTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYA",
+      "H2": "ISSSGAVT",
+      "H3": "ARNRLYFRYMDY",
+      "L1": "QDISNY",
+      "L2": "SAS",
+      "L3": "QQSYSSPWT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 2.537020312471754e-06,
+    "raw_target_rmsd": 0.7439155797102754,
+    "paired_framework_rmsd": 0.27652719395952585,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 12,
+    "hotspot_contacts": 3,
+    "hotspot_distances": {
+      "107": 2.695678990384878,
+      "108": 4.667719037328327,
+      "109": 3.491773681441697
+    },
+    "cdr_contact_residues": 12,
+    "cdr_contact_fraction": 0.8,
+    "glycan_site_min_distance": 8.229703584320111,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 1,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Comekibart",
+    "max_known_six_cdr_similarity": 0.6111111111111112,
+    "design_id": "b04_d024",
+    "round": "R1",
+    "candidate_id": "R1_b04_d024",
+    "source_design_id": "b04_d024",
+    "original_full_gate_pass": null,
+    "oracle_evidence": [],
+    "oracle_status": "not_evaluated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "unselected",
+    "selection_order": null,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 119,
+        "cdrs": {
+          "1": "GFTFSSYA",
+          "2": "ISSSGAVT",
+          "3": "ARNRLYFRYMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "SAS",
+          "3": "QQSYSSPWT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H3",
+          "position": 10,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "L3",
+          "position": 8,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 0,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": 1,
+      "risk_tier": 0,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "d61cdccb69e55f101f11e75b04dbb134f464e1540c48886ebab5e02f35a64e0b",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.2641047239303589,
+      "source_Fab_constant_target_min_distance_A": 29.00937282538798,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 478,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.503732204437256,
+        "L": 2.033160448074341
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Domagrozumab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6862745098039216,
+      "H3_similarity_at_nearest": 0.33333333333333337,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 26,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISSSGAVTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARNRLYFRYMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYSSPWTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 449,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          146,
+          202
+        ],
+        [
+          263,
+          323
+        ],
+        [
+          369,
+          427
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 222,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 222,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 228,
+          "chain2": "H2",
+          "position2": 228
+        },
+        {
+          "chain1": "H1",
+          "position1": 231,
+          "chain2": "H2",
+          "position2": 231
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 299,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/runs/batch_00/inference_samples/il4ra_p1_h3_12_rep20/il4ra_p1_h3_12_rep20_generated.cif",
+    "task": "il4ra_p1_h3_12",
+    "sha256": "6b755f5388efa655ae24ec87abef2527adc2484265d027fca67119d3fb10f748",
+    "sequence_hash": "41ded09f36e08f474207ad7c201246d866867a0ff3915da1c6528084346b2f21",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYWMSWVRQAPGKGLEWVSAINEGGSLTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARETWPWFAMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQTYSLPYTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYW",
+      "H2": "INEGGSLT",
+      "H3": "ARETWPWFAMDY",
+      "L1": "QDISNY",
+      "L2": "AAS",
+      "L3": "QQTYSLPYT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 3.234730188105859e-06,
+    "raw_target_rmsd": 0.8884334186499956,
+    "paired_framework_rmsd": 0.30392415426191455,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 7,
+    "hotspot_contacts": 2,
+    "hotspot_distances": {
+      "107": 2.279621641096885,
+      "108": 5.292644472320462,
+      "109": 4.440317635650174
+    },
+    "cdr_contact_residues": 8,
+    "cdr_contact_fraction": 0.8,
+    "glycan_site_min_distance": 10.169759477547489,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 1,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Stapokibart",
+    "max_known_six_cdr_similarity": 0.6274509803921569,
+    "design_id": "b00_d020",
+    "round": "R1",
+    "candidate_id": "R1_b00_d020",
+    "source_design_id": "b00_d020",
+    "original_full_gate_pass": null,
+    "oracle_evidence": [],
+    "oracle_status": "not_evaluated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "unselected",
+    "selection_order": null,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 119,
+        "cdrs": {
+          "1": "GFTFSSYW",
+          "2": "INEGGSLT",
+          "3": "ARETWPWFAMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "AAS",
+          "3": "QQTYSLPYT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H1",
+          "position": 8,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "H3",
+          "position": 5,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "H3",
+          "position": 7,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "H3",
+          "position": 10,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 0,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -3,
+      "risk_tier": 0,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "6b755f5388efa655ae24ec87abef2527adc2484265d027fca67119d3fb10f748",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.2906028628349304,
+      "source_Fab_constant_target_min_distance_A": 30.16145700556878,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 464,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.5739872455596924,
+        "L": 2.064030408859253
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Urtoxazumab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6666666666666667,
+      "H3_similarity_at_nearest": 0.41666666666666663,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 27,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYWMSWVRQAPGKGLEWVSAINEGGSLTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARETWPWFAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQTYSLPYTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 449,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          146,
+          202
+        ],
+        [
+          263,
+          323
+        ],
+        [
+          369,
+          427
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 222,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 222,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 228,
+          "chain2": "H2",
+          "position2": 228
+        },
+        {
+          "chain1": "H1",
+          "position1": 231,
+          "chain2": "H2",
+          "position2": 231
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 299,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/runs/batch_08/inference_samples/il4ra_p1_h3_12_rep20/il4ra_p1_h3_12_rep20_generated.cif",
+    "task": "il4ra_p1_h3_12",
+    "sha256": "b8aa3ddbe366f9db3b552af55bf2b0721bf840570c53ca8fad3056c8411d0857",
+    "sequence_hash": "5323b68c91dc37fc83533bd41c09ed6efa762c5b110011670bf967fa0c59c153",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISHSGSYTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARHNLAGTYMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQHYSLPWTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYA",
+      "H2": "ISHSGSYT",
+      "H3": "ARHNLAGTYMDY",
+      "L1": "QDISNY",
+      "L2": "AAS",
+      "L3": "QQHYSLPWT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 1.8234796059360724e-06,
+    "raw_target_rmsd": 0.7875190285266493,
+    "paired_framework_rmsd": 0.28339993785716755,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 15,
+    "hotspot_contacts": 3,
+    "hotspot_distances": {
+      "107": 3.5511430575788014,
+      "108": 4.807184549409435,
+      "109": 3.5979210193078126
+    },
+    "cdr_contact_residues": 15,
+    "cdr_contact_fraction": 0.75,
+    "glycan_site_min_distance": 9.030833086398868,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 2,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Stapokibart",
+    "max_known_six_cdr_similarity": 0.6666666666666667,
+    "design_id": "b08_d020",
+    "seed": 2026111908,
+    "example_id": "il4ra_p1_h3_12_rep20",
+    "round": "R2",
+    "candidate_id": "R2_b08_d020",
+    "source_design_id": "b08_d020",
+    "original_full_gate_pass": null,
+    "oracle_evidence": [],
+    "oracle_status": "not_evaluated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "unselected",
+    "selection_order": null,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 119,
+        "cdrs": {
+          "1": "GFTFSSYA",
+          "2": "ISHSGSYT",
+          "3": "ARHNLAGTYMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "AAS",
+          "3": "QQHYSLPWT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H3",
+          "position": 10,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "L3",
+          "position": 8,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 0,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -1,
+      "risk_tier": 0,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "b8aa3ddbe366f9db3b552af55bf2b0721bf840570c53ca8fad3056c8411d0857",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.269572377204895,
+      "source_Fab_constant_target_min_distance_A": 28.02680597392214,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 442,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.2944226264953613,
+        "L": 2.045708417892456
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Domagrozumab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.7058823529411764,
+      "H3_similarity_at_nearest": 0.33333333333333337,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 28,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISHSGSYTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARHNLAGTYMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQHYSLPWTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 449,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          146,
+          202
+        ],
+        [
+          263,
+          323
+        ],
+        [
+          369,
+          427
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 222,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 222,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 228,
+          "chain2": "H2",
+          "position2": 228
+        },
+        {
+          "chain1": "H1",
+          "position1": 231,
+          "chain2": "H2",
+          "position2": 231
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 299,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/runs/batch_16/inference_samples/il4ra_p1_h3_12_rep19/il4ra_p1_h3_12_rep19_generated.cif",
+    "task": "il4ra_p1_h3_12",
+    "sha256": "14b63d850e31092cf94c68e9fc03d69b8f7c1c90cfa2a418f25fa5d48655bc4d",
+    "sequence_hash": "81634307b51fd33ebf760283e44b92f8ff1872eb7127c43d57036ed8bf747c49",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYGMSWVRQAPGKGLEWVSAISWSGGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARESLSSAWMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYLASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYSFPWTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYG",
+      "H2": "ISWSGGST",
+      "H3": "ARESLSSAWMDY",
+      "L1": "QDISNY",
+      "L2": "LAS",
+      "L3": "QQSYSFPWT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 2.159232774394881e-06,
+    "raw_target_rmsd": 0.938739756650567,
+    "paired_framework_rmsd": 0.29096345778509486,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 14,
+    "hotspot_contacts": 3,
+    "hotspot_distances": {
+      "107": 2.319148587591095,
+      "108": 4.286268720877057,
+      "109": 3.414858757783924
+    },
+    "cdr_contact_residues": 15,
+    "cdr_contact_fraction": 0.75,
+    "glycan_site_min_distance": 9.590335646257609,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 0,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Comekibart",
+    "max_known_six_cdr_similarity": 0.6296296296296297,
+    "design_id": "b16_d019",
+    "seed": 2026111916,
+    "example_id": "il4ra_p1_h3_12_rep19",
+    "round": "R2",
+    "candidate_id": "R2_b16_d019",
+    "source_design_id": "b16_d019",
+    "original_full_gate_pass": null,
+    "oracle_evidence": [],
+    "oracle_status": "not_evaluated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "unselected",
+    "selection_order": null,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 119,
+        "cdrs": {
+          "1": "GFTFSSYG",
+          "2": "ISWSGGST",
+          "3": "ARESLSSAWMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "LAS",
+          "3": "QQSYSFPWT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H2",
+          "position": 3,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "H3",
+          "position": 9,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "H3",
+          "position": 10,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "L3",
+          "position": 8,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 0,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -2,
+      "risk_tier": 0,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "14b63d850e31092cf94c68e9fc03d69b8f7c1c90cfa2a418f25fa5d48655bc4d",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.2753254473209381,
+      "source_Fab_constant_target_min_distance_A": 26.840415533021936,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 479,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.4832687377929688,
+        "L": 1.8951952457427979
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Urtoxazumab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6862745098039216,
+      "H3_similarity_at_nearest": 0.33333333333333337,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 29,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYGMSWVRQAPGKGLEWVSAISWSGGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARESLSSAWMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYLASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYSFPWTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 449,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          146,
+          202
+        ],
+        [
+          263,
+          323
+        ],
+        [
+          369,
+          427
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 222,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 222,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 228,
+          "chain2": "H2",
+          "position2": 228
+        },
+        {
+          "chain1": "H1",
+          "position1": 231,
+          "chain2": "H2",
+          "position2": 231
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 299,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/runs/batch_08/inference_samples/il4ra_p1_h3_12_rep4/il4ra_p1_h3_12_rep4_generated.cif",
+    "task": "il4ra_p1_h3_12",
+    "sha256": "bda3a429f4053ecbef7c0d94ce9c817df61ea7ab2f973530c4536b3a92927018",
+    "sequence_hash": "a5ad86d73bb623d3935c00789de257d22d4b953757cbc3696e30c6a991934f39",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSNYGMSWVRQAPGKGLEWVSAINSGGGYTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARWMYSNYAMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQYNHLPWTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSNYG",
+      "H2": "INSGGGYT",
+      "H3": "ARWMYSNYAMDY",
+      "L1": "QDISNY",
+      "L2": "SAS",
+      "L3": "QQYNHLPWT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 2.1133089721298075e-06,
+    "raw_target_rmsd": 0.8285042442764782,
+    "paired_framework_rmsd": 0.2987726059874433,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 18,
+    "hotspot_contacts": 3,
+    "hotspot_distances": {
+      "107": 3.958442875233086,
+      "108": 3.4091003224559224,
+      "109": 3.4667938198040096
+    },
+    "cdr_contact_residues": 16,
+    "cdr_contact_fraction": 1.0,
+    "glycan_site_min_distance": 4.928440318720301,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 0,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Comekibart",
+    "max_known_six_cdr_similarity": 0.6481481481481481,
+    "design_id": "b08_d004",
+    "oracle": {
+      "target_aligned_fv_rmsd": 94.06328582763672,
+      "target_aligned_vh_rmsd": 102.70932006835938,
+      "target_aligned_vl_rmsd": 83.40144348144531,
+      "vh_plddt": 91.53579831932774,
+      "vl_plddt": 93.2976635514019,
+      "min_ipae_HT": 24.4,
+      "iptm_HT": 7.000000000000001,
+      "min_ipae_LT": 25.104999999999997,
+      "iptm_LT": 7.000000000000001,
+      "min_ipae_HL": 1.0550000000000002,
+      "iptm_HL": 89.0,
+      "target_interface_pass": 0,
+      "pairing_iptm": 89.0,
+      "refold_geometry_pass": 0
+    },
+    "refold_geometry": {
+      "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/oracles/set_010/results/evaluation_samples/b08_d004_ba4e674c/b08_d004_ba4e674c_of3_ppi_refolded.cif",
+      "task": "il4ra_p1_h3_12",
+      "sha256": "a27ee6080015c4cd60e6d135c74d36ec282c198575939cec8bbc90e73baf301f",
+      "sequence_hash": "a5ad86d73bb623d3935c00789de257d22d4b953757cbc3696e30c6a991934f39",
+      "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSNYGMSWVRQAPGKGLEWVSAINSGGGYTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARWMYSNYAMDYWGQGTLVTVSS",
+      "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQYNHLPWTFGQGTKVEIK",
+      "cdrs": {
+        "H1": "GFTFSNYG",
+        "H2": "INSGGGYT",
+        "H3": "ARWMYSNYAMDY",
+        "L1": "QDISNY",
+        "L2": "SAS",
+        "L3": "QQYNHLPWT"
+      },
+      "geometry_pass": false,
+      "sequence_pass": true,
+      "triage_pass": false,
+      "target_reference_rmsd": 2.1133089721298075e-06,
+      "raw_target_rmsd": 1.3141670647241646,
+      "paired_framework_rmsd": 0.4623652452516825,
+      "clash_pairs_below_2A": 44,
+      "target_contact_residues": 21,
+      "hotspot_contacts": 0,
+      "hotspot_distances": {
+        "107": 58.079787865108884,
+        "108": 54.19418356809015,
+        "109": 52.364649404223314
+      },
+      "cdr_contact_residues": 18,
+      "cdr_contact_fraction": 0.6206896551724138,
+      "glycan_site_min_distance": 13.382106076894962,
+      "extra_cdr_cysteines": 0,
+      "cdr_glycosylation_motifs": 0,
+      "donor_identical_cdr_count": 0,
+      "novelty_status": "external_reference_comparison_pending"
+    },
+    "computational_pass": false,
+    "round": "R1",
+    "candidate_id": "R1_b08_d004",
+    "source_design_id": "b08_d004",
+    "original_full_gate_pass": false,
+    "oracle_evidence": [
+      {
+        "seed": 20261118,
+        "metrics": {
+          "target_aligned_fv_rmsd": 94.06328582763672,
+          "target_aligned_vh_rmsd": 102.70932006835938,
+          "target_aligned_vl_rmsd": 83.40144348144531,
+          "vh_plddt": 91.53579831932774,
+          "vl_plddt": 93.2976635514019,
+          "min_ipae_HT": 24.4,
+          "iptm_HT": 7.000000000000001,
+          "min_ipae_LT": 25.104999999999997,
+          "iptm_LT": 7.000000000000001,
+          "min_ipae_HL": 1.0550000000000002,
+          "iptm_HL": 89.0,
+          "target_interface_pass": 0,
+          "pairing_iptm": 89.0,
+          "refold_geometry_pass": 0
+        },
+        "source": "round1_original"
+      }
+    ],
+    "oracle_status": "evaluated_uncalibrated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "priority_review",
+    "selection_order": 1,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 119,
+        "cdrs": {
+          "1": "GFTFSNYG",
+          "2": "INSGGGYT",
+          "3": "ARWMYSNYAMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "SAS",
+          "3": "QQYNHLPWT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H2",
+          "position": 2,
+          "motif": "NS",
+          "kind": "deamidation_motif"
+        },
+        {
+          "cdr": "H3",
+          "position": 3,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "H3",
+          "position": 4,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "H3",
+          "position": 10,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "L3",
+          "position": 8,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 1,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -1,
+      "risk_tier": 1,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "bda3a429f4053ecbef7c0d94ce9c817df61ea7ab2f973530c4536b3a92927018",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.28206774592399597,
+      "source_Fab_constant_target_min_distance_A": 31.389967855050767,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 458,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.436633825302124,
+        "L": 2.1459741592407227
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Girentuximab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6666666666666667,
+      "H3_similarity_at_nearest": 0.5,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 30,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSNYGMSWVRQAPGKGLEWVSAINSGGGYTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARWMYSNYAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQYNHLPWTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 449,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          146,
+          202
+        ],
+        [
+          263,
+          323
+        ],
+        [
+          369,
+          427
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 222,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 222,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 228,
+          "chain2": "H2",
+          "position2": 228
+        },
+        {
+          "chain1": "H1",
+          "position1": 231,
+          "chain2": "H2",
+          "position2": 231
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 299,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/runs/batch_13/inference_samples/il4ra_p1_h3_16_rep12/il4ra_p1_h3_16_rep12_generated.cif",
+    "task": "il4ra_p1_h3_16",
+    "sha256": "471e8011ff8b2b601c5c50cbf22493a14dc0d33bdee47b222edfbdf5abaad647",
+    "sequence_hash": "4f74122e703fbd95d99ddb31a0a54b01122175b696726b9ce273887afda9e8fc",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAINSGGGITYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAKDRDYDNILPYAMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSSHLPYTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYA",
+      "H2": "INSGGGIT",
+      "H3": "AKDRDYDNILPYAMDY",
+      "L1": "QDISNY",
+      "L2": "AAS",
+      "L3": "QQSSHLPYT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 2.469897811956153e-06,
+    "raw_target_rmsd": 0.8853465881841446,
+    "paired_framework_rmsd": 0.2593628731522428,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 13,
+    "hotspot_contacts": 3,
+    "hotspot_distances": {
+      "107": 3.0055292719936633,
+      "108": 3.5301840094727304,
+      "109": 3.6348775373507842
+    },
+    "cdr_contact_residues": 19,
+    "cdr_contact_fraction": 1.0,
+    "glycan_site_min_distance": 6.613094918392013,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 2,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Stapokibart",
+    "max_known_six_cdr_similarity": 0.6,
+    "design_id": "b13_d012",
+    "seed": 2026111913,
+    "example_id": "il4ra_p1_h3_16_rep12",
+    "round": "R2",
+    "candidate_id": "R2_b13_d012",
+    "source_design_id": "b13_d012",
+    "original_full_gate_pass": null,
+    "oracle_evidence": [],
+    "oracle_status": "not_evaluated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "priority_review",
+    "selection_order": 2,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 123,
+        "cdrs": {
+          "1": "GFTFSSYA",
+          "2": "INSGGGIT",
+          "3": "AKDRDYDNILPYAMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "AAS",
+          "3": "QQSSHLPYT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H2",
+          "position": 2,
+          "motif": "NS",
+          "kind": "deamidation_motif"
+        },
+        {
+          "cdr": "H3",
+          "position": 14,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 1,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -3,
+      "risk_tier": 1,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "471e8011ff8b2b601c5c50cbf22493a14dc0d33bdee47b222edfbdf5abaad647",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.23970896005630493,
+      "source_Fab_constant_target_min_distance_A": 32.616857190580475,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 448,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.318558692932129,
+        "L": 2.142169952392578
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Oxelumab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6363636363636364,
+      "H3_similarity_at_nearest": 0.4375,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 31,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAINSGGGITYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAKDRDYDNILPYAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSSHLPYTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 453,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          150,
+          206
+        ],
+        [
+          267,
+          327
+        ],
+        [
+          373,
+          431
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 226,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 226,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 232,
+          "chain2": "H2",
+          "position2": 232
+        },
+        {
+          "chain1": "H1",
+          "position1": 235,
+          "chain2": "H2",
+          "position2": 235
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 303,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/runs/batch_18/inference_samples/il4ra_p2_h3_12_rep24/il4ra_p2_h3_12_rep24_generated.cif",
+    "task": "il4ra_p2_h3_12",
+    "sha256": "90383b25a9c461b91b553741debd68b7a7839e7b3c161d50e1f1fcea4daff5a9",
+    "sequence_hash": "33e22101e3f6d6f2d539e2a8ff10e2941988d194a5b003c1f90f1302f7f839e1",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSDYAMSWVRQAPGKGLEWVSAISRSSSSIYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAREGPDFGAMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSNSFPYTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSDYA",
+      "H2": "ISRSSSSI",
+      "H3": "AREGPDFGAMDY",
+      "L1": "QDISNY",
+      "L2": "SAS",
+      "L3": "QQSNSFPYT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 1.749609106139428e-06,
+    "raw_target_rmsd": 0.5361699779335334,
+    "paired_framework_rmsd": 0.3189639366586111,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 19,
+    "hotspot_contacts": 2,
+    "hotspot_distances": {
+      "67": 4.452460990909754,
+      "70": 2.653282833467995
+    },
+    "cdr_contact_residues": 21,
+    "cdr_contact_fraction": 0.9130434782608695,
+    "glycan_site_min_distance": 12.20689399953386,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 0,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Comekibart",
+    "max_known_six_cdr_similarity": 0.6296296296296297,
+    "design_id": "b18_d024",
+    "seed": 2026111918,
+    "example_id": "il4ra_p2_h3_12_rep24",
+    "round": "R2",
+    "candidate_id": "R2_b18_d024",
+    "source_design_id": "b18_d024",
+    "original_full_gate_pass": null,
+    "oracle_evidence": [],
+    "oracle_status": "not_evaluated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "priority_review",
+    "selection_order": 7,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 119,
+        "cdrs": {
+          "1": "GFTFSDYA",
+          "2": "ISRSSSSI",
+          "3": "AREGPDFGAMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "SAS",
+          "3": "QQSNSFPYT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H3",
+          "position": 10,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "L3",
+          "position": 4,
+          "motif": "NS",
+          "kind": "deamidation_motif"
+        }
+      ],
+      "chemical_motif_count": 1,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -3,
+      "risk_tier": 1,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "90383b25a9c461b91b553741debd68b7a7839e7b3c161d50e1f1fcea4daff5a9",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.3049008250236511,
+      "source_Fab_constant_target_min_distance_A": 25.78283052837317,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 462,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.2233190536499023,
+        "L": 2.1514768600463867
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Inezetamab",
+      "nearest_arm": "secondary",
+      "max_six_CDR_similarity": 0.6666666666666667,
+      "H3_similarity_at_nearest": 0.41666666666666663,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 32,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSDYAMSWVRQAPGKGLEWVSAISRSSSSIYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAREGPDFGAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSNSFPYTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 449,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          146,
+          202
+        ],
+        [
+          263,
+          323
+        ],
+        [
+          369,
+          427
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 222,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 222,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 228,
+          "chain2": "H2",
+          "position2": 228
+        },
+        {
+          "chain1": "H1",
+          "position1": 231,
+          "chain2": "H2",
+          "position2": 231
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 299,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/runs/batch_11/inference_samples/il4ra_p2_h3_16_rep16/il4ra_p2_h3_16_rep16_generated.cif",
+    "task": "il4ra_p2_h3_16",
+    "sha256": "98ebe1985dabde36652025373edb108cf82bcfcdcfa6a355e9ee6b5fbd3f07c5",
+    "sequence_hash": "12e6f17867f3557e15bba538b19677bde536be80b5c34c827bef3b142a8f668a",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISGGGGNTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAKARSPATADYWAMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQSISSYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQYNSFPWTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYA",
+      "H2": "ISGGGGNT",
+      "H3": "AKARSPATADYWAMDY",
+      "L1": "QSISSY",
+      "L2": "SAS",
+      "L3": "QQYNSFPWT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 2.259938348588739e-06,
+    "raw_target_rmsd": 0.8901445950643473,
+    "paired_framework_rmsd": 0.31020925458206217,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 14,
+    "hotspot_contacts": 2,
+    "hotspot_distances": {
+      "67": 3.6917496952207376,
+      "70": 2.210284977702632
+    },
+    "cdr_contact_residues": 22,
+    "cdr_contact_fraction": 0.9565217391304348,
+    "glycan_site_min_distance": 8.194428972561191,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 2,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Stapokibart",
+    "max_known_six_cdr_similarity": 0.6,
+    "design_id": "b11_d016",
+    "oracle": {
+      "target_aligned_fv_rmsd": 86.56147003173828,
+      "target_aligned_vh_rmsd": 89.52198028564453,
+      "target_aligned_vl_rmsd": 83.02793884277344,
+      "vh_plddt": 86.11585365853658,
+      "vl_plddt": 92.50130841121495,
+      "min_ipae_HT": 26.905,
+      "iptm_HT": 6.0,
+      "min_ipae_LT": 27.345,
+      "iptm_LT": 6.0,
+      "min_ipae_HL": 1.1749999999999998,
+      "iptm_HL": 87.0,
+      "target_interface_pass": 0,
+      "pairing_iptm": 87.0,
+      "refold_geometry_pass": 0
+    },
+    "refold_geometry": {
+      "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/oracles/set_010/results/evaluation_samples/b11_d016_3ef731ba/b11_d016_3ef731ba_of3_ppi_refolded.cif",
+      "task": "il4ra_p2_h3_16",
+      "sha256": "8505e278bc713c0a38dffae61b1325595947739d94febe97c2bd72df989b0fb1",
+      "sequence_hash": "12e6f17867f3557e15bba538b19677bde536be80b5c34c827bef3b142a8f668a",
+      "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISGGGGNTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAKARSPATADYWAMDYWGQGTLVTVSS",
+      "VL": "DIQMTQSPSSLSASVGDRVTITCRASQSISSYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQYNSFPWTFGQGTKVEIK",
+      "cdrs": {
+        "H1": "GFTFSSYA",
+        "H2": "ISGGGGNT",
+        "H3": "AKARSPATADYWAMDY",
+        "L1": "QSISSY",
+        "L2": "SAS",
+        "L3": "QQYNSFPWT"
+      },
+      "geometry_pass": false,
+      "sequence_pass": true,
+      "triage_pass": false,
+      "target_reference_rmsd": 2.259938348588739e-06,
+      "raw_target_rmsd": 0.8674376022158437,
+      "paired_framework_rmsd": 0.5193081580591826,
+      "clash_pairs_below_2A": 31,
+      "target_contact_residues": 14,
+      "hotspot_contacts": 0,
+      "hotspot_distances": {
+        "67": 59.26627152205673,
+        "70": 56.044950725557854
+      },
+      "cdr_contact_residues": 23,
+      "cdr_contact_fraction": 0.8518518518518519,
+      "glycan_site_min_distance": 9.315179704902722,
+      "extra_cdr_cysteines": 0,
+      "cdr_glycosylation_motifs": 0,
+      "donor_identical_cdr_count": 2,
+      "novelty_status": "external_reference_comparison_pending"
+    },
+    "computational_pass": false,
+    "round": "R1",
+    "candidate_id": "R1_b11_d016",
+    "source_design_id": "b11_d016",
+    "original_full_gate_pass": false,
+    "oracle_evidence": [
+      {
+        "seed": 20261118,
+        "metrics": {
+          "target_aligned_fv_rmsd": 86.56147003173828,
+          "target_aligned_vh_rmsd": 89.52198028564453,
+          "target_aligned_vl_rmsd": 83.02793884277344,
+          "vh_plddt": 86.11585365853658,
+          "vl_plddt": 92.50130841121495,
+          "min_ipae_HT": 26.905,
+          "iptm_HT": 6.0,
+          "min_ipae_LT": 27.345,
+          "iptm_LT": 6.0,
+          "min_ipae_HL": 1.1749999999999998,
+          "iptm_HL": 87.0,
+          "target_interface_pass": 0,
+          "pairing_iptm": 87.0,
+          "refold_geometry_pass": 0
+        },
+        "source": "round1_original"
+      }
+    ],
+    "oracle_status": "evaluated_uncalibrated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "priority_review",
+    "selection_order": 4,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 123,
+        "cdrs": {
+          "1": "GFTFSSYA",
+          "2": "ISGGGGNT",
+          "3": "AKARSPATADYWAMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QSISSY",
+          "2": "SAS",
+          "3": "QQYNSFPWT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H3",
+          "position": 12,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "H3",
+          "position": 14,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "L3",
+          "position": 4,
+          "motif": "NS",
+          "kind": "deamidation_motif"
+        },
+        {
+          "cdr": "L3",
+          "position": 8,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 1,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": 0,
+      "risk_tier": 1,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "98ebe1985dabde36652025373edb108cf82bcfcdcfa6a355e9ee6b5fbd3f07c5",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.29569146037101746,
+      "source_Fab_constant_target_min_distance_A": 29.638144497362095,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 586,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.4065840244293213,
+        "L": 2.159553289413452
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Zeripatamig",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6727272727272727,
+      "H3_similarity_at_nearest": 0.4375,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 33,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISGGGGNTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAKARSPATADYWAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQSISSYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQYNSFPWTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 453,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          150,
+          206
+        ],
+        [
+          267,
+          327
+        ],
+        [
+          373,
+          431
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 226,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 226,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 232,
+          "chain2": "H2",
+          "position2": 232
+        },
+        {
+          "chain1": "H1",
+          "position1": 235,
+          "chain2": "H2",
+          "position2": 235
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 303,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/runs/batch_16/inference_samples/il4ra_p1_h3_12_rep7/il4ra_p1_h3_12_rep7_generated.cif",
+    "task": "il4ra_p1_h3_12",
+    "sha256": "345ee5034277ef05d73f6e418bc6207cc0892b5691995a18fa94cbf9b3fd51c7",
+    "sequence_hash": "b127a34fc89ba59cd8bb4fb45ce8d33bacd0ad4118c709119642ffb5d59dde0d",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSDYAMSWVRQAPGKGLEWVSAISWDSSYIYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARSRYLNGYMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYHASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQHYSFPLTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSDYA",
+      "H2": "ISWDSSYI",
+      "H3": "ARSRYLNGYMDY",
+      "L1": "QDISNY",
+      "L2": "HAS",
+      "L3": "QQHYSFPLT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 3.1760073710879346e-06,
+    "raw_target_rmsd": 0.983118021611774,
+    "paired_framework_rmsd": 0.2629697937365618,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 12,
+    "hotspot_contacts": 3,
+    "hotspot_distances": {
+      "107": 3.2629125314421685,
+      "108": 2.9970204753666683,
+      "109": 4.621351417781129
+    },
+    "cdr_contact_residues": 13,
+    "cdr_contact_fraction": 1.0,
+    "glycan_site_min_distance": 7.491018006191912,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 0,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Comekibart",
+    "max_known_six_cdr_similarity": 0.6296296296296297,
+    "design_id": "b16_d007",
+    "oracle": {
+      "target_aligned_fv_rmsd": 69.88249969482422,
+      "target_aligned_vh_rmsd": 60.31098556518555,
+      "target_aligned_vl_rmsd": 79.17997741699219,
+      "vh_plddt": 92.30243697478991,
+      "vl_plddt": 89.85915887850469,
+      "min_ipae_HT": 24.395,
+      "iptm_HT": 9.0,
+      "min_ipae_LT": 24.46,
+      "iptm_LT": 8.0,
+      "min_ipae_HL": 1.065,
+      "iptm_HL": 88.0,
+      "target_interface_pass": 0,
+      "pairing_iptm": 88.0,
+      "refold_geometry_pass": 0
+    },
+    "refold_geometry": {
+      "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/oracles/set_010/results/evaluation_samples/b16_d007_bc9344b2/b16_d007_bc9344b2_of3_ppi_refolded.cif",
+      "task": "il4ra_p1_h3_12",
+      "sha256": "242958ae5f5bb3c8a0421685bf5553f2a7ab7a43e6caa88fdde5ee825fb041e5",
+      "sequence_hash": "b127a34fc89ba59cd8bb4fb45ce8d33bacd0ad4118c709119642ffb5d59dde0d",
+      "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSDYAMSWVRQAPGKGLEWVSAISWDSSYIYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARSRYLNGYMDYWGQGTLVTVSS",
+      "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYHASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQHYSFPLTFGQGTKVEIK",
+      "cdrs": {
+        "H1": "GFTFSDYA",
+        "H2": "ISWDSSYI",
+        "H3": "ARSRYLNGYMDY",
+        "L1": "QDISNY",
+        "L2": "HAS",
+        "L3": "QQHYSFPLT"
+      },
+      "geometry_pass": false,
+      "sequence_pass": true,
+      "triage_pass": false,
+      "target_reference_rmsd": 3.1760073710879346e-06,
+      "raw_target_rmsd": 0.9446603914504562,
+      "paired_framework_rmsd": 0.6676782398529288,
+      "clash_pairs_below_2A": 3,
+      "target_contact_residues": 20,
+      "hotspot_contacts": 0,
+      "hotspot_distances": {
+        "107": 28.344033775106794,
+        "108": 23.619450564305907,
+        "109": 23.622398559061008
+      },
+      "cdr_contact_residues": 15,
+      "cdr_contact_fraction": 0.7894736842105263,
+      "glycan_site_min_distance": 3.8763819334917713,
+      "extra_cdr_cysteines": 0,
+      "cdr_glycosylation_motifs": 0,
+      "donor_identical_cdr_count": 0,
+      "novelty_status": "external_reference_comparison_pending"
+    },
+    "computational_pass": false,
+    "round": "R1",
+    "candidate_id": "R1_b16_d007",
+    "source_design_id": "b16_d007",
+    "original_full_gate_pass": false,
+    "oracle_evidence": [
+      {
+        "seed": 20261118,
+        "metrics": {
+          "target_aligned_fv_rmsd": 69.88249969482422,
+          "target_aligned_vh_rmsd": 60.31098556518555,
+          "target_aligned_vl_rmsd": 79.17997741699219,
+          "vh_plddt": 92.30243697478991,
+          "vl_plddt": 89.85915887850469,
+          "min_ipae_HT": 24.395,
+          "iptm_HT": 9.0,
+          "min_ipae_LT": 24.46,
+          "iptm_LT": 8.0,
+          "min_ipae_HL": 1.065,
+          "iptm_HL": 88.0,
+          "target_interface_pass": 0,
+          "pairing_iptm": 88.0,
+          "refold_geometry_pass": 0
+        },
+        "source": "round1_original"
+      }
+    ],
+    "oracle_status": "evaluated_uncalibrated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "priority_review",
+    "selection_order": 9,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 119,
+        "cdrs": {
+          "1": "GFTFSDYA",
+          "2": "ISWDSSYI",
+          "3": "ARSRYLNGYMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "HAS",
+          "3": "QQHYSFPLT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H2",
+          "position": 4,
+          "motif": "DS",
+          "kind": "isomerization_motif"
+        },
+        {
+          "cdr": "H2",
+          "position": 3,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "H3",
+          "position": 7,
+          "motif": "NG",
+          "kind": "deamidation_motif"
+        },
+        {
+          "cdr": "H3",
+          "position": 10,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 2,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -2,
+      "risk_tier": 1,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "345ee5034277ef05d73f6e418bc6207cc0892b5691995a18fa94cbf9b3fd51c7",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.24621433019638062,
+      "source_Fab_constant_target_min_distance_A": 31.642547076986578,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 555,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.2298872470855713,
+        "L": 2.042405366897583
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Freneslerbart",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6470588235294117,
+      "H3_similarity_at_nearest": 0.5,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 34,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSDYAMSWVRQAPGKGLEWVSAISWDSSYIYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARSRYLNGYMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYHASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQHYSFPLTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 449,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          146,
+          202
+        ],
+        [
+          263,
+          323
+        ],
+        [
+          369,
+          427
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 222,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 222,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 228,
+          "chain2": "H2",
+          "position2": 228
+        },
+        {
+          "chain1": "H1",
+          "position1": 231,
+          "chain2": "H2",
+          "position2": 231
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 299,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/runs/batch_01/inference_samples/il4ra_p1_h3_16_rep7/il4ra_p1_h3_16_rep7_generated.cif",
+    "task": "il4ra_p1_h3_16",
+    "sha256": "6498f8c239768944c25edddb29195efe3fc1e1adc768883c714409b32ea1a14f",
+    "sequence_hash": "7911826400ab2d19cce48272696b51228fe382118bae027340129eefa1c1f8b1",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAIDSTGGTTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDGSSSDIPFRYMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQSISNYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQANSFPLTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYA",
+      "H2": "IDSTGGTT",
+      "H3": "ARDGSSSDIPFRYMDY",
+      "L1": "QSISNY",
+      "L2": "SAS",
+      "L3": "QQANSFPLT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 2.068493985743104e-06,
+    "raw_target_rmsd": 0.58990219999395,
+    "paired_framework_rmsd": 0.2692242063174191,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 11,
+    "hotspot_contacts": 3,
+    "hotspot_distances": {
+      "107": 2.4741618628572577,
+      "108": 4.192970849032416,
+      "109": 4.552814310009321
+    },
+    "cdr_contact_residues": 19,
+    "cdr_contact_fraction": 1.0,
+    "glycan_site_min_distance": 12.679549651216004,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 1,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Comekibart",
+    "max_known_six_cdr_similarity": 0.6,
+    "design_id": "b01_d007",
+    "oracle": {
+      "target_aligned_fv_rmsd": 94.40082550048828,
+      "target_aligned_vh_rmsd": 103.51789855957031,
+      "target_aligned_vl_rmsd": 82.68768310546875,
+      "vh_plddt": 88.69365853658537,
+      "vl_plddt": 92.57009345794391,
+      "min_ipae_HT": 27.72,
+      "iptm_HT": 6.0,
+      "min_ipae_LT": 28.0,
+      "iptm_LT": 5.0,
+      "min_ipae_HL": 1.095,
+      "iptm_HL": 88.0,
+      "target_interface_pass": 0,
+      "pairing_iptm": 88.0,
+      "refold_geometry_pass": 0
+    },
+    "refold_geometry": {
+      "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/oracles/set_002/results/evaluation_samples/b01_d007_6a15a11e/b01_d007_6a15a11e_of3_ppi_refolded.cif",
+      "task": "il4ra_p1_h3_16",
+      "sha256": "81430fab03fc8f141bbe279000290e5ee4d3b1db739b941780dc4811ca267ed8",
+      "sequence_hash": "7911826400ab2d19cce48272696b51228fe382118bae027340129eefa1c1f8b1",
+      "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAIDSTGGTTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDGSSSDIPFRYMDYWGQGTLVTVSS",
+      "VL": "DIQMTQSPSSLSASVGDRVTITCRASQSISNYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQANSFPLTFGQGTKVEIK",
+      "cdrs": {
+        "H1": "GFTFSSYA",
+        "H2": "IDSTGGTT",
+        "H3": "ARDGSSSDIPFRYMDY",
+        "L1": "QSISNY",
+        "L2": "SAS",
+        "L3": "QQANSFPLT"
+      },
+      "geometry_pass": false,
+      "sequence_pass": true,
+      "triage_pass": false,
+      "target_reference_rmsd": 2.068493985743104e-06,
+      "raw_target_rmsd": 1.1459601598531695,
+      "paired_framework_rmsd": 0.6013360582746058,
+      "clash_pairs_below_2A": 20,
+      "target_contact_residues": 16,
+      "hotspot_contacts": 0,
+      "hotspot_distances": {
+        "107": 55.39310805202838,
+        "108": 54.24111420051192,
+        "109": 53.84873535438905
+      },
+      "cdr_contact_residues": 20,
+      "cdr_contact_fraction": 0.8695652173913043,
+      "glycan_site_min_distance": 4.884285605015002,
+      "extra_cdr_cysteines": 0,
+      "cdr_glycosylation_motifs": 0,
+      "donor_identical_cdr_count": 1,
+      "novelty_status": "external_reference_comparison_pending"
+    },
+    "computational_pass": false,
+    "round": "R1",
+    "candidate_id": "R1_b01_d007",
+    "source_design_id": "b01_d007",
+    "original_full_gate_pass": false,
+    "oracle_evidence": [
+      {
+        "seed": 20261118,
+        "metrics": {
+          "target_aligned_fv_rmsd": 94.40082550048828,
+          "target_aligned_vh_rmsd": 103.51789855957031,
+          "target_aligned_vl_rmsd": 82.68768310546875,
+          "vh_plddt": 88.69365853658537,
+          "vl_plddt": 92.57009345794391,
+          "min_ipae_HT": 27.72,
+          "iptm_HT": 6.0,
+          "min_ipae_LT": 28.0,
+          "iptm_LT": 5.0,
+          "min_ipae_HL": 1.095,
+          "iptm_HL": 88.0,
+          "target_interface_pass": 0,
+          "pairing_iptm": 88.0,
+          "refold_geometry_pass": 0
+        },
+        "source": "round1_original"
+      }
+    ],
+    "oracle_status": "evaluated_uncalibrated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "priority_review",
+    "selection_order": 6,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 123,
+        "cdrs": {
+          "1": "GFTFSSYA",
+          "2": "IDSTGGTT",
+          "3": "ARDGSSSDIPFRYMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QSISNY",
+          "2": "SAS",
+          "3": "QQANSFPLT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H2",
+          "position": 2,
+          "motif": "DS",
+          "kind": "isomerization_motif"
+        },
+        {
+          "cdr": "H3",
+          "position": 3,
+          "motif": "DG",
+          "kind": "isomerization_motif"
+        },
+        {
+          "cdr": "H3",
+          "position": 14,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "L3",
+          "position": 4,
+          "motif": "NS",
+          "kind": "deamidation_motif"
+        }
+      ],
+      "chemical_motif_count": 3,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -2,
+      "risk_tier": 1,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "6498f8c239768944c25edddb29195efe3fc1e1adc768883c714409b32ea1a14f",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.2527730464935303,
+      "source_Fab_constant_target_min_distance_A": 30.827276899672615,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 486,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.2229371070861816,
+        "L": 2.079824209213257
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Nuvustotug",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6909090909090909,
+      "H3_similarity_at_nearest": 0.4375,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 35,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAIDSTGGTTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDGSSSDIPFRYMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQSISNYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQANSFPLTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 453,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          150,
+          206
+        ],
+        [
+          267,
+          327
+        ],
+        [
+          373,
+          431
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 226,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 226,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 232,
+          "chain2": "H2",
+          "position2": 232
+        },
+        {
+          "chain1": "H1",
+          "position1": 235,
+          "chain2": "H2",
+          "position2": 235
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 303,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_round2_20261118/runs/batch_10/inference_samples/il4ra_p2_h3_12_rep12/il4ra_p2_h3_12_rep12_generated.cif",
+    "task": "il4ra_p2_h3_12",
+    "sha256": "3c46fc1ff06a026537f663dd07236cd2f97561b279255ae90d7bd661bc1f3c1d",
+    "sequence_hash": "3f44d2af0b06055821d99f8f36d0a2f1406f8c824d3b3c169f7ac942d58fc44e",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSNYGMSWVRQAPGKGLEWVSAINSGGGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARERVYYRAMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYGASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSASYPYTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSNYG",
+      "H2": "INSGGGST",
+      "H3": "ARERVYYRAMDY",
+      "L1": "QDISNY",
+      "L2": "GAS",
+      "L3": "QQSASYPYT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 2.930931003060855e-06,
+    "raw_target_rmsd": 0.7613394670520128,
+    "paired_framework_rmsd": 0.2603135105009148,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 20,
+    "hotspot_contacts": 2,
+    "hotspot_distances": {
+      "67": 4.281929149237457,
+      "70": 3.2859957816580048
+    },
+    "cdr_contact_residues": 20,
+    "cdr_contact_fraction": 0.9090909090909091,
+    "glycan_site_min_distance": 7.239432067158443,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 0,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Comekibart",
+    "max_known_six_cdr_similarity": 0.6296296296296297,
+    "design_id": "b10_d012",
+    "seed": 2026111910,
+    "example_id": "il4ra_p2_h3_12_rep12",
+    "round": "R2",
+    "candidate_id": "R2_b10_d012",
+    "source_design_id": "b10_d012",
+    "original_full_gate_pass": null,
+    "oracle_evidence": [],
+    "oracle_status": "not_evaluated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "priority_review",
+    "selection_order": 11,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 119,
+        "cdrs": {
+          "1": "GFTFSNYG",
+          "2": "INSGGGST",
+          "3": "ARERVYYRAMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "GAS",
+          "3": "QQSASYPYT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H2",
+          "position": 2,
+          "motif": "NS",
+          "kind": "deamidation_motif"
+        },
+        {
+          "cdr": "H3",
+          "position": 10,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 1,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": 0,
+      "risk_tier": 1,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "3c46fc1ff06a026537f663dd07236cd2f97561b279255ae90d7bd661bc1f3c1d",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.24566656351089478,
+      "source_Fab_constant_target_min_distance_A": 27.488836187562814,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 626,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.267566442489624,
+        "L": 2.0614407062530518
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Osocimab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6730769230769231,
+      "H3_similarity_at_nearest": 0.3846153846153846,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 36,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSNYGMSWVRQAPGKGLEWVSAINSGGGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARERVYYRAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYGASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSASYPYTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 449,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          146,
+          202
+        ],
+        [
+          263,
+          323
+        ],
+        [
+          369,
+          427
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 222,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 222,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 228,
+          "chain2": "H2",
+          "position2": 228
+        },
+        {
+          "chain1": "H1",
+          "position1": 231,
+          "chain2": "H2",
+          "position2": 231
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 299,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/runs/batch_11/inference_samples/il4ra_p2_h3_16_rep17/il4ra_p2_h3_16_rep17_generated.cif",
+    "task": "il4ra_p2_h3_16",
+    "sha256": "37be9949af089f5e34c17e14b4ef4f079eecd4b26c6d930abdcacd6eb867e546",
+    "sequence_hash": "2c6ab2fdeecb46faedaab82d016798bb5f78e66b57beb42858d7e4142df197e1",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISSGGGYTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARFAGSSFGASGAMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNNLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSNSFPLTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYA",
+      "H2": "ISSGGGYT",
+      "H3": "ARFAGSSFGASGAMDY",
+      "L1": "QDISNN",
+      "L2": "SAS",
+      "L3": "QQSNSFPLT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 2.18692000369548e-06,
+    "raw_target_rmsd": 0.6995335025996493,
+    "paired_framework_rmsd": 0.2470152927592948,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 8,
+    "hotspot_contacts": 2,
+    "hotspot_distances": {
+      "67": 2.319320745125358,
+      "70": 3.929519876027597
+    },
+    "cdr_contact_residues": 17,
+    "cdr_contact_fraction": 0.9444444444444444,
+    "glycan_site_min_distance": 8.336941132273289,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 1,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Stapokibart",
+    "max_known_six_cdr_similarity": 0.6545454545454545,
+    "design_id": "b11_d017",
+    "oracle": {
+      "target_aligned_fv_rmsd": 91.13803100585938,
+      "target_aligned_vh_rmsd": 97.67904663085938,
+      "target_aligned_vl_rmsd": 82.9843521118164,
+      "vh_plddt": 86.66284552845528,
+      "vl_plddt": 91.87626168224301,
+      "min_ipae_HT": 26.6,
+      "iptm_HT": 6.0,
+      "min_ipae_LT": 27.71,
+      "iptm_LT": 6.0,
+      "min_ipae_HL": 1.085,
+      "iptm_HL": 88.0,
+      "target_interface_pass": 0,
+      "pairing_iptm": 88.0,
+      "refold_geometry_pass": 0
+    },
+    "refold_geometry": {
+      "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/oracles/set_014/results/evaluation_samples/b11_d017_5eb3c6df/b11_d017_5eb3c6df_of3_ppi_refolded.cif",
+      "task": "il4ra_p2_h3_16",
+      "sha256": "3319b6626362b5113594e0f0f08ea0ba89333a94b7988ddc5f974f0aeaeb8fd2",
+      "sequence_hash": "2c6ab2fdeecb46faedaab82d016798bb5f78e66b57beb42858d7e4142df197e1",
+      "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISSGGGYTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARFAGSSFGASGAMDYWGQGTLVTVSS",
+      "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNNLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSNSFPLTFGQGTKVEIK",
+      "cdrs": {
+        "H1": "GFTFSSYA",
+        "H2": "ISSGGGYT",
+        "H3": "ARFAGSSFGASGAMDY",
+        "L1": "QDISNN",
+        "L2": "SAS",
+        "L3": "QQSNSFPLT"
+      },
+      "geometry_pass": false,
+      "sequence_pass": true,
+      "triage_pass": false,
+      "target_reference_rmsd": 2.18692000369548e-06,
+      "raw_target_rmsd": 0.9588723927108107,
+      "paired_framework_rmsd": 0.5680360207291609,
+      "clash_pairs_below_2A": 21,
+      "target_contact_residues": 14,
+      "hotspot_contacts": 0,
+      "hotspot_distances": {
+        "67": 54.178556256424024,
+        "70": 48.84999940845372
+      },
+      "cdr_contact_residues": 19,
+      "cdr_contact_fraction": 0.7916666666666666,
+      "glycan_site_min_distance": 3.8316551169149116,
+      "extra_cdr_cysteines": 0,
+      "cdr_glycosylation_motifs": 0,
+      "donor_identical_cdr_count": 1,
+      "novelty_status": "external_reference_comparison_pending"
+    },
+    "computational_pass": false,
+    "round": "R1",
+    "candidate_id": "R1_b11_d017",
+    "source_design_id": "b11_d017",
+    "original_full_gate_pass": false,
+    "oracle_evidence": [
+      {
+        "seed": 20261118,
+        "metrics": {
+          "target_aligned_fv_rmsd": 91.13803100585938,
+          "target_aligned_vh_rmsd": 97.67904663085938,
+          "target_aligned_vl_rmsd": 82.9843521118164,
+          "vh_plddt": 86.66284552845528,
+          "vl_plddt": 91.87626168224301,
+          "min_ipae_HT": 26.6,
+          "iptm_HT": 6.0,
+          "min_ipae_LT": 27.71,
+          "iptm_LT": 6.0,
+          "min_ipae_HL": 1.085,
+          "iptm_HL": 88.0,
+          "target_interface_pass": 0,
+          "pairing_iptm": 88.0,
+          "refold_geometry_pass": 0
+        },
+        "source": "round1_original"
+      }
+    ],
+    "oracle_status": "evaluated_uncalibrated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "priority_review",
+    "selection_order": 12,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 123,
+        "cdrs": {
+          "1": "GFTFSSYA",
+          "2": "ISSGGGYT",
+          "3": "ARFAGSSFGASGAMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNN",
+          "2": "SAS",
+          "3": "QQSNSFPLT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H3",
+          "position": 14,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "L3",
+          "position": 4,
+          "motif": "NS",
+          "kind": "deamidation_motif"
+        }
+      ],
+      "chemical_motif_count": 1,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -1,
+      "risk_tier": 1,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "37be9949af089f5e34c17e14b4ef4f079eecd4b26c6d930abdcacd6eb867e546",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.22797933220863342,
+      "source_Fab_constant_target_min_distance_A": 30.469591763372673,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 487,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.319685220718384,
+        "L": 2.111603021621704
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Urtoxazumab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.7272727272727273,
+      "H3_similarity_at_nearest": 0.4375,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 37,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISSGGGYTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARFAGSSFGASGAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNNLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSNSFPLTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 453,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          150,
+          206
+        ],
+        [
+          267,
+          327
+        ],
+        [
+          373,
+          431
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 226,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 226,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 232,
+          "chain2": "H2",
+          "position2": 232
+        },
+        {
+          "chain1": "H1",
+          "position1": 235,
+          "chain2": "H2",
+          "position2": 235
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 303,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/runs/batch_12/inference_samples/il4ra_p1_h3_12_rep12/il4ra_p1_h3_12_rep12_generated.cif",
+    "task": "il4ra_p1_h3_12",
+    "sha256": "b2d45504aad15b0579d3659d449eae180f7c699e735a4fc936da2d89434b7b8c",
+    "sequence_hash": "0eb78e10122dfb6ee52081d8f765a366d957c6f91bcc55251a49a9b95552d3b4",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYGMSWVRQAPGKGLEWVSAISWDSGSIYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDHHSSDAMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISTYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSNSYPWTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYG",
+      "H2": "ISWDSGSI",
+      "H3": "ARDHHSSDAMDY",
+      "L1": "QDISTY",
+      "L2": "SAS",
+      "L3": "QQSNSYPWT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 1.7485227409927137e-06,
+    "raw_target_rmsd": 0.8553370414889397,
+    "paired_framework_rmsd": 0.2489838582356667,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 9,
+    "hotspot_contacts": 3,
+    "hotspot_distances": {
+      "107": 4.659552892800456,
+      "108": 3.0333284689899798,
+      "109": 3.460987827162458
+    },
+    "cdr_contact_residues": 11,
+    "cdr_contact_fraction": 1.0,
+    "glycan_site_min_distance": 10.121306545148164,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 0,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Comekibart",
+    "max_known_six_cdr_similarity": 0.6111111111111112,
+    "design_id": "b12_d012",
+    "oracle": {
+      "target_aligned_fv_rmsd": 59.916664123535156,
+      "target_aligned_vh_rmsd": 48.83432388305664,
+      "target_aligned_vl_rmsd": 70.21671295166016,
+      "vh_plddt": 91.0773949579832,
+      "vl_plddt": 95.16785046728971,
+      "min_ipae_HT": 12.03,
+      "iptm_HT": 41.0,
+      "min_ipae_LT": 12.455,
+      "iptm_LT": 38.0,
+      "min_ipae_HL": 0.905,
+      "iptm_HL": 90.0,
+      "target_interface_pass": 0,
+      "pairing_iptm": 90.0,
+      "refold_geometry_pass": 0
+    },
+    "refold_geometry": {
+      "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/oracles/set_010/results/evaluation_samples/b12_d012_c56d1235/b12_d012_c56d1235_of3_ppi_refolded.cif",
+      "task": "il4ra_p1_h3_12",
+      "sha256": "45bcb648bf42a9e0a60b148a0848bf5507dffa1bf131b784adeaf0d6c2df3222",
+      "sequence_hash": "0eb78e10122dfb6ee52081d8f765a366d957c6f91bcc55251a49a9b95552d3b4",
+      "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYGMSWVRQAPGKGLEWVSAISWDSGSIYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDHHSSDAMDYWGQGTLVTVSS",
+      "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISTYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSNSYPWTFGQGTKVEIK",
+      "cdrs": {
+        "H1": "GFTFSSYG",
+        "H2": "ISWDSGSI",
+        "H3": "ARDHHSSDAMDY",
+        "L1": "QDISTY",
+        "L2": "SAS",
+        "L3": "QQSNSYPWT"
+      },
+      "geometry_pass": false,
+      "sequence_pass": true,
+      "triage_pass": false,
+      "target_reference_rmsd": 1.7485227409927137e-06,
+      "raw_target_rmsd": 1.040134831423975,
+      "paired_framework_rmsd": 0.6855419318547814,
+      "clash_pairs_below_2A": 2,
+      "target_contact_residues": 25,
+      "hotspot_contacts": 0,
+      "hotspot_distances": {
+        "107": 23.321492081831288,
+        "108": 17.869119390390086,
+        "109": 17.82706378211077
+      },
+      "cdr_contact_residues": 0,
+      "cdr_contact_fraction": 0.0,
+      "glycan_site_min_distance": 1.6043674836241184,
+      "extra_cdr_cysteines": 0,
+      "cdr_glycosylation_motifs": 0,
+      "donor_identical_cdr_count": 0,
+      "novelty_status": "external_reference_comparison_pending"
+    },
+    "computational_pass": false,
+    "round": "R1",
+    "candidate_id": "R1_b12_d012",
+    "source_design_id": "b12_d012",
+    "original_full_gate_pass": false,
+    "oracle_evidence": [
+      {
+        "seed": 20261118,
+        "metrics": {
+          "target_aligned_fv_rmsd": 59.916664123535156,
+          "target_aligned_vh_rmsd": 48.83432388305664,
+          "target_aligned_vl_rmsd": 70.21671295166016,
+          "vh_plddt": 91.0773949579832,
+          "vl_plddt": 95.16785046728971,
+          "min_ipae_HT": 12.03,
+          "iptm_HT": 41.0,
+          "min_ipae_LT": 12.455,
+          "iptm_LT": 38.0,
+          "min_ipae_HL": 0.905,
+          "iptm_HL": 90.0,
+          "target_interface_pass": 0,
+          "pairing_iptm": 90.0,
+          "refold_geometry_pass": 0
+        },
+        "source": "round1_original"
+      }
+    ],
+    "oracle_status": "evaluated_uncalibrated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "priority_review",
+    "selection_order": 13,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 119,
+        "cdrs": {
+          "1": "GFTFSSYG",
+          "2": "ISWDSGSI",
+          "3": "ARDHHSSDAMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISTY",
+          "2": "SAS",
+          "3": "QQSNSYPWT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H2",
+          "position": 4,
+          "motif": "DS",
+          "kind": "isomerization_motif"
+        },
+        {
+          "cdr": "H2",
+          "position": 3,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "H3",
+          "position": 10,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "L3",
+          "position": 4,
+          "motif": "NS",
+          "kind": "deamidation_motif"
+        },
+        {
+          "cdr": "L3",
+          "position": 8,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 2,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -4,
+      "risk_tier": 1,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "b2d45504aad15b0579d3659d449eae180f7c699e735a4fc936da2d89434b7b8c",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.2325095385313034,
+      "source_Fab_constant_target_min_distance_A": 31.84667951227861,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 504,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.4021828174591064,
+        "L": 2.0201032161712646
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Domvanalimab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6666666666666667,
+      "H3_similarity_at_nearest": 0.5,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 38,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYGMSWVRQAPGKGLEWVSAISWDSGSIYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDHHSSDAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISTYLNWYQQKPGKAPKLLIYSASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSNSYPWTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 449,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          146,
+          202
+        ],
+        [
+          263,
+          323
+        ],
+        [
+          369,
+          427
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 222,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 222,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 228,
+          "chain2": "H2",
+          "position2": 228
+        },
+        {
+          "chain1": "H1",
+          "position1": 231,
+          "chain2": "H2",
+          "position2": 231
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 299,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/runs/batch_05/inference_samples/il4ra_p1_h3_16_rep6/il4ra_p1_h3_16_rep6_generated.cif",
+    "task": "il4ra_p1_h3_16",
+    "sha256": "cfbb1dd389e57f5643e83604173ec9dccb01b4ee4218ee0b364a2784eda7b0d5",
+    "sequence_hash": "d244c782d411850ab790b40f7d164e83a9e689c4c1ce8937c4c1318a5d229b89",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSLYAMSWVRQAPGKGLEWVSAISSDGGYTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAKDRYPASSSPIAMDVWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSNWLPYTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSLYA",
+      "H2": "ISSDGGYT",
+      "H3": "AKDRYPASSSPIAMDV",
+      "L1": "QDISNY",
+      "L2": "AAS",
+      "L3": "QQSNWLPYT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 2.152630514186429e-06,
+    "raw_target_rmsd": 0.7213665537497238,
+    "paired_framework_rmsd": 0.2228723780047879,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 20,
+    "hotspot_contacts": 3,
+    "hotspot_distances": {
+      "107": 4.2138933057922605,
+      "108": 2.581787730612756,
+      "109": 3.1841115102257147
+    },
+    "cdr_contact_residues": 18,
+    "cdr_contact_fraction": 1.0,
+    "glycan_site_min_distance": 7.776191702227796,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 1,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Stapokibart",
+    "max_known_six_cdr_similarity": 0.6363636363636364,
+    "design_id": "b05_d006",
+    "oracle": {
+      "target_aligned_fv_rmsd": 68.83039855957031,
+      "target_aligned_vh_rmsd": 77.73916625976562,
+      "target_aligned_vl_rmsd": 56.89125442504883,
+      "vh_plddt": 77.79536585365852,
+      "vl_plddt": 78.73355140186915,
+      "min_ipae_HT": 23.585,
+      "iptm_HT": 8.0,
+      "min_ipae_LT": 21.835,
+      "iptm_LT": 8.0,
+      "min_ipae_HL": 22.685000000000002,
+      "iptm_HL": 8.0,
+      "target_interface_pass": 0,
+      "pairing_iptm": 8.0,
+      "refold_geometry_pass": 0
+    },
+    "refold_geometry": {
+      "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/oracles/set_002/results/evaluation_samples/b05_d006_53004dfd/b05_d006_53004dfd_of3_ppi_refolded.cif",
+      "task": "il4ra_p1_h3_16",
+      "sha256": "cc33c3ef6b4fcb348ecc7b5110b6ae6d77c675f8b18f7488eb63176a4978e769",
+      "sequence_hash": "d244c782d411850ab790b40f7d164e83a9e689c4c1ce8937c4c1318a5d229b89",
+      "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSLYAMSWVRQAPGKGLEWVSAISSDGGYTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAKDRYPASSSPIAMDVWGQGTLVTVSS",
+      "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSNWLPYTFGQGTKVEIK",
+      "cdrs": {
+        "H1": "GFTFSLYA",
+        "H2": "ISSDGGYT",
+        "H3": "AKDRYPASSSPIAMDV",
+        "L1": "QDISNY",
+        "L2": "AAS",
+        "L3": "QQSNWLPYT"
+      },
+      "geometry_pass": false,
+      "sequence_pass": true,
+      "triage_pass": false,
+      "target_reference_rmsd": 2.152630514186429e-06,
+      "raw_target_rmsd": 1.0750997056880518,
+      "paired_framework_rmsd": 13.662335799196295,
+      "clash_pairs_below_2A": 12,
+      "target_contact_residues": 31,
+      "hotspot_contacts": 0,
+      "hotspot_distances": {
+        "107": 35.251344582285036,
+        "108": 33.80395422024856,
+        "109": 28.566658969962216
+      },
+      "cdr_contact_residues": 20,
+      "cdr_contact_fraction": 0.5405405405405406,
+      "glycan_site_min_distance": 8.030943874276623,
+      "extra_cdr_cysteines": 0,
+      "cdr_glycosylation_motifs": 0,
+      "donor_identical_cdr_count": 1,
+      "novelty_status": "external_reference_comparison_pending"
+    },
+    "computational_pass": false,
+    "round": "R1",
+    "candidate_id": "R1_b05_d006",
+    "source_design_id": "b05_d006",
+    "original_full_gate_pass": false,
+    "oracle_evidence": [
+      {
+        "seed": 20261118,
+        "metrics": {
+          "target_aligned_fv_rmsd": 68.83039855957031,
+          "target_aligned_vh_rmsd": 77.73916625976562,
+          "target_aligned_vl_rmsd": 56.89125442504883,
+          "vh_plddt": 77.79536585365852,
+          "vl_plddt": 78.73355140186915,
+          "min_ipae_HT": 23.585,
+          "iptm_HT": 8.0,
+          "min_ipae_LT": 21.835,
+          "iptm_LT": 8.0,
+          "min_ipae_HL": 22.685000000000002,
+          "iptm_HL": 8.0,
+          "target_interface_pass": 0,
+          "pairing_iptm": 8.0,
+          "refold_geometry_pass": 0
+        },
+        "source": "round1_original"
+      }
+    ],
+    "oracle_status": "evaluated_uncalibrated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "priority_review",
+    "selection_order": 10,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 123,
+        "cdrs": {
+          "1": "GFTFSLYA",
+          "2": "ISSDGGYT",
+          "3": "AKDRYPASSSPIAMDV"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "AAS",
+          "3": "QQSNWLPYT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H2",
+          "position": 4,
+          "motif": "DG",
+          "kind": "isomerization_motif"
+        },
+        {
+          "cdr": "H3",
+          "position": 14,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "L3",
+          "position": 5,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 1,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": -2,
+      "risk_tier": 1,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "cfbb1dd389e57f5643e83604173ec9dccb01b4ee4218ee0b364a2784eda7b0d5",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.20569594204425812,
+      "source_Fab_constant_target_min_distance_A": 31.789557171453467,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 465,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.284757137298584,
+        "L": 2.1015853881835938
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Oxelumab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6363636363636364,
+      "H3_similarity_at_nearest": 0.4375,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 39,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSLYAMSWVRQAPGKGLEWVSAISSDGGYTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAKDRYPASSSPIAMDVWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSNWLPYTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 453,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          150,
+          206
+        ],
+        [
+          267,
+          327
+        ],
+        [
+          373,
+          431
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 226,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 226,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 232,
+          "chain2": "H2",
+          "position2": 232
+        },
+        {
+          "chain1": "H1",
+          "position1": 235,
+          "chain2": "H2",
+          "position2": 235
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 303,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/runs/batch_06/inference_samples/il4ra_p2_h3_12_rep18/il4ra_p2_h3_12_rep18_generated.cif",
+    "task": "il4ra_p2_h3_12",
+    "sha256": "2b1c05fc07a10f2481b8abd9875929c657a25e4ffd2569b023b9205288b69427",
+    "sequence_hash": "ef53a3198645fc71e9f2a3538fc59ac79303808f833d4973ba3c3d88526c9441",
+    "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISYDSSYIYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARWKYGYRAMDYWGQGTLVTVSS",
+    "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQAYSYPFTFGQGTKVEIK",
+    "cdrs": {
+      "H1": "GFTFSSYA",
+      "H2": "ISYDSSYI",
+      "H3": "ARWKYGYRAMDY",
+      "L1": "QDISNY",
+      "L2": "AAS",
+      "L3": "QQAYSYPFT"
+    },
+    "geometry_pass": true,
+    "sequence_pass": true,
+    "triage_pass": true,
+    "target_reference_rmsd": 3.281958157465447e-06,
+    "raw_target_rmsd": 0.7950053720146605,
+    "paired_framework_rmsd": 0.28739501699927306,
+    "clash_pairs_below_2A": 0,
+    "target_contact_residues": 15,
+    "hotspot_contacts": 2,
+    "hotspot_distances": {
+      "67": 2.2261301465863492,
+      "70": 3.906935558526974
+    },
+    "cdr_contact_residues": 20,
+    "cdr_contact_fraction": 0.9090909090909091,
+    "glycan_site_min_distance": 7.962797530613878,
+    "extra_cdr_cysteines": 0,
+    "cdr_glycosylation_motifs": 0,
+    "donor_identical_cdr_count": 2,
+    "novelty_status": "frozen_reference_screen_only; broader_novelty_review_required",
+    "known_reference_similar": 0,
+    "closest_known_reference": "Comekibart",
+    "max_known_six_cdr_similarity": 0.6296296296296297,
+    "design_id": "b06_d018",
+    "oracle": {
+      "target_aligned_fv_rmsd": 92.39913940429688,
+      "target_aligned_vh_rmsd": 101.04554748535156,
+      "target_aligned_vl_rmsd": 81.71548461914062,
+      "vh_plddt": 91.37630252100841,
+      "vl_plddt": 92.43626168224297,
+      "min_ipae_HT": 24.5,
+      "iptm_HT": 8.0,
+      "min_ipae_LT": 25.25,
+      "iptm_LT": 7.000000000000001,
+      "min_ipae_HL": 1.085,
+      "iptm_HL": 89.0,
+      "target_interface_pass": 0,
+      "pairing_iptm": 89.0,
+      "refold_geometry_pass": 0
+    },
+    "refold_geometry": {
+      "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/campaign_local500_20261117/oracles/set_006/results/evaluation_samples/b06_d018_ad6e6dd1/b06_d018_ad6e6dd1_of3_ppi_refolded.cif",
+      "task": "il4ra_p2_h3_12",
+      "sha256": "a8ca609956e6fb2797f497138566691cba495b22a251b227d8eed5160515616b",
+      "sequence_hash": "ef53a3198645fc71e9f2a3538fc59ac79303808f833d4973ba3c3d88526c9441",
+      "VH": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISYDSSYIYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARWKYGYRAMDYWGQGTLVTVSS",
+      "VL": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQAYSYPFTFGQGTKVEIK",
+      "cdrs": {
+        "H1": "GFTFSSYA",
+        "H2": "ISYDSSYI",
+        "H3": "ARWKYGYRAMDY",
+        "L1": "QDISNY",
+        "L2": "AAS",
+        "L3": "QQAYSYPFT"
+      },
+      "geometry_pass": false,
+      "sequence_pass": true,
+      "triage_pass": false,
+      "target_reference_rmsd": 3.281958157465447e-06,
+      "raw_target_rmsd": 1.1583168804590327,
+      "paired_framework_rmsd": 0.5165409678165763,
+      "clash_pairs_below_2A": 21,
+      "target_contact_residues": 19,
+      "hotspot_contacts": 0,
+      "hotspot_distances": {
+        "67": 56.96123353502322,
+        "70": 54.87681991193143
+      },
+      "cdr_contact_residues": 22,
+      "cdr_contact_fraction": 0.8148148148148148,
+      "glycan_site_min_distance": 16.805792868046133,
+      "extra_cdr_cysteines": 0,
+      "cdr_glycosylation_motifs": 0,
+      "donor_identical_cdr_count": 2,
+      "novelty_status": "external_reference_comparison_pending"
+    },
+    "computational_pass": false,
+    "round": "R1",
+    "candidate_id": "R1_b06_d018",
+    "source_design_id": "b06_d018",
+    "original_full_gate_pass": false,
+    "oracle_evidence": [
+      {
+        "seed": 20261118,
+        "metrics": {
+          "target_aligned_fv_rmsd": 92.39913940429688,
+          "target_aligned_vh_rmsd": 101.04554748535156,
+          "target_aligned_vl_rmsd": 81.71548461914062,
+          "vh_plddt": 91.37630252100841,
+          "vl_plddt": 92.43626168224297,
+          "min_ipae_HT": 24.5,
+          "iptm_HT": 8.0,
+          "min_ipae_LT": 25.25,
+          "iptm_LT": 7.000000000000001,
+          "min_ipae_HL": 1.085,
+          "iptm_HL": 89.0,
+          "target_interface_pass": 0,
+          "pairing_iptm": 89.0,
+          "refold_geometry_pass": 0
+        },
+        "source": "round1_original"
+      }
+    ],
+    "oracle_status": "evaluated_uncalibrated",
+    "screen_reasons": [],
+    "review_eligible": true,
+    "duplicate_of": null,
+    "queue": "priority_review",
+    "selection_order": 19,
+    "numbering": {
+      "H": {
+        "chain_type": "H",
+        "start": 0,
+        "end": 119,
+        "cdrs": {
+          "1": "GFTFSSYA",
+          "2": "ISYDSSYI",
+          "3": "ARWKYGYRAMDY"
+        },
+        "framework": "EVQLLESGGGLVQPGGSLRLSCAASMSWVRQAPGKGLEWVSAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCWGQGTLVTVSS",
+        "conserved_C_positions": [
+          22,
+          96
+        ]
+      },
+      "L": {
+        "chain_type": "K",
+        "start": 0,
+        "end": 107,
+        "cdrs": {
+          "1": "QDISNY",
+          "2": "AAS",
+          "3": "QQAYSYPFT"
+        },
+        "framework": "DIQMTQSPSSLSASVGDRVTITCRASLNWYQQKPGKAPKLLIYSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCFGQGTKVEIK",
+        "conserved_C_positions": [
+          23,
+          88
+        ]
+      }
+    },
+    "sequence_liabilities": {
+      "motif_hits": [
+        {
+          "cdr": "H2",
+          "position": 4,
+          "motif": "DS",
+          "kind": "isomerization_motif"
+        },
+        {
+          "cdr": "H3",
+          "position": 3,
+          "motif": "W",
+          "kind": "oxidation_susceptible_residue"
+        },
+        {
+          "cdr": "H3",
+          "position": 10,
+          "motif": "M",
+          "kind": "oxidation_susceptible_residue"
+        }
+      ],
+      "chemical_motif_count": 1,
+      "hydrophobic_runs_ge5": [],
+      "CDR_KR_minus_DE": 0,
+      "risk_tier": 1,
+      "interpretation": "Sequence flags are prioritization heuristics, not measured degradation, aggregation or expression."
+    },
+    "assembly_geometry": {
+      "source_sha256": "2b1c05fc07a10f2481b8abd9875929c657a25e4ffd2569b023b9205288b69427",
+      "source_fab": "5I19",
+      "source_framework_CA_fit_rmsd_A": 0.27177461981773376,
+      "source_Fab_constant_target_min_distance_A": 29.08320435856528,
+      "source_Fab_constant_target_clashes_below_2A": 0,
+      "Fv_HL_clashes_below_2A": 0,
+      "Fv_HL_atom_contacts_below_5A": 526,
+      "Fv_intrachain_SG_distance_A": {
+        "H": 2.4164280891418457,
+        "L": 2.018415689468384
+      },
+      "full_H2L2_3D_assembly_validated": false,
+      "limitation": "Rigid 5I19 Fab-elbow placement only; no hinge/Fc, second arm, relaxation or explicit glycans."
+    },
+    "broader_novelty": {
+      "reference_pairs": 1243,
+      "flagged_matches": [],
+      "nearest_name": "Enfortumab",
+      "nearest_arm": "primary",
+      "max_six_CDR_similarity": 0.6862745098039216,
+      "H3_similarity_at_nearest": 0.5,
+      "scope": "Frozen local TheraSAbDab CSV (clinical-status column Feb 2025), paired sequences with successful IMGT numbering; not exhaustive novelty or patent clearance."
+    },
+    "additional_review_reasons": [],
+    "review_v2_eligible": true,
+    "review_v2_rank": 40,
+    "review_v2_queue": "reserve",
+    "IgG": {
+      "HC": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISYDSSYIYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARWKYGYRAMDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+      "LC": "DIQMTQSPSSLSASVGDRVTITCRASQDISNYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQAYSYPFTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+      "HC_length": 449,
+      "LC_length": 214,
+      "VH_CH_junction": "GQGTLVTVSS|ASTKGPSVFP",
+      "VL_CL_junction": "FGQGTKVEIK|RTVAAPSVFI",
+      "HC_intrachain_disulfide_positions": [
+        [
+          22,
+          96
+        ],
+        [
+          146,
+          202
+        ],
+        [
+          263,
+          323
+        ],
+        [
+          369,
+          427
+        ]
+      ],
+      "LC_intrachain_disulfide_positions": [
+        [
+          23,
+          88
+        ],
+        [
+          134,
+          194
+        ]
+      ],
+      "H2L2_interchain_disulfide_positions": [
+        {
+          "chain1": "H1",
+          "position1": 222,
+          "chain2": "L1",
+          "position2": 214
+        },
+        {
+          "chain1": "H2",
+          "position1": 222,
+          "chain2": "L2",
+          "position2": 214
+        },
+        {
+          "chain1": "H1",
+          "position1": 228,
+          "chain2": "H2",
+          "position2": 228
+        },
+        {
+          "chain1": "H1",
+          "position1": 231,
+          "chain2": "H2",
+          "position2": 231
+        }
+      ],
+      "Fc_N_glycosylation_N_position": 299,
+      "sequence_assembly_pass": true,
+      "disulfide_interpretation": "Expected connectivity from conserved sequence; not proof of actual oxidation or assembly.",
+      "full_H2L2_3D_assembly_validated": false
+    }
+  }
+]

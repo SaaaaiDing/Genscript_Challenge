@@ -1,0 +1,60 @@
+{
+  "id": "paired_fv_v1",
+  "name": "Conservative computational review eligibility",
+  "criteria": [
+    {
+      "metric": "triage_pass",
+      "operator": "==",
+      "threshold": 1,
+      "missing": "fail"
+    },
+    {
+      "metric": "refold_geometry_pass",
+      "operator": "==",
+      "threshold": 1,
+      "missing": "fail"
+    },
+    {
+      "metric": "target_aligned_fv_rmsd",
+      "operator": "<=",
+      "threshold": 2.5,
+      "missing": "fail"
+    },
+    {
+      "metric": "vh_plddt",
+      "operator": ">=",
+      "threshold": 80,
+      "missing": "fail"
+    },
+    {
+      "metric": "vl_plddt",
+      "operator": ">=",
+      "threshold": 80,
+      "missing": "fail"
+    },
+    {
+      "metric": "target_interface_pass",
+      "operator": "==",
+      "threshold": 1,
+      "missing": "fail"
+    },
+    {
+      "metric": "pairing_iptm",
+      "operator": ">=",
+      "threshold": 60,
+      "missing": "fail"
+    },
+    {
+      "metric": "cdr_glycosylation_motifs",
+      "operator": "==",
+      "threshold": 0,
+      "missing": "fail"
+    },
+    {
+      "metric": "known_reference_similar",
+      "operator": "==",
+      "threshold": 0,
+      "missing": "fail"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/annotated/il4ra_p1_h3_12.cif",
+    "sha256": "df7b1f4b1215688f08bc98af8695e8481522b2add45b09bca9738ff07806d035",
+    "checks": "pipeline, molecule, gaps, all six CDR conditions",
+    "hotspot_atoms": 3
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/annotated/il4ra_p1_h3_16.cif",
+    "sha256": "b60e64de7b101a6d4c92850c74253d8ea50dd7865575e64e2f971176623d5f78",
+    "checks": "pipeline, molecule, gaps, all six CDR conditions",
+    "hotspot_atoms": 3
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/annotated/il4ra_p2_h3_12.cif",
+    "sha256": "eb0487dedc63746019c4f9243b3f4b7c25065c7f45cbaae1632bbf5313a92641",
+    "checks": "pipeline, molecule, gaps, all six CDR conditions",
+    "hotspot_atoms": 2
+  },
+  {
+    "path": "/storage/group/yjz5549/default/GenScript_challenge/computational/inputs/annotated/il4ra_p2_h3_16.cif",
+    "sha256": "1cd3815c64b8bf3614bdf5c4719458e0e2bf18da19fba83eac8d76c4dd52048f",
+    "checks": "pipeline, molecule, gaps, all six CDR conditions",
+    "hotspot_atoms": 2
+  }
+]

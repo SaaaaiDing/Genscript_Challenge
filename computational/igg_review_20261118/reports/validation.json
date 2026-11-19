@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "candidate_count": 40,
+  "workbooks": 2,
+  "FASTA_records": 80,
+  "full_H2L2_expected_disulfides_per_candidate": 16,
+  "all_cysteines_accounted_once": true,
+  "max_selected_six_CDR_similarity": 0.7843137254901961,
+  "source_CIF_hashes_verified": 40,
+  "independent_CSV_JSON_workbook_FASTA_consistency": true,
+  "actual_full_IgG_3D_validation": false
+}

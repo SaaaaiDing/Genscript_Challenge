@@ -1,0 +1,89 @@
+{
+  "status": "incomplete",
+  "gpu_enabled": false,
+  "jobs_submitted": 0,
+  "checks": {
+    "environment_metadata": {
+      "status": "passed",
+      "result": {
+        "active_prefix": "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/.venv",
+        "active_executable": "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/.venv/bin/python",
+        "active_versions": {
+          "rfd4-proteina": "0.0.3",
+          "torch": "2.14.1+cu126",
+          "atomworks": "3.0.4",
+          "biotite": "1.6.0",
+          "hydra-core": "1.3.8",
+          "anarcii": "2.0.8"
+        },
+        "requested_environment": {
+          "prefix": "/storage/group/yjz5549/default/RFD4/env",
+          "packages": {}
+        }
+      }
+    },
+    "cached_assets": {
+      "status": "passed",
+      "result": {
+        "files": [
+          {
+            "path": "/storage/group/yjz5549/default/RFD4/huggingface/hub/models--nvidia--RFD4-Proteina/snapshots/a06e2509c7033b010fc43614e9fd840303588502/config.json",
+            "exists": true,
+            "bytes": 7270
+          },
+          {
+            "path": "/storage/group/yjz5549/default/RFD4/huggingface/hub/models--nvidia--RFD4-Proteina/snapshots/a06e2509c7033b010fc43614e9fd840303588502/model.safetensors",
+            "exists": true,
+            "bytes": 1742660596
+          },
+          {
+            "path": "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/data_path/openfold3/runtime/of3_af3_refolding_env-cuda12.sif",
+            "exists": true,
+            "bytes": 4000178176
+          },
+          {
+            "path": "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/data_path/openfold3/weights/of3_ported_weights.bin.zst",
+            "exists": true,
+            "bytes": 1369238320
+          }
+        ],
+        "verification": "File presence and size only; weights were not loaded."
+      }
+    },
+    "hydra_composition": {
+      "status": "failed",
+      "error": "AssertionError: "
+    },
+    "cpu_imports": {
+      "status": "passed",
+      "result": {
+        "modules": {
+          "torch": "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/.venv/lib/python3.12/site-packages/torch/__init__.py",
+          "atomworks": "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/.venv/lib/python3.12/site-packages/atomworks/__init__.py",
+          "rfproteina.conditions": "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/src/rfproteina/conditions.py",
+          "rfproteina.inference_utils.condition_spec": "/storage/group/yjz5549/default/RFD4/RFD4-Proteina/src/rfproteina/inference_utils/condition_spec.py"
+        },
+        "cuda_initialized": false
+      }
+    },
+    "paired_confidence_counterexample": {
+      "status": "passed",
+      "result": {
+        "synthetic_fixture": true,
+        "metrics": {
+          "min_ipae_H_L": 0.5,
+          "min_ipae_H_T": 18.0,
+          "min_ipae_L_T": 20.0,
+          "min_ipae_coi": 0.5
+        },
+        "conclusion": "The COI minimum can select VH-VL and is unsafe as a target-binding criterion."
+      }
+    }
+  },
+  "elapsed_seconds": 85.6,
+  "peak_rss_mib": 940.01,
+  "cpu_affinity": [
+    1
+  ],
+  "scope": "CPU preparation only; not GPU preflight, input round-trip, inference, or oracle validation."
+}
